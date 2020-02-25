@@ -1,0 +1,25 @@
+
+#HOME=/home/kotteda
+tripath=/work/04051/vkotteda/stampede2/trilinos_3rd_openmp/install1  
+lapack=/work/04051/vkotteda/stampede2/Trilinos/tpl/lapack/install
+src=$(pwd)
+mfix=$(pwd)
+wrapper=$(pwd)
+parmetis=$HOME/parmetis/install
+MKL_ROOT=/opt/intel/mkl/lib/intel64_lin_mic
+
+#fname=test3
+#fname=clean4
+fname=solve_ifpack
+exe=solve_ifpack.exe
+#exe=CWrapper_tpmu.exe
+
+mpicxx -std=c++11 -O3 -qopenmp -xCORE-AVX2 -xMIC-AVX512 -axMIC-AVX512 -mkl -std=c++11 -openmp -O3 -DNDEBUG -o $exe  $fname.cpp  -I$tripath/include -L$tripath/lib -I$tripath/include -lpiro -lrol -lstokhos_muelu -lstokhos_ifpack2 -lstokhos_amesos2 -lstokhos_tpetra -lstokhos_sacado -lstokhos -ltempus -lrythmos -lmuelu-adapters -lmuelu-interface -lmuelu -llocathyra -llocaepetra -llocalapack -lloca -lnoxepetra -lnoxlapack -lnox -lstk_io_util -lstk_io -lstk_mesh_base -lstk_topology -lstk_util_use_cases -lstk_util_registry -lstk_util_diag -lstk_util_env -lstk_util_parallel -lstk_util_util -lstk_io_util -lstk_io -lstk_mesh_base -lstk_topology -lstk_util_use_cases -lstk_util_registry -lstk_util_diag -lstk_util_env -lstk_util_parallel -lstk_util_util -lintrepid2 -lintrepid -lteko -lstratimikos -lstratimikosbelos -lstratimikosaztecoo -lstratimikosamesos -lstratimikosml -lstratimikosifpack -lifpack2-adapters -lifpack2 -lanasazitpetra -lModeLaplace -lanasaziepetra -lanasazi -laprepro_lib -lio_info_lib -lIonit -lIotr -lIohb -lIogn -lIovs -lIopg -lIoexo_fac -lIofx -lIoex -lIoss -lexodus -laprepro_lib -lio_info_lib -lIonit -lIotr -lIohb -lIogn -lIovs -lIopg -lIoexo_fac -lIofx -lIoex -lIoss -lexodus -lamesos2 -lbelostpetra -lbelosepetra -lbelos -lml -lifpack -lpamgen_extras -lpamgen -lamesos -lgaleri-xpetra -lgaleri-epetra -laztecoo -loptipack -lxpetra-sup -lxpetra -lthyratpetra -lthyraepetraext -lthyraepetra -lthyracore -lthyratpetra -lthyraepetraext -lthyraepetra -lthyracore -lepetraext -ltrilinosss -ltpetraext -ltpetrainout -ltpetra -lkokkostsqr -ltpetraclassiclinalg -ltpetraclassicnodeapi -ltpetraclassic -ltpetraext -ltpetrainout -ltpetra -lkokkostsqr -ltpetraclassiclinalg -ltpetraclassicnodeapi -ltpetraclassic -ltriutils -lglobipack -lshards -lepetra -lminitensor -lsacado -lrtop -lkokkoskernels -lteuchoskokkoscomm -lteuchoskokkoscompat -lteuchosremainder -lteuchosnumerics -lteuchoscomm -lteuchosparameterlist -lteuchoscore -lteuchoskokkoscomm -lteuchoskokkoscompat -lteuchosremainder -lteuchosnumerics -lteuchoscomm -lteuchosparameterlist -lteuchoscore -lkokkosalgorithms -lkokkoscontainers -lkokkoscore -lkokkosalgorithms -lkokkoscontainers -lkokkoscore -lgtest -L$MKL_ROOT -lmkl_intel_lp64 -lmkl_blas95_lp64 -lmkl_core -lmkl_sequential -lmkl_lapack95_lp64  -lstdc++ -Wl,--no-as-needed -ldl
+
+
+#mpicxx -std=c++11 -O3 -qopenmp -xMIC-AVX512 -axmic-avx512 -mkl -openmp -o $exe  $fname.cpp  -I$tripath/include -L$tripath/lib -I$tripath/include -lpiro -lrol -lstokhos_muelu -lstokhos_ifpack2 -lstokhos_amesos2 -lstokhos_tpetra -lstokhos_sacado -lstokhos -ltempus -lrythmos -lmuelu-adapters -lmuelu-interface -lmuelu -llocathyra -llocaepetra -llocalapack -lloca -lnoxepetra -lnoxlapack -lnox -lstk_io_util -lstk_io -lstk_mesh_base -lstk_topology -lstk_util_use_cases -lstk_util_registry -lstk_util_diag -lstk_util_env -lstk_util_parallel -lstk_util_util -lstk_io_util -lstk_io -lstk_mesh_base -lstk_topology -lstk_util_use_cases -lstk_util_registry -lstk_util_diag -lstk_util_env -lstk_util_parallel -lstk_util_util -lintrepid2 -lintrepid -lteko -lstratimikos -lstratimikosbelos -lstratimikosaztecoo -lstratimikosamesos -lstratimikosml -lstratimikosifpack -lifpack2-adapters -lifpack2 -lanasazitpetra -lModeLaplace -lanasaziepetra -lanasazi -laprepro_lib -lio_info_lib -lIonit -lIotr -lIohb -lIogn -lIovs -lIopg -lIoexo_fac -lIofx -lIoex -lIoss -lexodus -laprepro_lib -lio_info_lib -lIonit -lIotr -lIohb -lIogn -lIovs -lIopg -lIoexo_fac -lIofx -lIoex -lIoss -lexodus -lamesos2 -lbelostpetra -lbelosepetra -lbelos -lml -lifpack -lpamgen_extras -lpamgen -lamesos -lgaleri-xpetra -lgaleri-epetra -laztecoo -loptipack -lxpetra-sup -lxpetra -lthyratpetra -lthyraepetraext -lthyraepetra -lthyracore -lthyratpetra -lthyraepetraext -lthyraepetra -lthyracore -lepetraext -ltrilinosss -ltpetraext -ltpetrainout -ltpetra -lkokkostsqr -ltpetraclassiclinalg -ltpetraclassicnodeapi -ltpetraclassic -ltpetraext -ltpetrainout -ltpetra -lkokkostsqr -ltpetraclassiclinalg -ltpetraclassicnodeapi -ltpetraclassic -ltriutils -lglobipack -lshards -lepetra -lminitensor -lsacado -lrtop -lkokkoskernels -lteuchoskokkoscomm -lteuchoskokkoscompat -lteuchosremainder -lteuchosnumerics -lteuchoscomm -lteuchosparameterlist -lteuchoscore -lteuchoskokkoscomm -lteuchoskokkoscompat -lteuchosremainder -lteuchosnumerics -lteuchoscomm -lteuchosparameterlist -lteuchoscore -lkokkosalgorithms -lkokkoscontainers -lkokkoscore -lkokkosalgorithms -lkokkoscontainers -lkokkoscore -lgtest -L$MKL_ROOT -lmkl_intel_lp64 -lmkl_blas95_lp64 -lmkl_core -lmkl_sequential -lmkl_lapack95_lp64  -lstdc++ -Wl,--no-as-needed -ldl
+#--kokkos-threads=   # threads
+#--kokkos-numa=      # numa 
+#--kokkos-ndevices=  # "ndevices" is the only argument take takes two numbers separated by , 
+#--kokkos-device=    # devices 
+

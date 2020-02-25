@@ -1,0 +1,10 @@
+#!/bin/bash
+#SBATCH -J MPIj             # job name
+#SBATCH -o output.txt       # output and error file name (%j expands to jobID)
+#SBATCH --ntasks-per-node=1
+#SBATCH -N 1                # total number of mpi tasks requested
+#SBATCH -p compute          # queue (partition) -- compute, development, etc.
+#SBATCH -t 00:30:00         # run time (hh:mm:ss) - 1.5 hours
+
+source /home/vkotteda/mpi_kokkosserial
+ibrun -np 1 /home/vkotteda/mfix_mpi3d_v1p3_all1/mfixnew 

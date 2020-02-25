@@ -1,0 +1,2028 @@
+ myRank15625
+
+--------------------------------------------------------------------------------
+---                            Multigrid Summary                             ---
+--------------------------------------------------------------------------------
+Number of levels    = 1
+Operator complexity = 1.00
+Cycle type          = V
+
+level     rows      nnz  nnz/row  c ratio  procs
+  0    1000000  6999758     7.00               64
+
+Smoother (level 0) pre  : "Ifpack2::Relaxation": {Initialized: true, Computed: true, Type: Jacobi, sweeps: 1, damping factor: 0.8, Global matrix dimensions: [1000000, 1000000], Global nnz: 6999758}
+Smoother (level 0) post : no smoother
+
+=====================================================================================================================
+
+                                       TimeMonitor results over 64 processors
+
+Timer Name          Local time (num calls)    MinOverProcs    MeanOverProcs    MaxOverProcs    MeanOverCallCounts    
+---------------------------------------------------------------------------------------------------------------------
+MueLu setup time    0.01509 (1)               0.01396 (1)     0.01464 (1)      0.0151 (1)      0.01464 (1)           
+=====================================================================================================================
+Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i Belos_rho_i 000
+000
+Belos_beta 00000
+000
+
+
+Belos_beta 
+0
+
+
+
+
+
+Belos_beta 
+Belos_beta 
+
+0Belos_beta Belos_beta Belos_beta Belos_beta 
+Belos_beta Belos_beta Belos_beta Belos_beta Belos_beta 0Belos_beta 0Belos_beta Belos_beta 
+
+000000
+
+0000
+
+00
+
+
+
+
+
+
+
+
+Belos_p_i 0Belos_p_i 
+0
+Belos_p_i Belos_p_i 00
+Belos_p_i Belos_p_i Belos_p_i 
+Belos_p_i Belos_p_i 00Belos_p_i 
+0Belos_p_i Belos_p_i 0
+00
+
+Belos_p_i 
+00
+Belos_p_i 0
+
+Belos_p_i 
+00
+
+Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i 000000000
+000
+
+
+
+
+0
+
+
+
+
+
+Belos_beta 
+
+Belos_beta Belos_beta Belos_beta Belos_beta Belos_beta Belos_beta 0
+Belos_beta Belos_beta Belos_beta Belos_beta Belos_beta Belos_beta 000
+Belos_beta Belos_beta 0
+0
+
+0
+00000
+
+0
+0
+
+0
+Belos_beta 
+
+
+
+
+0
+Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 
+Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0000
+0000
+0
+000Belos_beta 000
+Belos_beta 
+
+
+
+
+Belos_beta 
+Belos_beta 
+
+0Belos_beta 0
+0
+
+Belos_beta Belos_beta Belos_beta Belos_beta Belos_beta 0Belos_beta 0Belos_beta 
+Belos_beta 0
+Belos_beta 0Belos_beta 
+000Belos_beta 
+00
+0
+
+
+00
+
+0
+
+
+
+
+
+Belos_p_i Belos_p_i Belos_p_i Belos_p_i Belos_p_i Belos_p_i 0000
+
+
+
+Belos_p_i Belos_p_i Belos_p_i 0Belos_p_i Belos_p_i 0Belos_p_i 
+Belos_p_i 00Belos_p_i Belos_p_i 00Belos_p_i 
+0Belos_p_i 
+
+
+00
+0
+0
+
+
+Belos_p_i 
+0
+0Belos_p_i 0
+
+0
+Belos_p_i Belos_p_i 0Belos_p_i Belos_p_i 
+0Belos_p_i 00
+Belos_p_i 
+Belos_p_i 
+0Belos_p_i 0Belos_p_i 
+Belos_p_i 00Belos_p_i 
+00
+
+0Belos_p_i 
+
+Belos_p_i 0
+
+0
+Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 00Belos_rho_i Belos_rho_i 0000000
+000
+0
+
+
+0Belos_beta 
+0
+
+
+
+
+
+Belos_beta 
+
+Belos_beta 
+0Belos_beta Belos_beta 0Belos_beta Belos_beta 
+Belos_beta 0Belos_beta Belos_beta Belos_beta Belos_beta 00Belos_beta 0
+0
+Belos_beta Belos_beta 00
+000
+Belos_beta 0
+
+
+0
+0
+
+
+
+
+
+
+0
+Belos_p_i Belos_p_i Belos_p_i 00
+0
+Belos_p_i Belos_p_i Belos_p_i Belos_p_i 0Belos_p_i 00
+Belos_p_i Belos_p_i 
+Belos_p_i Belos_p_i 0Belos_p_i 0
+
+0Belos_p_i 0Belos_p_i 
+00
+00
+
+
+
+10
+
+
+Belos_p_i 0
+Belos_p_i 0
+Belos_v_i Belos_v_i Belos_v_i Belos_v_i 10Belos_v_i 000Belos_v_i 
+Belos_v_i 0Belos_v_i 
+Belos_v_i Belos_v_i 
+
+Belos_v_i Belos_v_i Belos_v_i 
+Belos_v_i 0Belos_v_i 0000Belos_v_i 000
+
+
+00
+
+
+
+
+0
+
+
+Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i 000Belos_v_i 
+Belos_v_i 0Belos_v_i 0Belos_v_i 
+Belos_v_i 
+Belos_v_i Belos_v_i Belos_v_i 
+Belos_v_i Belos_v_i 000Belos_v_i 000
+0
+
+
+
+000
+0
+
+
+
+
+
+Belos_v_i Belos_v_i Belos_v_i 00Belos_v_i 
+
+0Belos_v_i Belos_v_i 
+Belos_v_i 0
+Belos_v_i 0010
+Belos_v_i 
+Belos_v_i 
+0Belos_v_i Belos_v_i Belos_v_i 
+000Belos_v_i 
+00
+
+
+Belos_v_i 
+0Belos_v_i 
+0
+0
+Belos_v_i Belos_v_i 00
+
+Belos_v_i Belos_v_i Belos_v_i 00Belos_v_i 0
+Belos_v_i 
+Belos_v_i 
+Belos_v_i 0Belos_v_i Belos_v_i 0Belos_v_i 
+
+Belos_v_i Belos_v_i Belos_v_i Belos_v_i 001000000
+
+
+
+
+0
+
+
+
+Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 00Belos_alpha Belos_alpha Belos_alpha 
+00000
+Belos_alpha 0
+00000
+0
+
+
+0
+
+
+0
+
+
+
+
+
+Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 00Belos_alpha 00Belos_alpha Belos_alpha Belos_alpha Belos_alpha 00
+
+00
+0
+
+0
+
+Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 00Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 0Belos_alpha Belos_alpha Belos_alpha 000000
+
+
+0000
+
+00
+
+
+
+
+
+
+
+
+
+0
+Belos_s 0
+Belos_s 0
+Belos_s Belos_s 00
+
+Belos_s Belos_s Belos_s Belos_s 00Belos_s Belos_s 0Belos_s 0
+Belos_s Belos_s 
+Belos_s Belos_s 000
+
+0Belos_s 00
+
+0
+
+
+
+0
+
+Belos_s 0
+Belos_s 0Belos_s 
+Belos_s 0
+Belos_s 0Belos_s Belos_s 0Belos_s Belos_s 0Belos_s Belos_s 
+Belos_s Belos_s Belos_s 00
+
+Belos_s 00Belos_s 
+1000
+
+
+0
+0
+
+0
+
+
+
+
+000
+
+Belos_alpha 
+
+000
+
+
+Belos_s Belos_s 0
+0
+Belos_s Belos_s 00
+Belos_s 
+Belos_s Belos_s Belos_s 00
+0
+0Belos_s 
+
+0Belos_s Belos_s 
+Belos_s 00Belos_s 
+Belos_s 
+0Belos_s 0
+Belos_s 000
+
+
+
+Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 00Belos_alpha 
+Belos_alpha Belos_alpha 0000
+0
+Belos_alpha 1000
+
+00
+
+0Belos_alpha 
+
+
+0
+
+
+
+0
+0
+Belos_s 0
+Belos_s 0
+Belos_s Belos_s 0Belos_s 0
+Belos_s 
+0
+0
+Belos_s Belos_s 0Belos_s Belos_s 0
+Belos_s 
+00Belos_s Belos_s 
+0Belos_s 
+0Belos_s 0
+
+0Belos_s 
+00
+
+
+Belos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_t00Belos_t
+000
+00
+0
+
+000
+
+
+
+0
+0
+
+
+Belos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_t0000Belos_t
+Belos_t00Belos_tBelos_tBelos_tBelos_tBelos_tBelos_t
+
+
+0
+
+00Belos_t0000
+0
+
+
+0
+
+
+Belos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_t0Belos_tBelos_tBelos_t00000
+
+
+
+00Belos_tBelos_t00Belos_t0
+
+
+
+
+
+
+000Belos_tBelos_t00
+0
+
+
+
+Belos_t0
+
+
+0
+
+Belos_tBelos_tBelos_tBelos_tBelos_t0Belos_t0Belos_tBelos_t
+
+00Belos_tBelos_t
+0Belos_t0Belos_tBelos_t0
+0Belos_t
+0
+000
+0
+
+
+
+0
+Belos_tBelos_t
+Belos_t0
+
+00
+
+Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 0Belos_omega_i Belos_omega_i 0Belos_omega_i Belos_omega_i Belos_omega_i 010000
+
+000Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 0Belos_omega_i Belos_omega_i 0000Belos_omega_i 
+00
+00
+0
+Belos_omega_i 
+
+Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 00Belos_omega_i 0
+0
+
+
+
+0
+0
+0
+00
+
+
+
+
+
+
+
+0Belos_omega_i 0
+
+0Belos_omega_i 
+Belos_omega_i 0Belos_omega_i 0
+
+Belos_omega_i 
+Belos_omega_i 
+
+Belos_omega_i 
+Belos_omega_i Belos_omega_i 000
+
+0
+0
+
+0Belos_omega_i 
+10Belos_omega_i 0
+
+Belos_omega_i 0
+0
+Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 0Belos_omega_i 00000Belos_omega_i 00
+
+
+0Belos_omega_i 0
+
+0Belos_x_i Belos_x_i Belos_x_i 0
+00Belos_x_i Belos_x_i Belos_x_i 
+Belos_x_i 0Belos_x_i Belos_omega_i 0
+Belos_x_i 0
+Belos_x_i Belos_x_i 0Belos_x_i Belos_x_i 
+0Belos_x_i 0
+0Belos_x_i 0
+Belos_x_i 
+Belos_x_i 
+0
+Belos_x_i Belos_x_i Belos_x_i Belos_x_i Belos_x_i 
+0Belos_x_i 0
+0000000
+0
+
+
+
+
+
+
+
+Belos_ r_i 
+0
+Belos_ r_i 0Belos_x_i Belos_x_i Belos_x_i 0
+Belos_x_i 
+Belos_x_i 
+00Belos_x_i 000
+
+
+Belos_ r_i 
+0
+Belos_ r_i 0
+Belos_ r_i 
+0
+0Belos_ r_i 
+Belos_ r_i 0Belos_ r_i 
+00
+
+Belos_ r_i 0
+Belos_ r_i Belos_ r_i 0Belos_ r_i 0Belos_ r_i 0
+
+0Belos_ r_i Belos_ r_i 
+Belos_ r_i Belos_ r_i 0Belos_ r_i 00
+0
+Belos_ r_i Belos_ r_i 0Belos_ r_i 
+
+
+
+0
+
+0
+
+Belos_x_i 0
+Belos_x_i Belos_x_i 0Belos_x_i Belos_x_i 0
+
+00Belos_x_i 
+Belos_x_i 
+Belos_x_i Belos_x_i Belos_x_i 0Belos_x_i 
+Belos_x_i 0000
+
+Belos_ r_i 
+
+
+0
+Belos_ r_i Belos_ r_i Belos_ r_i 
+Belos_ r_i Belos_ r_i 0000Belos_x_i 0
+Belos_ r_i 0
+00
+
+
+
+
+Belos_x_i 
+Belos_x_i 00
+0Belos_ r_i 
+
+0
+Belos_omega_i Belos_omega_i Belos_x_i Belos_omega_i 00Belos_x_i Belos_x_i 
+Belos_x_i 00
+0
+00Belos_x_i 
+Belos_x_i 
+
+0
+Belos_x_i 0
+
+0Belos_x_i Belos_x_i Belos_x_i 
+000Belos_x_i 
+
+
+0Belos_x_i 
+0
+00Belos_x_i 0
+0
+
+
+Belos_ r_i 
+10
+0
+
+Belos_ r_i Belos_ r_i 0
+0Belos_ r_i 
+0Belos_ r_i 
+0
+Belos_ r_i 0
+Belos_ r_i Belos_ r_i Belos_ r_i Belos_ r_i 000Belos_ r_i 
+Belos_ r_i 
+00Belos_ r_i 
+0
+
+Belos_ r_i Belos_ r_i 0
+
+0
+0
+Belos_ r_i 0
+Belos_ r_i Belos_ r_i 0Belos_x_i Belos_ r_i 
+00
+Belos_ r_i 
+Belos_ r_i Belos_ r_i 0
+00Belos_ r_i 0
+
+Belos_ r_i Belos_ r_i Belos_ r_i Belos_ r_i 
+0Belos_ r_i 00
+00
+
+0
+
+
+Belos_x_i 0
+Belos_omega_i Belos_omega_i Belos_omega_i 00
+0
+
+Belos_x_i 0
+Belos_x_i 0
+Belos_ r_i 0
+Belos_ r_i 0
+Belos_ r_i 0
+Belos_ r_i 0
+Belos_x_i Belos_x_i 0
+Belos_x_i 0
+0
+Belos_ r_i 0
+Belos_ r_i 0Belos_ r_i 
+0
+Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i Belos_rho_i 
+Belos_rho_i Belos_rho_i 0
+0
+0Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i 0Belos_rho_i Belos_rho_i 
+0000000000
+
+0
+
+Belos_beta 00
+Belos_beta 
+0
+
+Belos_beta Belos_beta 
+
+
+Belos_beta 
+Belos_beta 0Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 10Belos_rho_i Belos_rho_i 
+Belos_rho_i Belos_rho_i 00Belos_rho_i 0
+
+00010
+
+0Belos_beta 
+000
+
+0Belos_beta 0Belos_beta 00
+
+
+
+Belos_beta 
+Belos_beta Belos_beta Belos_beta Belos_beta Belos_beta 00
+
+
+0
+0
+Belos_beta Belos_beta 
+0Belos_beta Belos_beta 
+000
+Belos_beta 0
+Belos_beta 
+Belos_beta 0000
+0
+
+
+
+0
+
+
+
+Belos_p_i 0
+Belos_p_i 0
+Belos_p_i Belos_p_i 0
+0
+Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i Belos_rho_i Belos_rho_i 00Belos_rho_i 
+Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 00Belos_rho_i 0
+0
+Belos_beta Belos_beta 0
+000
+
+0
+
+
+
+00
+0
+0
+Belos_beta Belos_beta Belos_beta Belos_beta Belos_beta 0Belos_beta Belos_beta 
+0Belos_beta Belos_beta 
+Belos_beta 
+00Belos_beta 
+000
+000
+Belos_beta 
+0
+
+
+
+
+0
+
+
+Belos_rho_i Belos_rho_i 00
+
+Belos_beta 0Belos_beta 
+0
+0
+0
+00000
+0
+0Belos_beta 00
+Belos_beta Belos_beta Belos_beta Belos_beta 
+
+0
+
+Belos_beta 
+Belos_beta Belos_beta 0
+00Belos_beta 0
+
+Belos_beta 000Belos_beta 0Belos_beta 
+Belos_beta Belos_beta 
+
+0Belos_beta 
+
+0Belos_beta 
+0
+
+
+000
+
+
+0
+
+
+
+Belos_p_i 0
+Belos_p_i 0
+Belos_p_i 0
+Belos_p_i Belos_p_i Belos_p_i Belos_p_i 0Belos_p_i 0
+0Belos_p_i 0
+0Belos_p_i 
+
+Belos_p_i 0
+00
+
+
+Belos_p_i 0
+Belos_p_i 0Belos_p_i 
+Belos_p_i Belos_p_i Belos_p_i Belos_p_i 00
+
+Belos_p_i Belos_p_i Belos_p_i Belos_p_i 0000Belos_p_i 
+0Belos_p_i 
+Belos_p_i Belos_p_i 00
+0
+Belos_p_i 
+0Belos_p_i Belos_p_i 
+Belos_p_i Belos_p_i 000
+
+
+0Belos_p_i Belos_p_i 
+0
+Belos_p_i Belos_p_i 00
+
+Belos_p_i Belos_p_i 0
+00
+
+Belos_p_i Belos_p_i Belos_p_i Belos_p_i Belos_p_i 0000
+
+
+
+0000
+
+
+
+
+Belos_p_i 
+
+
+Belos_beta 0Belos_beta 
+
+0
+0Belos_beta 
+Belos_beta 0Belos_beta 0Belos_beta Belos_beta 
+000Belos_beta 0
+Belos_beta 
+00
+Belos_beta 
+
+
+00
+0
+
+
+0
+
+
+Belos_p_i 0
+Belos_p_i 0
+Belos_p_i Belos_p_i 0
+0Belos_p_i Belos_p_i 
+00Belos_p_i 
+
+Belos_p_i 0Belos_p_i Belos_p_i 0Belos_p_i Belos_p_i Belos_p_i 
+Belos_p_i Belos_p_i 00
+000
+Belos_p_i 00
+
+
+
+
+
+0
+Belos_p_i 0
+0
+Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i 0Belos_v_i 00Belos_v_i 0
+Belos_v_i 0Belos_v_i Belos_v_i 00
+0
+Belos_v_i 0
+
+000
+0
+Belos_v_i Belos_v_i 
+
+
+Belos_v_i 
+
+00
+0
+
+Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i 00000
+000
+Belos_v_i 00Belos_v_i 0
+00
+Belos_v_i 
+0
+
+Belos_v_i 
+
+
+
+
+
+
+00
+
+Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i 000Belos_v_i 
+0Belos_v_i Belos_v_i Belos_v_i Belos_v_i 0Belos_v_i 0
+0
+Belos_v_i Belos_v_i Belos_v_i 
+0000
+00
+
+0
+0
+
+0
+
+
+
+
+
+
+Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i 0Belos_v_i 000Belos_v_i 000
+0
+00
+0
+
+0
+
+
+
+
+0
+
+
+Belos_v_i Belos_v_i 0Belos_v_i 
+0
+0
+Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 0Belos_alpha 0Belos_alpha Belos_alpha Belos_alpha Belos_alpha 0Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 0Belos_alpha Belos_alpha Belos_alpha 0Belos_alpha Belos_alpha 
+Belos_alpha 00Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 0Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 0000
+
+00000
+
+00
+00Belos_alpha 01000
+
+0
+
+
+
+
+
+
+0
+
+
+Belos_s 0
+Belos_s Belos_s 0Belos_s 
+0
+0000
+
+00
+
+
+
+
+
+
+
+
+
+Belos_s 0
+Belos_s Belos_alpha 
+
+Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 0000000
+00000
+
+0
+0
+
+0Belos_s 
+Belos_s 0Belos_s 0
+0
+Belos_s 
+Belos_s Belos_s Belos_s Belos_s Belos_s 000Belos_s 0Belos_s 
+00
+
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+Belos_s Belos_s Belos_alpha 0
+00
+
+Belos_s Belos_alpha Belos_alpha Belos_alpha 0Belos_alpha Belos_alpha 
+Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 0Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 
+000000000
+0000
+0
+
+
+
+
+
+
+
+0
+Belos_s 0Belos_s 0Belos_s 
+Belos_s 0Belos_s 0
+Belos_s Belos_s Belos_s 0Belos_s Belos_s Belos_s 0
+Belos_s Belos_s Belos_s Belos_s 00
+Belos_s Belos_s Belos_s 00Belos_s Belos_s Belos_s 0
+
+0
+0
+0000
+000
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Belos_s 0
+Belos_s 0Belos_s Belos_s Belos_s 00
+0Belos_s 
+
+Belos_s 0Belos_s Belos_s 
+0Belos_s Belos_s Belos_s Belos_s 00Belos_s Belos_s 
+0
+
+000
+
+Belos_s 00
+
+
+0Belos_s 
+
+
+0
+Belos_s 0
+Belos_s Belos_s Belos_s 
+0
+00
+0Belos_s Belos_s 
+
+
+0
+0
+Belos_tBelos_tBelos_tBelos_tBelos_tBelos_t0Belos_tBelos_tBelos_t00Belos_t0Belos_t
+00Belos_t
+
+Belos_t0Belos_tBelos_t00
+Belos_t
+
+000
+
+
+0
+00
+
+
+0
+
+
+Belos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_t0Belos_t00000Belos_tBelos_t0
+0
+
+000Belos_t
+
+
+Belos_t0
+
+
+
+
+00Belos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_t00Belos_tBelos_t0
+10Belos_tBelos_t000Belos_t
+0
+00
+Belos_t
+Belos_t0
+0
+010
+0
+
+
+0Belos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_t0Belos_tBelos_t
+Belos_tBelos_tBelos_t100Belos_t
+000Belos_t0Belos_t
+0Belos_t01000
+0
+
+
+
+
+0
+00
+
+
+
+
+
+
+
+00
+
+
+
+
+
+
+
+Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 0Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 0Belos_omega_i 0Belos_omega_i Belos_omega_i 
+000000
+
+
+000010
+0
+
+0
+
+
+
+
+
+
+
+
+Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 0Belos_omega_i Belos_omega_i 
+Belos_omega_i 10Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 0Belos_omega_i 000000
+0100
+
+00
+0
+0
+
+
+
+
+
+Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 0Belos_omega_i Belos_omega_i 0Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 000
+0000
+00
+0
+0
+0010
+
+
+
+
+
+
+
+
+
+
+Belos_x_i 0
+Belos_x_i Belos_x_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 0Belos_omega_i Belos_omega_i Belos_omega_i 0
+Belos_omega_i 0Belos_omega_i Belos_omega_i 0000000
+
+
+00
+00
+
+
+0
+
+0
+
+
+
+
+
+Belos_x_i 00Belos_x_i 0
+Belos_x_i 
+0Belos_x_i 0
+Belos_x_i 
+
+
+
+Belos_x_i 0
+Belos_x_i Belos_x_i Belos_x_i 00
+Belos_x_i 0
+Belos_x_i 0Belos_x_i Belos_x_i 
+Belos_x_i 
+0Belos_x_i Belos_x_i Belos_x_i Belos_x_i 00Belos_x_i 
+
+Belos_ r_i 0
+Belos_x_i 000
+Belos_x_i 0
+Belos_x_i Belos_x_i 0
+Belos_x_i 0Belos_x_i Belos_x_i 
+000Belos_x_i 
+
+Belos_x_i 
+Belos_x_i Belos_x_i Belos_x_i 00Belos_ r_i Belos_x_i Belos_x_i Belos_x_i 00000
+Belos_x_i 0
+
+0
+
+Belos_ r_i 
+Belos_ r_i 
+
+0Belos_ r_i 
+0
+
+Belos_x_i 0
+Belos_ r_i Belos_ r_i 0
+
+00
+00Belos_ r_i 
+
+Belos_ r_i 
+00Belos_ r_i 
+
+
+Belos_x_i 0Belos_x_i 0Belos_x_i Belos_x_i Belos_x_i Belos_x_i 000
+
+0Belos_x_i 
+Belos_x_i 00
+
+
+
+000Belos_ r_i Belos_ r_i 
+
+0
+Belos_ r_i 
+00
+
+Belos_ r_i Belos_ r_i 
+00
+0Belos_ r_i Belos_ r_i 
+
+00
+
+Belos_ r_i 0
+Belos_ r_i Belos_ r_i 00Belos_ r_i 
+Belos_x_i 0
+Belos_x_i Belos_x_i 00
+
+Belos_x_i Belos_x_i Belos_x_i 0Belos_x_i 0
+Belos_x_i 0Belos_x_i Belos_x_i 
+Belos_x_i Belos_x_i Belos_x_i Belos_x_i 0Belos_x_i 
+Belos_x_i 0000
+0000
+
+
+Belos_ r_i 
+Belos_ r_i Belos_ r_i 0
+
+
+
+000
+Belos_ r_i 
+
+
+0Belos_ r_i 
+0Belos_ r_i 
+0Belos_ r_i 
+0
+Belos_ r_i Belos_ r_i Belos_ r_i 0Belos_ r_i 00
+
+
+0Belos_ r_i Belos_ r_i Belos_ r_i Belos_ r_i 0
+000
+
+
+
+
+10Belos_ r_i 
+0
+Belos_ r_i 
+Belos_ r_i 0Belos_ r_i Belos_ r_i Belos_ r_i 
+Belos_ r_i 00
+Belos_ r_i 00Belos_ r_i 
+
+
+0Belos_ r_i 00
+
+
+0
+Belos_ r_i 0
+Belos_ r_i 10
+0
+Belos_x_i 
+0
+Belos_ r_i 
+00
+Belos_ r_i 
+Belos_ r_i 00
+Belos_ r_i Belos_ r_i 
+00
+
+Belos_ r_i 0
+Belos_ r_i Belos_ r_i Belos_ r_i Belos_ r_i 000
+Belos_ r_i 
+0
+Belos_ r_i Belos_ r_i 0Belos_ r_i 
+Belos_ r_i 00
+0
+
+0
+
+Belos_ r_i 0
+Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 000Belos_rho_i 
+0
+00Belos_rho_i 
+Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0Belos_rho_i 0000
+0000
+
+
+0Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 00Belos_rho_i 000Belos_rho_i 00Belos_rho_i 0
+0
+
+
+Belos_beta Belos_beta 0
+0
+Belos_beta 
+
+Belos_beta 
+
+Belos_beta Belos_rho_i Belos_beta Belos_beta 00Belos_beta 0Belos_beta 0
+0Belos_rho_i Belos_rho_i 00
+
+Belos_beta 
+0000
+0
+
+0
+Belos_beta 
+
+Belos_beta Belos_beta Belos_beta 0Belos_beta 0
+0
+
+
+Belos_beta 
+Belos_beta 0Belos_beta 
+0
+
+00
+
+
+000
+0
+Belos_beta 
+
+
+0
+
+Belos_beta Belos_rho_i 
+Belos_rho_i Belos_beta 
+Belos_rho_i Belos_rho_i Belos_rho_i 000Belos_beta Belos_beta 0
+0Belos_beta 
+Belos_rho_i 0
+00
+0
+
+0Belos_beta Belos_beta 
+Belos_beta 
+Belos_beta 0
+00
+Belos_beta Belos_beta Belos_beta 000
+
+
+Belos_beta 0Belos_beta 0Belos_beta 0Belos_beta 
+
+0
+
+Belos_beta Belos_beta Belos_beta Belos_beta 0Belos_beta 
+0
+00
+000
+0
+
+0
+
+
+
+
+
+
+00Belos_beta 
+
+
+0
+
+
+Belos_beta 00Belos_beta 
+
+0
+
+Belos_beta 0
+Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i Belos_rho_i 0000Belos_rho_i 00
+000
+00
+Belos_rho_i 0Belos_beta 
+Belos_beta 
+
+00
+
+
+Belos_beta 
+
+
+0Belos_p_i 0
+Belos_p_i Belos_p_i 00Belos_p_i Belos_p_i 0
+Belos_p_i 0
+00
+Belos_beta Belos_beta 000Belos_beta 
+Belos_beta 
+
+Belos_beta 0Belos_beta Belos_beta Belos_beta Belos_beta Belos_beta 
+
+00
+
+
+0Belos_beta Belos_beta 0
+Belos_beta 0000
+
+Belos_p_i 0
+Belos_p_i Belos_p_i Belos_p_i 0Belos_p_i 00
+
+Belos_p_i 
+00
+
+Belos_p_i 
+0
+0
+
+
+0
+
+
+
+
+Belos_p_i 10
+Belos_p_i 0Belos_p_i 
+00Belos_p_i Belos_p_i 0Belos_p_i 
+00
+
+Belos_p_i 0
+
+Belos_p_i 
+0
+0Belos_p_i Belos_p_i Belos_p_i Belos_p_i Belos_p_i 
+Belos_p_i Belos_p_i 0000
+
+0Belos_p_i 
+00
+0
+
+
+
+Belos_p_i Belos_p_i 0Belos_rho_i 0
+
+0
+Belos_p_i Belos_p_i Belos_beta 000
+Belos_p_i 
+Belos_p_i 
+Belos_p_i 00Belos_p_i Belos_p_i 0Belos_p_i 
+Belos_p_i 0
+
+0Belos_p_i 00
+
+
+Belos_p_i 
+0Belos_p_i 
+00
+
+Belos_p_i 0
+Belos_p_i 0
+Belos_p_i Belos_p_i Belos_p_i 100
+0
+Belos_p_i 
+0
+Belos_p_i Belos_p_i 00
+Belos_p_i Belos_p_i 
+Belos_p_i 0Belos_p_i 
+0Belos_p_i Belos_p_i 010Belos_p_i 0
+Belos_rho_i Belos_rho_i Belos_rho_i 00
+
+Belos_beta 0Belos_beta 0
+
+0Belos_beta 
+Belos_p_i 0
+0
+Belos_p_i 
+00
+
+0
+
+
+Belos_p_i 0
+Belos_p_i 0
+Belos_p_i Belos_p_i 00
+
+Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i 00Belos_v_i Belos_v_i Belos_v_i 0Belos_v_i 0Belos_v_i 00
+
+00
+0
+00
+00
+0
+
+
+
+
+
+
+Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i 00Belos_v_i 000Belos_v_i Belos_v_i 00
+
+000Belos_v_i 
+0
+
+0
+0
+Belos_v_i Belos_v_i Belos_v_i 
+
+
+
+0
+
+0
+0
+
+Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i 00Belos_v_i 0Belos_v_i 0Belos_v_i 0000
+
+0Belos_v_i 000
+
+
+0
+
+0
+0
+
+
+
+
+0
+
+
+0
+Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i Belos_v_i 0Belos_v_i Belos_v_i 00Belos_v_i Belos_v_i 0Belos_v_i Belos_v_i Belos_v_i 000
+
+0
+Belos_v_i 
+0
+0
+00
+0
+0
+0
+
+
+0
+
+
+
+Belos_v_i 
+0
+Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 0Belos_alpha Belos_alpha 
+Belos_alpha 0Belos_alpha Belos_alpha 0
+Belos_alpha 
+0Belos_alpha 0
+00000Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 0Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 00Belos_alpha 0Belos_alpha 0000
+00
+00000
+0
+
+
+
+
+
+
+
+
+
+Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 0Belos_alpha Belos_alpha 
+0Belos_alpha Belos_alpha 0Belos_alpha Belos_alpha 0Belos_alpha Belos_alpha Belos_alpha Belos_alpha 00Belos_alpha 0Belos_s 0Belos_s 
+Belos_s 00
+
+Belos_s 0Belos_s 
+Belos_s Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha Belos_alpha 0Belos_alpha 0Belos_alpha Belos_alpha 0
+Belos_alpha Belos_alpha 0000000
+
+
+Belos_alpha 
+
+0
+0
+
+
+
+00
+Belos_alpha 
+
+00
+
+00
+00
+
+
+0
+
+0
+
+
+
+
+
+
+
+
+Belos_s Belos_s Belos_s 0Belos_s Belos_s 0Belos_s 
+Belos_s Belos_s Belos_s Belos_s 00Belos_s Belos_s Belos_s Belos_s Belos_s Belos_s 0Belos_s Belos_s Belos_s 100
+Belos_s 
+Belos_s 00
+0
+
+Belos_s Belos_s 0Belos_s 000Belos_s 
+
+Belos_s 0Belos_s Belos_s 
+
+00
+
+000000
+
+
+0
+
+
+
+
+
+
+Belos_s Belos_s Belos_s Belos_s 0Belos_s 00
+00Belos_s 
+00
+
+00
+
+
+
+
+0
+
+
+0
+
+0
+0
+00
+0
+0
+00
+
+
+
+
+
+
+Belos_s 0
+Belos_s Belos_s 
+Belos_s 00Belos_s Belos_s 
+0
+
+Belos_s 0Belos_s Belos_s 000Belos_s Belos_s 
+
+Belos_s 0Belos_s 0
+Belos_s 
+100
+
+Belos_s Belos_s 0Belos_s Belos_s Belos_s Belos_s Belos_s 00
+0000
+0
+Belos_s 
+
+
+
+
+0
+Belos_s 
+0
+00
+Belos_s 0
+
+
+0
+Belos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_t000Belos_t00
+0Belos_tBelos_t
+
+0
+00Belos_tBelos_tBelos_t0
+0
+
+0Belos_t
+0
+
+
+00
+
+0
+
+
+Belos_tBelos_tBelos_tBelos_tBelos_tBelos_t0Belos_t0Belos_t00Belos_tBelos_t
+Belos_tBelos_tBelos_t000
+Belos_t0
+
+Belos_t000Belos_t
+
+1000
+
+
+
+
+00
+
+
+
+
+Belos_tBelos_tBelos_tBelos_tBelos_t0Belos_tBelos_tBelos_t00Belos_tBelos_t0Belos_t
+0Belos_t0
+Belos_t
+Belos_t0
+0
+00
+0Belos_tBelos_t0
+0
+0
+0
+
+
+
+0
+
+
+Belos_tBelos_tBelos_tBelos_tBelos_tBelos_tBelos_t0Belos_tBelos_tBelos_tBelos_tBelos_t0Belos_t0
+0000Belos_t00Belos_t0
+
+0Belos_t00
+
+0
+
+
+
+0
+
+
+
+0
+
+
+Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 000Belos_omega_i 
+00
+
+0Belos_omega_i 000Belos_omega_i 00
+00
+
+
+00
+
+
+
+
+
+
+
+Belos_omega_i 0
+Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 0Belos_omega_i 000
+0
+Belos_omega_i 
+
+0Belos_omega_i 
+0Belos_omega_i Belos_omega_i 
+0
+
+Belos_omega_i 00
+
+0
+Belos_omega_i Belos_omega_i Belos_omega_i 00
+
+Belos_omega_i 10
+0
+Belos_x_i Belos_x_i 0
+0
+Belos_x_i Belos_x_i 00
+
+Belos_x_i 0Belos_x_i Belos_x_i 
+0Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 0Belos_omega_i 000Belos_omega_i 00Belos_omega_i 0
+
+
+00
+
+0
+Belos_omega_i 0
+
+Belos_omega_i 
+
+Belos_omega_i Belos_omega_i 0
+0
+00
+
+
+0
+Belos_x_i 
+Belos_x_i Belos_x_i 0Belos_x_i Belos_x_i Belos_x_i 00Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i Belos_omega_i 00Belos_omega_i 00Belos_omega_i 0
+0Belos_omega_i 0
+10Belos_omega_i 0Belos_omega_i 
+
+
+Belos_omega_i 0
+Belos_omega_i 
+0
+0
+0
+10
+0
+
+
+
+0Belos_x_i 
+0
+0
+Belos_x_i Belos_ r_i 
+Belos_ r_i Belos_ r_i 0
+
+Belos_omega_i 0Belos_x_i 
+Belos_ r_i 000
+00Belos_ r_i 
+
+
+
+0
+Belos_ r_i Belos_ r_i Belos_omega_i Belos_x_i Belos_x_i Belos_x_i Belos_x_i 0Belos_x_i 0
+000
+0
+Belos_x_i 
+Belos_x_i Belos_x_i Belos_x_i 
+
+Belos_x_i Belos_x_i 0Belos_x_i Belos_x_i 000Belos_x_i Belos_x_i 00
+Belos_x_i 00
+
+0Belos_ r_i Belos_ r_i Belos_ r_i 000
+0
+
+Belos_ r_i 
+0
+00
+Belos_ r_i 
+
+
+
+
+
+0
+Belos_ r_i 
+0Belos_ r_i Belos_ r_i 00
+
+
+
+0Belos_ r_i 
+0Belos_ r_i Belos_ r_i 
+0
+0
+Belos_ r_i Belos_ r_i 00
+
+0
+Belos_x_i 0
+Belos_x_i Belos_x_i Belos_x_i Belos_x_i 0Belos_x_i 0
+0Belos_x_i Belos_x_i 0
+Belos_x_i Belos_x_i 
+00
+Belos_x_i Belos_x_i Belos_x_i 
+
+00Belos_ r_i 000
+0
+Belos_ r_i 
+
+
+0
+0Belos_ r_i 
+
+0
+Belos_ r_i Belos_ r_i 0
+0
+Belos_omega_i Belos_x_i Belos_x_i 00Belos_x_i Belos_x_i Belos_x_i 
+000
+0
+Belos_x_i 
+Belos_x_i 
+Belos_x_i 
+Belos_x_i Belos_x_i 0Belos_x_i 00
+00
+
+
+Belos_x_i 0
+
+0Belos_x_i 
+0Belos_x_i 
+0
+Belos_ r_i 0Belos_ r_i 
+Belos_ r_i Belos_ r_i 00
+Belos_ r_i 
+Belos_ r_i 0Belos_x_i 
+Belos_ r_i Belos_ r_i 0Belos_ r_i Belos_ r_i 000
+
+Belos_ r_i 0
+Belos_ r_i Belos_ r_i 0
+Belos_ r_i 0Belos_ r_i Belos_ r_i 0
+0Belos_ r_i Belos_ r_i 0
+Belos_ r_i Belos_ r_i 
+000
+Belos_ r_i 0
+
+Belos_ r_i 0Belos_ r_i 
+00
+Belos_ r_i 
+0
+Belos_ r_i Belos_ r_i Belos_ r_i Belos_ r_i 00
+0Belos_ r_i 0Belos_ r_i 
+
+
+0Belos_ r_i 0
+Belos_ r_i 
+0Belos_ r_i 
+0
+0
+Belos_x_i 0
+0
+
+
+0
+Belos_ r_i 0
+Belos_x_i 
+
+00
+
+Belos_ r_i 0
+Belos_ r_i 0
+Belos_ r_i 0
+Belos_x_i 0
+Belos_x_i 0
+Belos_ r_i 0
+Belos_ r_i 0
+ Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop 010 Belos total iter loop 100 Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop 
+00100
+ Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop 10 Belos total iter loop  Belos total iter loop 10 Belos total iter loop 
+001010
+
+100 Belos total iter loop 
+100
+10 Belos total iter loop 
+
+
+ Belos total iter loop 0100
+20010
+
+
+
+
+
+
+10
+
+ Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop 10 Belos total iter loop 0 Belos total iter loop 1010
+0010
+ Belos total iter loop 
+0
+ Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop 0 Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop  Belos total iter loop 0 Belos total iter loop  Belos total iter loop 10010
+
+020
+ Belos total iter loop 001010
+
+
+020
+010
+
+ Belos total iter loop 
+1010
+
+10
+
+
+
+0
+
+
+
+
+
+10
+
+
+
+0
+ Belos total iter loop 
+ Belos total iter loop 0 Belos total iter loop 
+101020
+
+
+
+10
+ Belos total iter loop 
+
+10
+ Belos total iter loop 0
+ Belos total iter loop 20
+Initializing arrays 0 Belos total iter loop 
+Creating Map  50
+10Make vecs  
+0
+IntiMapFormMatVec 70
+Problem Setup  10
+Solver  20
+ number of iterations3
+=====================================================================================================================
+
+                                       TimeMonitor results over 64 processors
+
+Timer Name                                MinOverProcs     MeanOverProcs    MaxOverProcs     MeanOverCallCounts    
+---------------------------------------------------------------------------------------------------------------------
+Belos: BiCGStabSolMgr total solve time    0.006416 (1)     0.006509 (1)     0.006586 (1)     0.006509 (1)          
+Belos: Operation Op*x                     0.004741 (7)     0.005654 (7)     0.007087 (7)     0.0008077 (7)         
+Belos: Operation Prec*x                   0.001132 (6)     0.001351 (6)     0.001483 (6)     0.0002252 (6)         
+FillComplete A                            0.02976 (1)      0.03054 (1)      0.03173 (1)      0.03054 (1)           
+Hierarchy: Coarse: Computational Time     0.0002959 (0)    0.0003084 (0)    0.0004022 (0)    0 (0)                 
+InsertValues                              0.003537 (1)     0.003662 (1)     0.003899 (1)     0.003662 (1)          
+MueLu setup time                          0 (0)            0 (0)            0 (0)            0 (0)                 
+=====================================================================================================================

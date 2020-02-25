@@ -1,0 +1,12 @@
+clear;
+x= linspace(3,7,6); 
+y = 1-exp(x);  #@(x) (1-exp(x)); 
+m = length(x) -1; 
+h = x(2)-x(1); 
+int = 0; 
+for i=1:m/2
+    j = (i-1)*2 + 1; 
+    #int = int + (h/3) * ( y(x(j+2)) +4*y(x(j+1)) + y(x(j)))
+ int = int + (h/3) * ( y(j+2) +4*y(j+1) + y(j))
+end
+
