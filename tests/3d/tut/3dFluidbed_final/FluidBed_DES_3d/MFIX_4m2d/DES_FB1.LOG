@@ -1,0 +1,74 @@
+  
+ MFIX (2015-2    ) simulation on computer:                     
+ Run name: DES_FB1               Time: 12:11                    Date:  7- 5-2017
+ Memory required:    9.00 Mb
+________________________________________________________________________
+
+
+ **********************************************************************
+ From: GRIDMAP_INIT
+ Parallel load balancing statistics:
+  
+              Comp. cells    Processor
+    maximum          7191            1
+    minimum          7191            1
+    average          7191      -N/A-
+  
+    Maximum speedup (Amdahls Law) = +Inf
+ **********************************************************************
+
+
+ **********************************************************************
+ From: CHECK_SOLIDS_DEM_COLL_LSD
+ Warning 2101: Tangential damping factor DES_ETAT_FAC not specified
+ in mfix.dat. Setting to default: (1/2).
+ **********************************************************************
+
+
+ **********************************************************************
+ From: CHECK_SOLIDS_DEM_COLL_LSD
+ Warning 2101: Tangential damping factor DES_ETAT_W_FAC not specified
+ in mfix.dat. Setting to default: (1/2).
+ **********************************************************************
+  
+ DES MPI send/recv buffer:    12.3 MB
+  o   8738. Ghost Particles/MB
+  o   4369. Particles/MB
+  o  11916. Neighbor Pairs/MB
+ Pre-Processing geometry for DES.
+ Initial DES Particle array size: 14400
+ Beginning DEM settling period: 500 steps.
+ DEM settling period complete.
+ 
+ t=    0.000000 Wrote .RES; DES.RES; SPx: 1,2,3,4,5,6,7,8,9,A,B; 
+ 
+ Wall Time - Elapsed: 0.05s    Est. Remaining: 28.36days
+  t=     0.0000 Dt= 0.5000E-03 NIT= 17 Sm=  0.0000                                  CPU=      1. s
+   MbError%(0,MMAX): -0.9057E-05
+ Wall Time - Elapsed: 46.66s    Est. Remaining: 1.81days
+  t=     0.0149 Dt= 0.7621E-03 NIT= 18 Sm=  0.0000                                  CPU=     48. s
+   MbError%(0,MMAX): -0.4436E-03
+ Wall Time - Elapsed: 107.14s    Est. Remaining: 1.65days
+  t=     0.0375 Dt= 0.1000E-02 NIT= 20 Sm=  0.0000                                  CPU=    108. s
+   MbError%(0,MMAX): -0.2545E-02
+ Wall Time - Elapsed: 177.05s    Est. Remaining: 1.65days
+  t=     0.0619 Dt= 0.1000E-02 NIT= 21 Sm=  0.0000                                  CPU=    178. s
+   MbError%(0,MMAX): -0.4116E-02
+ t=     0.0719 Dt= 0.1000E-02 NIT= 15MbErr%=-0.1741E-02: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 204.8 s
+  Total CPU IO used = 0.1030 s
+  Total wall time used = 211.5 s
+  **********************************************************************
+    Recovered: Dt= 0.90000E-03 :-)
+ Wall Time - Elapsed: 245.88s    Est. Remaining: 1.67days
+  t=     0.0848 Dt= 0.9000E-03 NIT= 20 Sm=  0.0000                                  CPU=    246. s
+   MbError%(0,MMAX): -0.3088E-02
+ 
+ t=    0.099910 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 322.67s    Est. Remaining: 1.71days
+  t=     0.1089 Dt= 0.1000E-02 NIT= 23 Sm=  0.0000                                  CPU=    322. s
+   MbError%(0,MMAX): -0.4075E-02

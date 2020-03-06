@@ -1,0 +1,48 @@
+This file lists bug fixes committed to the 2015-2 Release, starting October, 2015.
+
+
+==================================================================================================
+Date (MM/DD/YYYY) | Description           | Severity |  Modified File(s)
+==================================================================================================
+  10/29/2015      | Add missing files     |  Minor   |  model/make_mfix
+                  |                       |          |  model/make_mfix.old
+                  |                       |          |  model/thermochemical/BURCAT.THR
+                  |                       |          |  model/thermochemical/intro.pdf
+                  |                       |          |  model/thermochemical/readme
+==================================================================================================
+  10/29/2015      | copy config.log       |  Minor   |  configure_mfix
+                  | instead of symlinking |          |
+                  | (for cygwin)          |          |
+==================================================================================================
+  10/29/2015      | build mfix.o in a     |  Minor   |  build-aux/Makefile.usr.am
+                  | build directory       |          |
+                  |                       |          |
+==================================================================================================
+  11/06/2015      | fix for IBM MPI       |  Minor   |  model/dmp_modules/sendrecv_mod.f
+                  |                       |          |  model/dmp_modules/sendrecv3_mod.f
+                  |                       |          |
+==================================================================================================
+  12/08/2015      | fix DEM restarts with |  Minor   |  des/read_res0_des.f
+                  | chemical reactions    |          |  des/write_res0_des.f
+                  |                       |          |
+==================================================================================================
+  12/10/2015      | fix DEM mass inflow   | Moderate |  des/set_bc_dem_mi.f
+                  | grid cell offset to   |          |  
+                  | correctly set to NEW  |          |
+==================================================================================================
+  12/10/2015      | calc DEM physical     | Minor    |  des/calc_thero_des.f
+                  | prop for enter/exit   |          |  
+                  | particles too.        |          |
+==================================================================================================
+  12/21/2015      | fix implicit type     | Minor    |  des/randomno_mod.f
+                  | conversion in randno  |          |  
+                  | generator.            |          |
+==================================================================================================
+  01/19/2016      | fix fully entered     | Minor    |  des/mass_inflow_dem.f
+                  | particle type for DEM |          |  
+                  | inflows in DMP.       |          |
+==================================================================================================
+  01/22/2016      | Increase max value of | Minor    |  cartesian_grid/check_data_cartesian.f
+                  | FAC_DIM_MAX_CUT_CELL  |          |  
+                  | to 5.0                |          |
+==================================================================================================

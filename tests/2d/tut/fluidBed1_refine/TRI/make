@@ -1,0 +1,1 @@
+convert -delay 20 epg_tri2d.00?[1,3,5,7,9].png  tri2d_epg.gif

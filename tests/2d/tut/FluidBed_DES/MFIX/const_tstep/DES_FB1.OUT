@@ -1,0 +1,379 @@
+                 MM      MM  FFFFFFFFFF    IIIIII    XX      XX
+                 MM      MM  FFFFFFFFFF    IIIIII    XX      XX
+                 MMMM  MMMM  FF              II      XX      XX
+                 MMMM  MMMM  FF              II      XX      XX
+                 MM  MM  MM  FF              II        XX  XX  
+                 MM  MM  MM  FF              II        XX  XX  
+                 MM      MM  FFFFFFFF        II          XX    
+                 MM      MM  FFFFFFFF        II          XX    
+                 MM      MM  FF              II        XX  XX  
+                 MM      MM  FF              II        XX  XX  
+                 MM      MM  FF              II      XX      XX
+                 MM      MM  FF              II      XX      XX
+                 MM      MM  FF            IIIIII    XX      XX
+                 MM      MM  FF            IIIIII    XX      XX
+
+                    Multiphase Flow with Interphase eXchanges
+                                  Version: 2015-2    
+                    Time: 14:30                    Date:  3-25-2017
+
+       Computer :                                                   
+ _______________________________________________________________________________
+
+
+   1. RUN CONTROL
+
+       Run name(RUN_NAME): DES_FB1                                                     
+       Brief description of the run (DESCRIPTION) :
+         DEM TUTORIAL: DEM FLUIDBED WITH CENTRAL JET.                
+       Units (UNITS) : CGS             
+       Start-time (TIME) =   0.0000    
+       Stop_time (TSTOP) =   1.0000    
+       Time step (DT) =  0.10000E-05
+       Max time step (DT_MAX) =   1.0000    
+       Min time step (DT_MIN) =  0.10000E-05
+       Time step adjustment factor (DT_FAC) =   1.0000    
+       Type of run (RUN_TYPE) : NEW             
+                              (Initial conditions from the input (.DAT) file)
+
+       * Gas momentum equation-X is solved.
+
+       * Gas momentum equation-Y is solved.
+
+       * Gas momentum equation-Z is solved.
+
+       * Energy equations are NOT solved.
+
+       * Gas Species equations are NOT solved.
+
+       * Solids- 1 Species equations are NOT solved.
+
+       * User-defined subroutines are NOT called.
+
+       * Schaeffer frictional model is solved
+
+
+   2. PHYSICAL AND NUMERICAL PARAMETERS
+
+       Default turbulence length scale (L_scale0) =   0.0000    
+       Maximum turbulent viscosity (MU_gmax) =  0.98765E+32
+       Reference pressure (P_ref) =   0.0000    
+       Pressure scale-factor (P_scale) =   1.0000    
+       Gravitational acceleration (GRAVITY) =   980.66    
+       Under relaxation (UR_FAC) and Iterations in Leq solver (LEQ_IT):
+                                 UR_FAC  LEQ_IT  LEQ_METHOD  LEQ_SWEEP  LEQ_TOL    LEQ_PC  DISCRETIZE
+         Fluid cont.  and P_g  =  0.800    20      BiCGSTAB     RSRS     0.1000E-03   LINE   FOUP        
+         Solids cont. and P_s  =  0.500    20      BiCGSTAB     RSRS     0.1000E-03   LINE   FOUP        
+         U velocity            =  0.500     5      BiCGSTAB     RSRS     0.1000E-03   LINE   FOUP        
+         V velocity            =  0.500     5      BiCGSTAB     RSRS     0.1000E-03   LINE   FOUP        
+         W velocity            =  0.500     5      BiCGSTAB     RSRS     0.1000E-03   LINE   FOUP        
+         Energy                =  1.000    15      BiCGSTAB     RSRS     0.1000E-03   LINE   FOUP        
+         Species               =  1.000    15      BiCGSTAB     RSRS     0.1000E-03   LINE   FOUP        
+         Granular Energy       =  0.500    15      BiCGSTAB     RSRS     0.1000E-03   LINE   FOUP        
+         User scalar           =  0.800    15      BiCGSTAB     RSRS     0.1000E-03   LINE   FOUP        
+
+
+
+   3. GEOMETRY AND DISCRETIZATION
+
+       Coordinates: CARTESIAN       
+
+       X-direction cell sizes (DX) and East face locations:
+         I        1            2            3            4            5
+        DX    1.0000       1.0000       1.0000       1.0000       1.0000    
+       X_E    0.0000       1.0000       2.0000       3.0000       4.0000    
+
+         I        6            7            8            9           10
+        DX    1.0000       1.0000       1.0000       1.0000       1.0000    
+       X_E    5.0000       6.0000       7.0000       8.0000       9.0000    
+
+         I       11           12           13           14           15
+        DX    1.0000       1.0000       1.0000       1.0000       1.0000    
+       X_E    10.000       11.000       12.000       13.000       14.000    
+
+         I       16           17
+        DX    1.0000       1.0000    
+       X_E    15.000       16.000    
+       Number of cells in X, or R, direction (IMAX) =   15
+       Reactor length in X, or R, direction (XLENGTH) =  15.000    
+
+
+       Y-direction cell sizes (DY) and North face locations:
+         J        1            2            3            4            5
+        DY    2.0000       2.0000       2.0000       2.0000       2.0000    
+       Y_N    0.0000       2.0000       4.0000       6.0000       8.0000    
+
+         J        6            7            8            9           10
+        DY    2.0000       2.0000       2.0000       2.0000       2.0000    
+       Y_N    10.000       12.000       14.000       16.000       18.000    
+
+         J       11           12           13           14           15
+        DY    2.0000       2.0000       2.0000       2.0000       2.0000    
+       Y_N    20.000       22.000       24.000       26.000       28.000    
+
+         J       16           17           18           19           20
+        DY    2.0000       2.0000       2.0000       2.0000       2.0000    
+       Y_N    30.000       32.000       34.000       36.000       38.000    
+
+         J       21           22           23           24           25
+        DY    2.0000       2.0000       2.0000       2.0000       2.0000    
+       Y_N    40.000       42.000       44.000       46.000       48.000    
+
+         J       26           27           28           29           30
+        DY    2.0000       2.0000       2.0000       2.0000       2.0000    
+       Y_N    50.000       52.000       54.000       56.000       58.000    
+
+         J       31           32           33           34           35
+        DY    2.0000       2.0000       2.0000       2.0000       2.0000    
+       Y_N    60.000       62.000       64.000       66.000       68.000    
+
+         J       36           37           38           39           40
+        DY    2.0000       2.0000       2.0000       2.0000       2.0000    
+       Y_N    70.000       72.000       74.000       76.000       78.000    
+
+         J       41           42           43           44           45
+        DY    2.0000       2.0000       2.0000       2.0000       2.0000    
+       Y_N    80.000       82.000       84.000       86.000       88.000    
+
+         J       46           47
+        DY    2.0000       2.0000    
+       Y_N    90.000       92.000    
+       Number of cells in Y direction (JMAX) =   45
+       Reactor length in Y direction (YLENGTH) =  90.000    
+
+
+       Z-direction cell sizes (DZ) and Top face locations:
+         K        1
+        DZ   0.40000    
+       Z_T    0.0000    
+       Number of cells in Z, or theta, direction (KMAX) =    1
+       Reactor length in Z, or theta, direction (ZLENGTH) = 0.40000    
+
+
+   4. GAS PHASE
+
+       Gas density (RO_g0) =  0.12050E-02  (A constant value is used everywhere)
+       Viscosity (MU_g0) =  0.18000E-03  (A constant value is used everywhere)
+
+
+   5. SOLIDS PHASE
+
+       Number of particulate phases (MMAX) =  1
+
+       M    Model     Diameter        Density      Close_Packed
+       1    DEM      0.40000         2.7000             T
+
+       Gas/Solids Coupling Information:
+          Use interpolation to calculate gas/particle drag.
+          Use interpolation to calculate dispersed phase scalar fields.
+
+       Use Linear spring-dashpot collsion model.
+
+          Spring Coefficients:      Normal       Tangential
+            Particle-particle      0.10000E+07    0.28571E+06
+            Particle-wall          0.10000E+07    0.28571E+06
+
+          Damping Coefficients:     Normal       Tangential
+            Phase 1-Phase 1 =       14.258         7.1292    
+                   -Wall    =       0.0000         0.0000    
+
+
+   6. INITIAL CONDITIONS
+
+       Initial condition no :    1
+                                                 Specified        Simulated  
+         X coordinate of west face   (IC_X_w) =   0.0000           0.0000    
+         X coordinate of east face   (IC_X_e) =   15.000           15.000    
+         Y coordinate of south face  (IC_Y_s) =   0.0000           0.0000    
+         Y coordinate of north face  (IC_Y_n) =   90.000           90.000    
+         Z coordinate of bottom face (IC_Z_b) =   0.0000         -0.40000    
+         Z coordinate of top face    (IC_Z_t) =  0.40000           0.0000    
+         I index of cell at west   (IC_I_w) =    2
+         I index of cell at east   (IC_I_e) =   16
+         J index of cell at south  (IC_J_s) =    2
+         J index of cell at north  (IC_J_n) =   46
+         K index of cell at bottom (IC_K_b) =    1
+         K index of cell at top    (IC_K_t) =    1
+         Void fraction (IC_EP_g) =   1.0000    
+         Gas temperature (IC_T_g) =  0.98765E+32
+         X-component of gas velocity (IC_U_g) =   0.0000    
+         Y-component of gas velocity (IC_V_g) =   280.00    
+         Z-component of gas velocity (IC_W_g) =   0.0000    
+         Solids phase- 1 Density x Volume fr. (IC_ROP_s) =   0.0000    
+         Solids phase- 1 temperature (IC_T_s) =  0.98765E+32
+         X-component of solids phase- 1 velocity (IC_U_s) =  0.0000    
+         Y-component of solids phase- 1 velocity (IC_V_s) =  0.0000    
+         Z-component of solids phase- 1 velocity (IC_W_s) =  0.0000    
+
+
+   7. BOUNDARY CONDITIONS
+
+       Boundary condition no :    1
+         Type of boundary condition : MASS_INFLOW     
+           (Inlet with specified gas and solids mass flux)
+                                                 Specified        Simulated  
+         X coordinate of west face   (BC_X_w) =   7.0000           7.0000    
+         X coordinate of east face   (BC_X_e) =   8.0000           8.0000    
+         Y coordinate of south face  (BC_Y_s) =   0.0000          -2.0000    
+         Y coordinate of north face  (BC_Y_n) =   0.0000           0.0000    
+         Z coordinate of bottom face (BC_Z_b) =   0.0000         -0.40000    
+         Z coordinate of top face    (BC_Z_t) =  0.40000           0.0000    
+         I index of cell at west   (BC_I_w) =    9
+         I index of cell at east   (BC_I_e) =    9
+         J index of cell at south  (BC_J_s) =    1
+         J index of cell at north  (BC_J_n) =    1
+         K index of cell at bottom (BC_K_b) =    1
+         K index of cell at top    (BC_K_t) =    1
+         Boundary area =  0.40000    
+         Void fraction (BC_EP_g) =   1.0000    
+         Gas pressure (BC_P_g) =   0.0000    
+         X-component of gas velocity (BC_U_g) =   0.0000    
+         Y-component of gas velocity (BC_V_g) =   4200.0    
+         Z-component of gas velocity (BC_W_g) =   0.0000    
+ 
+         Solids phase- 1 Density x Volume fr. (BC_ROP_s) =   0.0000    
+         Solids phase- 1 temperature (BC_T_s) =  0.98765E+32
+ 
+         X-component of solids phase- 1 velocity (BC_U_s) =  0.0000    
+         Y-component of solids phase- 1 velocity (BC_V_s) =  0.0000    
+         Z-component of solids phase- 1 velocity (BC_W_s) =  0.0000    
+
+       Boundary condition no :    2
+         Type of boundary condition : P_OUTFLOW       
+           (Outlet with specified gas pressure)
+                                                 Specified        Simulated  
+         X coordinate of west face   (BC_X_w) =   0.0000           0.0000    
+         X coordinate of east face   (BC_X_e) =   15.000           15.000    
+         Y coordinate of south face  (BC_Y_s) =   90.000           90.000    
+         Y coordinate of north face  (BC_Y_n) =   90.000           92.000    
+         Z coordinate of bottom face (BC_Z_b) =   0.0000         -0.40000    
+         Z coordinate of top face    (BC_Z_t) =  0.40000           0.0000    
+         I index of cell at west   (BC_I_w) =    2
+         I index of cell at east   (BC_I_e) =   16
+         J index of cell at south  (BC_J_s) =   47
+         J index of cell at north  (BC_J_n) =   47
+         K index of cell at bottom (BC_K_b) =    1
+         K index of cell at top    (BC_K_t) =    1
+         Boundary area =   6.0000    
+         Gas pressure (BC_P_g) =   0.0000    
+ 
+
+
+   8. INTERNAL SURFACES
+
+
+   9. OUTPUT DATA FILES:
+       Extension Description                              Interval for writing
+       .OUT      This file (ASCII)                           0.98765E+32
+       .LOG      Log file containing messages (ASCII)        0.98765E+32
+       .RES      Restart file (Binary)                       0.10000    
+       .SP1      EP_g (Binary, single precision)             0.10000    
+       .SP2      P_g, P_star (Binary, single precision)      0.10000    
+       .SP3      U_g, V_g, W_g (Binary, single precision)    0.10000    
+       .SP4      U_s, V_s, W_s (Binary, single precision)    0.10000    
+       .SP5      ROP_s (Binary, single precision)             100.00    
+       .SP6      T_g, T_s (Binary, single precision)          100.00    
+       .SP7      X_g, X_s (Binary, single precision)          100.00    
+       .SP8      Theta_m (Binary, single precision)           100.00    
+       .SP9      User Scalar (Binary, single precision)       100.00    
+       .SPA      ReactionRates (Binary, single precision)    0.10000E+33
+       .SPB      K and Epsilon (Binary, single precision)    0.10000E+33
+
+
+   10. TOLERANCES
+       The following values are specified in the file TOLERANCE.INC.
+
+       Minimum value of EP_s tracked (ZERO_EP_s) =  0.10000E-07
+       Maximum average residual (TOL_RESID) =  0.10000E-02
+       Maximum average residual (TOL_RESID_T) =  0.10000E-03
+       Maximum average residual (TOL_RESID_X) =  0.10000E-03
+       Minimum residual at divergence (TOL_DIVERGE) =   10000.    
+       Tolerance for species and energy balances (TOL_COM) =  0.10000E-03
+
+ 
+
+
+   11. INITIAL AND BOUNDARY CONDITION FLAGS
+       The initial and boundary conditions specified are shown in
+       the following map. Each computational cell is represented
+       by a string of three characters.  The first character
+       represents the type of cell, and the last two characters
+       give a number that identifies a boundary or initial condi-
+       tion.  For example, .02 indicates a cell where Initial
+       Condition No. 2 will be specified. Only the last two digits
+       are written.  Hence, for example, Condition No. 12, 112, 212
+       etc. will be represented only as 12.
+         First Character       Description
+              .                Initial condition
+              W                No slip wall
+              S                Free-slip wall
+              s                Partial-slip wall
+              c                Cyclic boundary
+              C                Cyclic boundary with pressure drop
+              I                Specified mass-flux inflow cell
+              O                Outflow cell
+              p                Specified pressure inflow cell
+              P                Specified pressure outflow cell
+                                                              
+       Internal surfaces at East, North or Top of each cell is
+       is represented by the following letters to the right of the
+       three-character string:
+         Side          Impermeable           Semipermeable
+         East             E                       e       
+         North            N                       n       
+         Top              T                       t       
+       For cells with internal surfaces on more than one side
+       the characters will be over-written in the above order
+
+
+ BC/IC condition flags at K =    1
+
+   J   I=     1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17
+  47        S--  P02  P02  P02  P02  P02  P02  P02  P02  P02  P02  P02  P02  P02  P02  P02  S--  
+  46        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  45        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  44        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  43        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  42        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  41        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  40        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  39        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  38        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  37        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  36        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  35        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  34        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  33        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  32        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  31        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  30        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  29        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  28        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  27        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  26        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  25        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  24        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  23        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  22        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  21        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  20        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  19        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  18        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  17        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  16        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  15        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  14        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  13        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  12        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  11        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+  10        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+   9        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+   8        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+   7        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+   6        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+   5        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+   4        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+   3        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+   2        W--  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  .01  W--  
+   1        W--  W--  W--  W--  W--  W--  W--  S--  I01  S--  W--  W--  W--  W--  W--  W--  W--  
+

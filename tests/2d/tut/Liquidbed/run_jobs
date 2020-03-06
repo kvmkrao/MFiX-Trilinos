@@ -1,0 +1,47 @@
+#cd proc1
+#rm R* output.txt error.txt solv-time.txt nit-time fort.*
+#bsub <bsub.txt
+#
+#cd ../proc2
+#rm R* output.txt error.txt solv-time.txt nit-time fort.*
+##cp ../proc1/mfix.dat .
+#bsub <bsub.txt
+#
+#cd ../proc4
+#rm R* output.txt error.txt solv-time.txt nit-time fort.*
+##cp ../proc1/mfix.dat .
+#bsub <bsub.txt
+#
+#cd ../proc8
+#rm R* output.txt error.txt solv-time.txt nit-time fort.*
+##cp ../proc1/mfix.dat .
+#bsub <bsub.txt
+#
+##cd ../
+##cp -r proc1 proct1
+##cp -r proc2 proct2
+##cp -r proc4 proct4
+##cp -r proc8 proct8
+
+
+cd proct1
+rm R* output.txt error.txt solv-time.txt nit-time fort.* 
+#sed -i "s,LEQ_METHOD(1) = 6,LEQ_METHOD(1) = 2,g" mfix.dat 
+bsub <bsub.txt
+#
+cd ../proct2
+rm R* output.txt error.txt solv-time.txt nit-time fort.*
+#sed -i "s,LEQ_METHOD(1) = 6,LEQ_METHOD(1) = 2,g" mfix.dat 
+bsub <bsub.txt
+#
+cd ../proct4
+rm R* output.txt error.txt solv-time.txt nit-time fort.*
+#sed -i "s,LEQ_METHOD(1) = 6,LEQ_METHOD(1) = 2,g" mfix.dat 
+bsub <bsub.txt
+#
+cd ../proct8
+rm R* output.txt error.txt solv-time.txt nit-time fort.*
+#sed -i "s,LEQ_METHOD(1) = 6,LEQ_METHOD(1) = 2,g" mfix.dat 
+bsub <bsub.txt
+
+

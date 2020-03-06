@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian">
+<Collection>
+      <DataSet timestep=" 0.0000000E+00" group="" part="0" file="PARTICLE_C_0000.vtp"/>
+</Collection>
+</VTKFile>

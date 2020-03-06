@@ -1,0 +1,336 @@
+  
+ MFIX (2015-2    ) simulation on computer:                     
+ Run name: CYL                   Time: 14:39                    Date:  4-12-2018
+ Memory required:    9.00 Mb
+________________________________________________________________________
+
+
+ **********************************************************************
+ From: GRIDMAP_INIT
+ Parallel load balancing statistics:
+  
+              Comp. cells    Processor
+    maximum        140056            1
+    minimum        140056            1
+    average        140056      -N/A-
+  
+    Maximum speedup (Amdahls Law) = +Inf
+ **********************************************************************
+ 
+ t=    0.000000 Wrote .RES; SPx: 1,2,3,4,5,6,7,8,9,A,B; .OUT; 
+ 
+ Wall Time - Elapsed: 2.25s    Est. Remaining: 7809.03days
+  t=     0.0000 Dt= 0.2000     NIT= 29 Sm=  0.0000                                  CPU=    111. s
+   MbError%(0,MMAX):  0.1402E-12
+ 
+ t=    0.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    0.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    0.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    0.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    1.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    1.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    1.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    1.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    1.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    2.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    2.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    2.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    2.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    2.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    3.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    3.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    3.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    3.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    3.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    4.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    4.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    4.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    4.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    4.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    5.000000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 2433.85s    Est. Remaining: 1.66days
+  t=     5.0000 Dt= 0.2000     NIT= 18 Sm=  0.0000                                  CPU=   2505. s
+   MbError%(0,MMAX):  0.9833E-14
+ 
+ t=    5.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    5.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    5.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    5.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    6.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    6.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    6.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    6.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    6.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    7.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    7.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    7.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    7.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    7.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    8.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    8.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    8.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    8.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    8.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    9.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    9.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    9.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    9.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    9.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   10.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ Wall Time - Elapsed: 1.31h    Est. Remaining: 1.58days
+  t=    10.0000 Dt= 0.2000     NIT= 16 Sm=  0.0000                                  CPU=   4751. s
+   MbError%(0,MMAX): -0.2548E-13
+ 
+ t=   10.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   10.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   10.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   10.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   11.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   11.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   11.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   11.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   11.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   12.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   12.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   12.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   12.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   12.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   13.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   13.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   13.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   13.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   13.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   14.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   14.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   14.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   14.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   14.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   15.000000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1.86h    Est. Remaining: 1.47days
+  t=    15.0000 Dt= 0.2000     NIT= 14 Sm=  0.0000                                  CPU=   6734. s
+   MbError%(0,MMAX): -0.4820E-14
+ 
+ t=   15.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   15.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   15.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   15.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   16.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   16.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   16.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   16.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   16.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   17.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   17.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   17.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   17.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   17.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   18.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   18.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   18.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   18.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   18.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   19.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   19.200000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   19.400000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   19.600000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   19.800000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   20.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ Wall Time - Elapsed: 2.46h    Est. Remaining: 1.43days
+  t=    20.0000 Dt= 0.2000     NIT= 13 Sm=  0.0000                                  CPU=   8873. s
+   MbError%(0,MMAX):  0.3245E-13

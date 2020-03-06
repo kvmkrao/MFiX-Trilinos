@@ -1,0 +1,179 @@
+  
+ MFIX (2015-2    ) simulation on computer:                     
+ Run name: DES_FB1               Time: 13:51                    Date:  3-27-2017
+ Memory required:    9.00 Mb
+________________________________________________________________________
+
+
+ **********************************************************************
+ From: GRIDMAP_INIT
+ Parallel load balancing statistics:
+  
+              Comp. cells    Processor
+    maximum          7191            1
+    minimum          7191            1
+    average          7191      -N/A-
+  
+    Maximum speedup (Amdahls Law) = +Inf
+ **********************************************************************
+
+
+ **********************************************************************
+ From: CHECK_SOLIDS_DEM_COLL_LSD
+ Warning 2101: Tangential damping factor DES_ETAT_FAC not specified
+ in mfix.dat. Setting to default: (1/2).
+ **********************************************************************
+
+
+ **********************************************************************
+ From: CHECK_SOLIDS_DEM_COLL_LSD
+ Warning 2101: Tangential damping factor DES_ETAT_W_FAC not specified
+ in mfix.dat. Setting to default: (1/2).
+ **********************************************************************
+  
+ DES MPI send/recv buffer:    12.3 MB
+  o   8738. Ghost Particles/MB
+  o   4369. Particles/MB
+  o  11916. Neighbor Pairs/MB
+ Pre-Processing geometry for DES.
+ Initial DES Particle array size: 1200
+ Beginning DEM settling period: 500 steps.
+ DEM settling period complete.
+ 
+ t=    0.000000 Wrote .RES; DES.RES; SPx: 1,2,3,4,5,6,7,8,9,A,B; 
+ 
+ Wall Time - Elapsed: 0.02s    Est. Remaining: 11.57days
+  t=     0.0000 Dt= 0.5000E-03 NIT= 14 Sm=  0.0000                                  CPU=      1. s
+   MbError%(0,MMAX):  0.1391E-09
+ Wall Time - Elapsed: 50.06s    Est. Remaining: 2.18days
+  t=     0.0133 Dt= 0.6173E-03 NIT= 20 Sm=  0.0000                                  CPU=     51. s
+   MbError%(0,MMAX): -0.1595E-04
+ Wall Time - Elapsed: 101.59s    Est. Remaining: 1.83days
+  t=     0.0320 Dt= 0.9408E-03 NIT= 21 Sm=  0.0000                                  CPU=    103. s
+   MbError%(0,MMAX): -0.4432E-04
+ Wall Time - Elapsed: 153.32s    Est. Remaining: 1.56days
+  t=     0.0568 Dt= 0.1000E-02 NIT= 23 Sm=  0.0000                                  CPU=    154. s
+   MbError%(0,MMAX): -0.6098E-04
+ Wall Time - Elapsed: 212.52s    Est. Remaining: 1.51days
+  t=     0.0812 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=    213. s
+   MbError%(0,MMAX): -0.4251E-04
+ 
+ t=    0.100584 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 273.85s    Est. Remaining: 1.50days
+  t=     0.1056 Dt= 0.1000E-02 NIT= 23 Sm=  0.0000                                  CPU=    274. s
+   MbError%(0,MMAX): -0.1569E-04
+ Wall Time - Elapsed: 332.93s    Est. Remaining: 1.47days
+  t=     0.1306 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=    333. s
+   MbError%(0,MMAX): -0.6002E-05
+ Wall Time - Elapsed: 389.22s    Est. Remaining: 1.45days
+  t=     0.1550 Dt= 0.1000E-02 NIT= 23 Sm=  0.0000                                  CPU=    388. s
+   MbError%(0,MMAX):  0.3525E-04
+ Wall Time - Elapsed: 448.39s    Est. Remaining: 1.44days
+  t=     0.1794 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=    446. s
+   MbError%(0,MMAX):  0.1527E-04
+ 
+ t=    0.200784 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 504.27s    Est. Remaining: 1.43days
+  t=     0.2038 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=    501. s
+   MbError%(0,MMAX): -0.3162E-05
+ Wall Time - Elapsed: 562.02s    Est. Remaining: 1.42days
+  t=     0.2282 Dt= 0.1000E-02 NIT= 25 Sm=  0.0000                                  CPU=    559. s
+   MbError%(0,MMAX): -0.4839E-05
+ Wall Time - Elapsed: 620.14s    Est. Remaining: 1.41days
+  t=     0.2526 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=    616. s
+   MbError%(0,MMAX): -0.1520E-04
+ Wall Time - Elapsed: 677.44s    Est. Remaining: 1.40days
+  t=     0.2776 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=    673. s
+   MbError%(0,MMAX):  0.3349E-05
+ 
+ t=    0.299984 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 735.99s    Est. Remaining: 1.40days
+  t=     0.3020 Dt= 0.1000E-02 NIT= 24 Sm=  0.0000                                  CPU=    731. s
+   MbError%(0,MMAX): -0.2950E-05
+ Wall Time - Elapsed: 793.49s    Est. Remaining: 1.40days
+  t=     0.3270 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=    787. s
+   MbError%(0,MMAX):  0.2807E-04
+ Wall Time - Elapsed: 849.35s    Est. Remaining: 1.39days
+  t=     0.3517 Dt= 0.9000E-03 NIT= 22 Sm=  0.0000                                  CPU=    843. s
+   MbError%(0,MMAX):  0.3015E-04
+ Wall Time - Elapsed: 906.10s    Est. Remaining: 1.38days
+  t=     0.3758 Dt= 0.1000E-02 NIT= 24 Sm=  0.0000                                  CPU=    900. s
+   MbError%(0,MMAX):  0.1077E-04
+ 
+ t=    0.400184 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 965.78s    Est. Remaining: 1.39days
+  t=     0.4002 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=    959. s
+   MbError%(0,MMAX):  0.1675E-04
+ Wall Time - Elapsed: 1020.26s    Est. Remaining: 1.38days
+  t=     0.4246 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=   1012. s
+   MbError%(0,MMAX):  0.2207E-04
+ Wall Time - Elapsed: 1075.79s    Est. Remaining: 1.37days
+  t=     0.4490 Dt= 0.1000E-02 NIT= 23 Sm=  0.0000                                  CPU=   1068. s
+   MbError%(0,MMAX): -0.9303E-04
+ Wall Time - Elapsed: 1136.31s    Est. Remaining: 1.38days
+  t=     0.4734 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=   1127. s
+   MbError%(0,MMAX): -0.5984E-05
+ Wall Time - Elapsed: 1192.81s    Est. Remaining: 1.37days
+  t=     0.4978 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=   1183. s
+   MbError%(0,MMAX):  0.4042E-04
+ 
+ t=    0.500784 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 1248.35s    Est. Remaining: 1.37days
+  t=     0.5222 Dt= 0.1000E-02 NIT= 23 Sm=  0.0000                                  CPU=   1237. s
+   MbError%(0,MMAX):  0.1306E-04
+ Wall Time - Elapsed: 1307.33s    Est. Remaining: 1.37days
+  t=     0.5466 Dt= 0.1000E-02 NIT= 25 Sm=  0.0000                                  CPU=   1296. s
+   MbError%(0,MMAX):  0.6262E-04
+ Wall Time - Elapsed: 1364.52s    Est. Remaining: 1.37days
+  t=     0.5710 Dt= 0.1000E-02 NIT= 21 Sm=  0.0000                                  CPU=   1352. s
+   MbError%(0,MMAX):  0.2683E-05
+ Wall Time - Elapsed: 1417.76s    Est. Remaining: 1.36days
+  t=     0.5954 Dt= 0.1000E-02 NIT= 21 Sm=  0.0000                                  CPU=   1405. s
+   MbError%(0,MMAX): -0.2898E-04
+ 
+ t=    0.600384 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 1473.88s    Est. Remaining: 1.36days
+  t=     0.6198 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=   1459. s
+   MbError%(0,MMAX): -0.1178E-04
+ Wall Time - Elapsed: 1534.39s    Est. Remaining: 1.36days
+  t=     0.6439 Dt= 0.9000E-03 NIT= 22 Sm=  0.0000                                  CPU=   1518. s
+   MbError%(0,MMAX): -0.5780E-05
+ Wall Time - Elapsed: 1592.67s    Est. Remaining: 1.36days
+  t=     0.6686 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=   1574. s
+   MbError%(0,MMAX):  0.1935E-04
+ Wall Time - Elapsed: 1651.39s    Est. Remaining: 1.36days
+  t=     0.6936 Dt= 0.1000E-02 NIT= 21 Sm=  0.0000                                  CPU=   1629. s
+   MbError%(0,MMAX): -0.3470E-04
+ 
+ t=    0.700584 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 1720.97s    Est. Remaining: 1.37days
+  t=     0.7180 Dt= 0.9000E-03 NIT= 22 Sm=  0.0000                                  CPU=   1686. s
+   MbError%(0,MMAX): -0.1055E-03
+ Wall Time - Elapsed: 1782.70s    Est. Remaining: 1.37days
+  t=     0.7418 Dt= 0.1000E-02 NIT= 23 Sm=  0.0000                                  CPU=   1745. s
+   MbError%(0,MMAX): -0.7726E-04
+ Wall Time - Elapsed: 1838.46s    Est. Remaining: 1.37days
+  t=     0.7668 Dt= 0.1000E-02 NIT= 21 Sm=  0.0000                                  CPU=   1800. s
+   MbError%(0,MMAX): -0.3316E-04
+ Wall Time - Elapsed: 1891.98s    Est. Remaining: 1.36days
+  t=     0.7912 Dt= 0.1000E-02 NIT= 21 Sm=  0.0000                                  CPU=   1852. s
+   MbError%(0,MMAX):  0.2070E-04
+ 
+ t=    0.800184 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 1946.16s    Est. Remaining: 1.36days
+  t=     0.8156 Dt= 0.1000E-02 NIT= 21 Sm=  0.0000                                  CPU=   1906. s
+   MbError%(0,MMAX):  0.5551E-04
+ Wall Time - Elapsed: 1999.89s    Est. Remaining: 1.35days
+  t=     0.8400 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=   1960. s
+   MbError%(0,MMAX):  0.4320E-04
+ Wall Time - Elapsed: 2058.16s    Est. Remaining: 1.35days
+  t=     0.8644 Dt= 0.1000E-02 NIT= 22 Sm=  0.0000                                  CPU=   2018. s
+   MbError%(0,MMAX): -0.2288E-05

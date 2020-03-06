@@ -1,0 +1,3780 @@
+  
+ MFIX (2015-2    ) simulation on computer:                     
+ Run name: CYL                   Time:  7:52                    Date:  3-31-2017
+ Memory required:    9.00 Mb
+________________________________________________________________________
+
+
+ **********************************************************************
+ From: GRIDMAP_INIT
+ Parallel load balancing statistics:
+  
+              Comp. cells    Processor
+    maximum          5248            1
+    minimum          5248            1
+    average          5248      -N/A-
+  
+    Maximum speedup (Amdahls Law) = +Inf
+ **********************************************************************
+ 
+ t=    0.000000 Wrote .RES; SPx: 1,2,3,4,5,6,7,8,9,A,B; .OUT; 
+ 
+ Wall Time - Elapsed: 0.09s    Est. Remaining: 326.39days
+  t=     0.0000 Dt= 0.2500     NIT= 31 Sm=  0.0000                                  CPU=      4. s
+   MbError%(0,MMAX): -0.3000E-09
+ 
+ t=    0.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    0.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    0.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    1.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    1.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    1.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    1.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    2.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    2.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    2.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    2.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    3.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    3.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    3.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    3.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    4.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    4.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    4.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    4.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    5.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    5.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    5.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    5.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    6.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    6.250000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 50.04s    Est. Remaining: 2352.07s
+  t=     6.2500 Dt= 0.2500     NIT= 20 Sm=  0.0000                                  CPU=     52. s
+   MbError%(0,MMAX):  0.1135E-08
+ 
+ t=    6.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    6.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    7.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    7.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    7.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    7.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    8.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    8.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    8.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    8.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    9.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    9.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    9.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=    9.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   10.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=   10.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   10.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   10.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   11.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   11.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   11.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   11.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   12.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   12.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   12.500000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 93.55s    Est. Remaining: 2151.74s
+  t=    12.5000 Dt= 0.2500     NIT= 17 Sm=  0.0000                                  CPU=     95. s
+   MbError%(0,MMAX):  0.2107E-09
+ 
+ t=   12.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   13.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   13.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   13.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   13.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   14.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   14.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   14.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   14.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   15.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   15.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   15.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   15.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   16.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   16.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   16.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   16.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   17.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   17.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   17.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   17.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   18.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   18.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   18.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   18.750000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 134.93s    Est. Remaining: 2023.92s
+  t=    18.7500 Dt= 0.2500     NIT= 15 Sm=  0.0000                                  CPU=    136. s
+   MbError%(0,MMAX):  0.1753E-09
+ 
+ t=   19.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   19.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   19.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   19.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   20.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=   20.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   20.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   20.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   21.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   21.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   21.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   21.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   22.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   22.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   22.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   22.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   23.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   23.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   23.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   23.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   24.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   24.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   24.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   24.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   25.000000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 175.12s    Est. Remaining: 1926.30s
+  t=    25.0000 Dt= 0.2500     NIT= 14 Sm=  0.0000                                  CPU=    176. s
+   MbError%(0,MMAX):  0.2496E-09
+ 
+ t=   25.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   25.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   25.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   26.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   26.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   26.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   26.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   27.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   27.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   27.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   27.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   28.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   28.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   28.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   28.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   29.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   29.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   29.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   29.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   30.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=   30.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   30.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   30.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   31.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   31.250000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 214.33s    Est. Remaining: 1843.26s
+  t=    31.2500 Dt= 0.2500     NIT= 13 Sm=  0.0000                                  CPU=    215. s
+   MbError%(0,MMAX): -0.2771E-09
+ 
+ t=   31.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   31.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   32.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   32.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   32.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   32.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   33.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   33.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   33.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   33.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   34.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   34.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   34.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   34.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   35.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   35.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   35.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   35.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   36.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   36.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   36.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   36.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   37.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   37.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   37.500000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 251.64s    Est. Remaining: 1761.47s
+  t=    37.5000 Dt= 0.2500     NIT= 13 Sm=  0.0000                                  CPU=    253. s
+   MbError%(0,MMAX):  0.2562E-09
+ 
+ t=   37.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   38.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   38.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   38.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   38.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   39.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   39.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   39.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   39.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   40.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=   40.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   40.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   40.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   41.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   41.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   41.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   41.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   42.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   42.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   42.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   42.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   43.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   43.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   43.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   43.750000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 289.64s    Est. Remaining: 1696.49s
+  t=    43.7500 Dt= 0.2500     NIT= 13 Sm=  0.0000                                  CPU=    291. s
+   MbError%(0,MMAX):  0.1033E-09
+ 
+ t=   44.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   44.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   44.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   44.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   45.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   45.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   45.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   45.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   46.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   46.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   46.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   46.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   47.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   47.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   47.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   47.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   48.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   48.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   48.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   48.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   49.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   49.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   49.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   49.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   50.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ Wall Time - Elapsed: 328.48s    Est. Remaining: 1642.38s
+  t=    50.0000 Dt= 0.2500     NIT= 13 Sm=  0.0000                                  CPU=    330. s
+   MbError%(0,MMAX):  0.9598E-10
+ 
+ t=   50.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   50.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   50.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   51.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   51.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   51.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   51.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   52.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   52.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   52.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   52.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   53.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   53.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   53.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   53.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   54.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   54.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   54.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   54.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   55.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   55.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   55.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   55.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   56.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   56.250000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 367.77s    Est. Remaining: 1593.69s
+  t=    56.2500 Dt= 0.2500     NIT= 14 Sm=  0.0000                                  CPU=    369. s
+   MbError%(0,MMAX):  0.9256E-10
+ 
+ t=   56.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   56.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   57.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   57.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   57.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   57.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   58.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   58.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   58.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   58.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   59.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   59.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   59.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   59.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   60.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=   60.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   60.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   60.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   61.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   61.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   61.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   61.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   62.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   62.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   62.500000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 409.77s    Est. Remaining: 1557.12s
+  t=    62.5000 Dt= 0.2500     NIT= 15 Sm=  0.0000                                  CPU=    411. s
+   MbError%(0,MMAX): -0.2571E-10
+ 
+ t=   62.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   63.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   63.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   63.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   63.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   64.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   64.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   64.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   64.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   65.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   65.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   65.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   65.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   66.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   66.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   66.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   66.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   67.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   67.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   67.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   67.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   68.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   68.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   68.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   68.750000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 455.46s    Est. Remaining: 1531.99s
+  t=    68.7500 Dt= 0.2500     NIT= 16 Sm=  0.0000                                  CPU=    456. s
+   MbError%(0,MMAX): -0.8074E-11
+ 
+ t=   69.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   69.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   69.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   69.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   70.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=   70.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   70.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   70.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   71.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   71.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   71.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   71.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   72.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   72.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   72.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   72.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   73.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   73.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   73.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   73.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   74.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   74.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   74.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   74.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   75.000000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 500.24s    Est. Remaining: 1500.72s
+  t=    75.0000 Dt= 0.2500     NIT= 18 Sm=  0.0000                                  CPU=    501. s
+   MbError%(0,MMAX):  0.1628E-10
+ 
+ t=   75.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   75.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   75.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   76.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   76.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   76.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   76.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   77.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   77.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   77.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   77.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   78.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   78.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   78.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   78.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   79.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   79.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   79.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   79.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   80.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=   80.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   80.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   80.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   81.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   81.250000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 549.88s    Est. Remaining: 1480.44s
+  t=    81.2500 Dt= 0.2500     NIT= 19 Sm=  0.0000                                  CPU=    551. s
+   MbError%(0,MMAX): -0.9595E-10
+ 
+ t=   81.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   81.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   82.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   82.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   82.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   82.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   83.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   83.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   83.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   83.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   84.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   84.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   84.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   84.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   85.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   85.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   85.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   85.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   86.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   86.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   86.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   86.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   87.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   87.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   87.500000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 601.45s    Est. Remaining: 1460.65s
+  t=    87.5000 Dt= 0.2500     NIT= 20 Sm=  0.0000                                  CPU=    603. s
+   MbError%(0,MMAX): -0.5126E-10
+ 
+ t=   87.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   88.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   88.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   88.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   88.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   89.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   89.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   89.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   89.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   90.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=   90.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   90.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   90.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   91.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   91.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   91.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   91.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   92.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   92.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   92.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   92.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   93.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   93.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   93.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   93.750000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 657.33s    Est. Remaining: 1446.13s
+  t=    93.7500 Dt= 0.2500     NIT= 21 Sm=  0.0000                                  CPU=    658. s
+   MbError%(0,MMAX): -0.3354E-09
+ 
+ t=   94.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   94.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   94.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   94.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   95.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   95.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   95.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   95.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   96.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   96.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   96.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   96.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   97.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   97.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   97.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   97.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   98.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   98.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   98.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   98.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   99.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   99.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   99.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=   99.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  100.000000 Wrote .RES; SPx: 1,2,3,4,5,6,7,8,9; .OUT; 
+ 
+ Wall Time - Elapsed: 713.80s    Est. Remaining: 1427.61s
+  t=   100.0000 Dt= 0.2500     NIT= 21 Sm=  0.0000                                  CPU=    714. s
+   MbError%(0,MMAX): -0.2636E-09
+ 
+ t=  100.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  100.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  100.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  101.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  101.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  101.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  101.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  102.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  102.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  102.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  102.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  103.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  103.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  103.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  103.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  104.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  104.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  104.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  104.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  105.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  105.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  105.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  105.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  106.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  106.250000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 770.02s    Est. Remaining: 1404.15s
+  t=   106.2500 Dt= 0.2500     NIT= 21 Sm=  0.0000                                  CPU=    771. s
+   MbError%(0,MMAX): -0.2262E-09
+ 
+ t=  106.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  106.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  107.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  107.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  107.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  107.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  108.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  108.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  108.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  108.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  109.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  109.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  109.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  109.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  110.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  110.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  110.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  110.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  111.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  111.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  111.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  111.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  112.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  112.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  112.500000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 827.94s    Est. Remaining: 1379.91s
+  t=   112.5000 Dt= 0.2500     NIT= 21 Sm=  0.0000                                  CPU=    829. s
+   MbError%(0,MMAX): -0.1398E-09
+ 
+ t=  112.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  113.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  113.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  113.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  113.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  114.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  114.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  114.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  114.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  115.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  115.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  115.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  115.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  116.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  116.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  116.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  116.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  117.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  117.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  117.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  117.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  118.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  118.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  118.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  118.750000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 885.68s    Est. Remaining: 1351.83s
+  t=   118.7500 Dt= 0.2500     NIT= 21 Sm=  0.0000                                  CPU=    886. s
+   MbError%(0,MMAX):  0.1016E-09
+ 
+ t=  119.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  119.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  119.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  119.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  120.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  120.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  120.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  120.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  121.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  121.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  121.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  121.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  122.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  122.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  122.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  122.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  123.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  123.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  123.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  123.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  124.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  124.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  124.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  124.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  125.000000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 942.78s    Est. Remaining: 1319.89s
+  t=   125.0000 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=    944. s
+   MbError%(0,MMAX): -0.1022E-09
+ 
+ t=  125.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  125.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  125.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  126.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  126.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  126.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  126.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  127.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  127.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  127.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  127.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  128.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  128.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  128.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  128.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  129.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  129.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  129.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  129.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  130.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  130.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  130.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  130.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  131.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  131.250000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1002.01s    Est. Remaining: 1288.30s
+  t=   131.2500 Dt= 0.2500     NIT= 21 Sm=  0.0000                                  CPU=   1002. s
+   MbError%(0,MMAX): -0.5715E-10
+ 
+ t=  131.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  131.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  132.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  132.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  132.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  132.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  133.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  133.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  133.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  133.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  134.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  134.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  134.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  134.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  135.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  135.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  135.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  135.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  136.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  136.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  136.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  136.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  137.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  137.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  137.500000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1061.99s    Est. Remaining: 1255.08s
+  t=   137.5000 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1062. s
+   MbError%(0,MMAX):  0.5244E-10
+ 
+ t=  137.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  138.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  138.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  138.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  138.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  139.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  139.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  139.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  139.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  140.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  140.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  140.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  140.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  141.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  141.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  141.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  141.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  142.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  142.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  142.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  142.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  143.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  143.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  143.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  143.750000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1120.88s    Est. Remaining: 1218.35s
+  t=   143.7500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1121. s
+   MbError%(0,MMAX): -0.1316E-09
+ 
+ t=  144.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  144.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  144.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  144.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  145.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  145.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  145.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  145.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  146.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  146.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  146.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  146.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  147.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  147.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  147.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  147.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  148.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  148.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  148.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  148.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  149.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  149.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  149.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  149.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  150.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ Wall Time - Elapsed: 1181.08s    Est. Remaining: 1181.08s
+  t=   150.0000 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1182. s
+   MbError%(0,MMAX):  0.4000E-10
+ 
+ t=  150.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  150.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  150.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  151.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  151.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  151.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  151.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  152.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  152.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  152.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  152.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  153.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  153.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  153.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  153.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  154.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  154.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  154.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  154.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  155.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  155.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  155.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  155.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  156.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  156.250000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1242.09s    Est. Remaining: 1142.72s
+  t=   156.2500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1242. s
+   MbError%(0,MMAX):  0.3505E-10
+ 
+ t=  156.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  156.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  157.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  157.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  157.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  157.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  158.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  158.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  158.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  158.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  159.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  159.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  159.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  159.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  160.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  160.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  160.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  160.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  161.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  161.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  161.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  161.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  162.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  162.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  162.500000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1302.45s    Est. Remaining: 1102.07s
+  t=   162.5000 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1303. s
+   MbError%(0,MMAX): -0.1710E-09
+ 
+ t=  162.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  163.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  163.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  163.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  163.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  164.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  164.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  164.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  164.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  165.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  165.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  165.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  165.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  166.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  166.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  166.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  166.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  167.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  167.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  167.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  167.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  168.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  168.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  168.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  168.750000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1362.72s    Est. Remaining: 1059.89s
+  t=   168.7500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1363. s
+   MbError%(0,MMAX):  0.5076E-10
+ 
+ t=  169.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  169.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  169.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  169.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  170.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  170.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  170.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  170.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  171.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  171.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  171.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  171.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  172.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  172.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  172.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  172.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  173.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  173.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  173.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  173.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  174.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  174.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  174.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  174.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  175.000000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1424.65s    Est. Remaining: 1017.61s
+  t=   175.0000 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1425. s
+   MbError%(0,MMAX): -0.2195E-10
+ 
+ t=  175.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  175.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  175.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  176.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  176.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  176.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  176.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  177.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  177.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  177.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  177.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  178.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  178.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  178.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  178.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  179.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  179.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  179.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  179.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  180.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  180.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  180.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  180.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  181.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  181.250000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1484.91s    Est. Remaining: 972.87s
+  t=   181.2500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1485. s
+   MbError%(0,MMAX): -0.1739E-09
+ 
+ t=  181.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  181.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  182.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  182.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  182.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  182.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  183.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  183.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  183.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  183.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  184.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  184.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  184.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  184.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  185.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  185.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  185.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  185.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  186.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  186.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  186.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  186.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  187.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  187.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  187.500000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1546.84s    Est. Remaining: 928.10s
+  t=   187.5000 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1546. s
+   MbError%(0,MMAX):  0.1044E-09
+ 
+ t=  187.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  188.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  188.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  188.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  188.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  189.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  189.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  189.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  189.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  190.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  190.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  190.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  190.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  191.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  191.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  191.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  191.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  192.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  192.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  192.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  192.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  193.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  193.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  193.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  193.750000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1608.94s    Est. Remaining: 882.32s
+  t=   193.7500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1608. s
+   MbError%(0,MMAX): -0.1053E-10
+ 
+ t=  194.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  194.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  194.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  194.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  195.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  195.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  195.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  195.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  196.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  196.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  196.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  196.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  197.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  197.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  197.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  197.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  198.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  198.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  198.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  198.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  199.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  199.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  199.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  199.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  200.000000 Wrote .RES; SPx: 1,2,3,4,5,6,7,8,9; .OUT; 
+ 
+ Wall Time - Elapsed: 1670.30s    Est. Remaining: 835.15s
+  t=   200.0000 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1669. s
+   MbError%(0,MMAX): -0.1518E-09
+ 
+ t=  200.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  200.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  200.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  201.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  201.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  201.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  201.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  202.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  202.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  202.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  202.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  203.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  203.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  203.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  203.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  204.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  204.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  204.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  204.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  205.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  205.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  205.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  205.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  206.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  206.250000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1731.32s    Est. Remaining: 786.96s
+  t=   206.2500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1730. s
+   MbError%(0,MMAX):  0.9205E-10
+ 
+ t=  206.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  206.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  207.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  207.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  207.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  207.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  208.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  208.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  208.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  208.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  209.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  209.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  209.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  209.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  210.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  210.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  210.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  210.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  211.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  211.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  211.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  211.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  212.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  212.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  212.500000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1792.10s    Est. Remaining: 737.92s
+  t=   212.5000 Dt= 0.2500     NIT= 21 Sm=  0.0000                                  CPU=   1791. s
+   MbError%(0,MMAX): -0.1112E-09
+ 
+ t=  212.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  213.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  213.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  213.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  213.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  214.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  214.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  214.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  214.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  215.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  215.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  215.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  215.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  216.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  216.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  216.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  216.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  217.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  217.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  217.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  217.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  218.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  218.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  218.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  218.750000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1851.76s    Est. Remaining: 687.79s
+  t=   218.7500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1851. s
+   MbError%(0,MMAX): -0.2036E-09
+ 
+ t=  219.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  219.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  219.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  219.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  220.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  220.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  220.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  220.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  221.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  221.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  221.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  221.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  222.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  222.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  222.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  222.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  223.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  223.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  223.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  223.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  224.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  224.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  224.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  224.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  225.000000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1911.62s    Est. Remaining: 637.21s
+  t=   225.0000 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1911. s
+   MbError%(0,MMAX):  0.9060E-10
+ 
+ t=  225.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  225.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  225.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  226.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  226.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  226.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  226.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  227.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  227.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  227.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  227.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  228.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  228.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  228.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  228.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  229.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  229.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  229.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  229.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  230.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  230.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  230.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  230.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  231.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  231.250000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 1972.08s    Est. Remaining: 586.29s
+  t=   231.2500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   1971. s
+   MbError%(0,MMAX): -0.2462E-09
+ 
+ t=  231.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  231.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  232.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  232.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  232.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  232.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  233.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  233.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  233.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  233.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  234.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  234.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  234.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  234.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  235.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  235.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  235.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  235.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  236.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  236.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  236.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  236.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  237.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  237.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  237.500000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 2031.79s    Est. Remaining: 534.68s
+  t=   237.5000 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   2031. s
+   MbError%(0,MMAX): -0.2357E-09
+ 
+ t=  237.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  238.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  238.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  238.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  238.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  239.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  239.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  239.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  239.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  240.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  240.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  240.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  240.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  241.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  241.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  241.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  241.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  242.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  242.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  242.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  242.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  243.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  243.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  243.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  243.750000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 2090.09s    Est. Remaining: 482.33s
+  t=   243.7500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   2089. s
+   MbError%(0,MMAX):  0.9780E-10
+ 
+ t=  244.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  244.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  244.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  244.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  245.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  245.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  245.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  245.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  246.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  246.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  246.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  246.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  247.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  247.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  247.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  247.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  248.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  248.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  248.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  248.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  249.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  249.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  249.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  249.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  250.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ Wall Time - Elapsed: 2148.84s    Est. Remaining: 429.77s
+  t=   250.0000 Dt= 0.2500     NIT= 21 Sm=  0.0000                                  CPU=   2147. s
+   MbError%(0,MMAX): -0.2423E-09
+ 
+ t=  250.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  250.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  250.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  251.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  251.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  251.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  251.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  252.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  252.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  252.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  252.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  253.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  253.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  253.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  253.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  254.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  254.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  254.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  254.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  255.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  255.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  255.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  255.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  256.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  256.250000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 2207.70s    Est. Remaining: 376.92s
+  t=   256.2500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   2206. s
+   MbError%(0,MMAX): -0.2319E-09
+ 
+ t=  256.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  256.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  257.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  257.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  257.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  257.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  258.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  258.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  258.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  258.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  259.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  259.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  259.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  259.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  260.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  260.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  260.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  260.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  261.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  261.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  261.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  261.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  262.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  262.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  262.500000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 2267.21s    Est. Remaining: 323.89s
+  t=   262.5000 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   2264. s
+   MbError%(0,MMAX):  0.1304E-09
+ 
+ t=  262.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  263.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  263.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  263.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  263.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  264.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  264.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  264.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  264.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  265.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  265.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  265.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  265.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  266.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  266.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  266.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  266.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  267.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  267.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  267.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  267.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  268.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  268.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  268.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  268.750000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 2325.89s    Est. Remaining: 270.45s
+  t=   268.7500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   2323. s
+   MbError%(0,MMAX): -0.2428E-09
+ 
+ t=  269.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  269.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  269.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  269.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  270.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  270.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  270.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  270.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  271.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  271.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  271.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  271.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  272.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  272.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  272.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  272.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  273.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  273.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  273.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  273.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  274.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  274.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  274.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  274.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  275.000000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 2385.46s    Est. Remaining: 216.86s
+  t=   275.0000 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   2382. s
+   MbError%(0,MMAX): -0.2501E-09
+ 
+ t=  275.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  275.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  275.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  276.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  276.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  276.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  276.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  277.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  277.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  277.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  277.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  278.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  278.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  278.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  278.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  279.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  279.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  279.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  279.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  280.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  280.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  280.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  280.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  281.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  281.250000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 2443.51s    Est. Remaining: 162.90s
+  t=   281.2500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   2440. s
+   MbError%(0,MMAX):  0.1122E-09
+ 
+ t=  281.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  281.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  282.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  282.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  282.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  282.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  283.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  283.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  283.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  283.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  284.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  284.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  284.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  284.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  285.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  285.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  285.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  285.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  286.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  286.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  286.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  286.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  287.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  287.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  287.500000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 2502.15s    Est. Remaining: 108.79s
+  t=   287.5000 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   2498. s
+   MbError%(0,MMAX): -0.1455E-09
+ 
+ t=  287.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  288.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  288.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  288.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  288.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  289.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  289.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  289.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  289.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  290.000000 Wrote SPx: 2,3,4; .OUT; 
+ 
+ 
+ t=  290.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  290.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  290.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  291.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  291.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  291.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  291.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  292.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  292.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  292.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  292.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  293.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  293.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  293.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  293.750000 Wrote SPx: 2,3,4; 
+ 
+ Wall Time - Elapsed: 2562.12s    Est. Remaining: 54.51s
+  t=   293.7500 Dt= 0.2500     NIT= 22 Sm=  0.0000                                  CPU=   2558. s
+   MbError%(0,MMAX): -0.9343E-10
+ 
+ t=  294.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  294.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  294.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  294.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  295.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  295.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  295.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  295.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  296.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  296.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  296.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  296.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  297.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  297.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  297.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  297.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  298.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  298.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  298.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  298.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  299.000000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  299.250000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  299.500000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  299.750000 Wrote SPx: 2,3,4; 
+ 
+ 
+ t=  300.000000 Wrote .RES; SPx: 1,2,3,4,5,6,7,8,9,A,B; .OUT; .USR: 1,2,3,4,5; 
+ 
+ Wall Time - Elapsed: 2621.33s    Est. Remaining: 0.00s
+  
+  
+  **********************************************************************
+  Total CPU used = 2590. s
+  Total CPU IO used = 24.43 s
+  Total wall time used = 2624. s
+  **********************************************************************
+  
+  
+  **********************************************************************
+  Total CPU used = 2590. s
+  Total CPU IO used = 24.43 s
+  Total wall time used = 2624. s
+  **********************************************************************

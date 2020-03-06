@@ -1,0 +1,1 @@
+convert -delay 20 mfix_dem2d.00??.png mfix2d_demepg.gif 

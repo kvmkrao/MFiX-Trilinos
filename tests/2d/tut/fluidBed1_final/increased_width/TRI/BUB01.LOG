@@ -1,0 +1,1189 @@
+  
+ MFIX (2015-2    ) simulation on computer:                     
+ Run name: BUB01                 Time: 17:18                    Date:  2-23-2018
+ Memory required:    9.00 Mb
+________________________________________________________________________
+
+
+ **********************************************************************
+ From: GRIDMAP_INIT
+ Parallel load balancing statistics:
+  
+              Comp. cells    Processor
+    maximum           918            1
+    minimum           918            1
+    average           918      -N/A-
+  
+    Maximum speedup (Amdahls Law) = +Inf
+ **********************************************************************
+ 
+ t=    0.000000 Wrote .RES; SPx: 1,2,3,4,5,6,7,8,9,A,B; .OUT; 
+ 
+ Wall Time - Elapsed: 0.02s    Est. Remaining: 13.33h
+  t=     0.0000 Dt= 0.1000E-03 NIT= 20 Sm=  18221.                                  CPU=      0. s
+   MbError%(0,MMAX):  0.2352E-12 -0.1753E-08
+ Wall Time - Elapsed: 9.16s    Est. Remaining: 1.70h
+  t=     0.0030 Dt= 0.1524E-03 NIT= 16 Sm=  18221.                                  CPU=     10. s
+   MbError%(0,MMAX):  0.1536E-13 -0.5884E-08
+ Wall Time - Elapsed: 18.08s    Est. Remaining: 1.32h
+  t=     0.0076 Dt= 0.2323E-03 NIT= 16 Sm=  18221.                                  CPU=     18. s
+   MbError%(0,MMAX):  0.4765E-13 -0.5003E-08
+ 
+ t=    0.010087 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 26.89s    Est. Remaining: 1.00h
+  t=     0.0148 Dt= 0.3541E-03 NIT= 16 Sm=  18221.                                  CPU=     27. s
+   MbError%(0,MMAX):  0.4144E-13 -0.1594E-08
+ 
+ t=    0.020390 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 36.03s    Est. Remaining: 2746.03s
+  t=     0.0259 Dt= 0.5397E-03 NIT= 16 Sm=  18221.                                  CPU=     36. s
+   MbError%(0,MMAX):  0.3713E-13 -0.2571E-07
+ 
+ t=    0.029978 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.040078 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 45.57s    Est. Remaining: 2191.46s
+  t=     0.0407 Dt= 0.6662E-03 NIT= 18 Sm=  18221.                                  CPU=     46. s
+   MbError%(0,MMAX):  0.2612E-13 -0.1993E-07
+ 
+ t=    0.049965 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.060333 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 55.88s    Est. Remaining: 1736.13s
+  t=     0.0624 Dt= 0.1128E-02 NIT= 19 Sm=  18221.                                  CPU=     56. s
+   MbError%(0,MMAX):  0.5192E-13 -0.6074E-07
+ 
+ t=    0.070387 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.080834 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.091204 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 66.86s    Est. Remaining: 1325.70s
+  t=     0.0960 Dt= 0.1720E-02 NIT= 19 Sm=  18221.                                  CPU=     67. s
+   MbError%(0,MMAX):  0.1552E-13 -0.1947E-06
+ 
+ t=    0.101178 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ 
+ t=    0.110350 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.120328 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.130732 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.140285 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 77.47s    Est. Remaining: 1000.51s
+  t=     0.1437 Dt= 0.1720E-02 NIT= 18 Sm=  18221.                                  CPU=     77. s
+   MbError%(0,MMAX):  0.1964E-13 -0.2343E-06
+ 
+ t=    0.150604 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.160157 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.170561 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.181884 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.191582 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 87.71s    Est. Remaining: 803.54s
+  t=     0.1968 Dt= 0.2621E-02 NIT= 20 Sm=  18221.                                  CPU=     88. s
+   MbError%(0,MMAX): -0.1356E-13 -0.1000E-05
+ 
+ t=    0.202066 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ 
+ t=    0.210512 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.222161 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.230024 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.240800 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.252449 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.261833 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 100.21s    Est. Remaining: 646.79s
+  t=     0.2683 Dt= 0.3236E-02 NIT= 18 Sm=  18221.                                  CPU=    100. s
+   MbError%(0,MMAX): -0.6227E-13 -0.7902E-06
+ 
+ t=    0.271541 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.280602 Wrote .RES; SPx: 1; 
+ 
+ t=     0.2806 Dt= 0.2912E-02 NIT=  2MbErr%=-0.7300E-08: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 101.4 s
+  Total CPU IO used = 0.8600E-01 s
+  Total wall time used = 102.4 s
+  **********************************************************************
+    Recovered: Dt= 0.26211E-02 :-)
+ t=     0.2806 Dt= 0.2621E-02 NIT=  3MbErr%= -10.57    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 101.5 s
+  Total CPU IO used = 0.8600E-01 s
+  Total wall time used = 102.4 s
+  **********************************************************************
+    Recovered: Dt= 0.23590E-02 :-)
+ t=     0.2806 Dt= 0.2359E-02 NIT=  4MbErr%= -100.2    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 101.5 s
+  Total CPU IO used = 0.8600E-01 s
+  Total wall time used = 102.5 s
+  **********************************************************************
+    Recovered: Dt= 0.21231E-02 :-)
+ 
+ t=    0.291217 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.300417 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ 
+ t=    0.310115 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.320600 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.331958 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 111.83s    Est. Remaining: 561.91s
+  t=     0.3320 Dt= 0.2912E-02 NIT= 17 Sm=  18221.                                  CPU=    112. s
+   MbError%(0,MMAX):  0.1784E-13 -0.5379E-06
+ 
+ t=    0.340695 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.351179 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.362246 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.370983 Wrote .RES; SPx: 1; 
+ 
+ t=     0.3739 Dt= 0.3236E-02 NIT=  3MbErr%= 0.5667    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 118.3 s
+  Total CPU IO used = 0.1070 s
+  Total wall time used = 119.3 s
+  **********************************************************************
+    Recovered: Dt= 0.29123E-02 :-)
+ t=     0.3739 Dt= 0.2912E-02 NIT=  6MbErr%= -100.1    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 118.5 s
+  Total CPU IO used = 0.1070 s
+  Total wall time used = 119.4 s
+  **********************************************************************
+    Recovered: Dt= 0.26211E-02 :-)
+ 
+ t=    0.381758 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.391981 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 124.13s    Est. Remaining: 498.00s
+  t=     0.3991 Dt= 0.2359E-02 NIT= 22 Sm=  18221.                                  CPU=    124. s
+   MbError%(0,MMAX):  0.6007E-13 -0.1790E-05
+ 
+ t=    0.401417 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ 
+ t=    0.410145 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.421232 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.430668 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.441283 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.451050 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 135.88s    Est. Remaining: 464.09s
+  t=     0.4530 Dt= 0.1911E-02 NIT= 20 Sm=  18221.                                  CPU=    136. s
+   MbError%(0,MMAX): -0.6804E-13 -0.1538E-05
+ 
+ t=    0.460030 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.470922 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.480900 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.491751 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.501187 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 147.42s    Est. Remaining: 438.12s
+  t=     0.5035 Dt= 0.2621E-02 NIT= 20 Sm=  18221.                                  CPU=    147. s
+   MbError%(0,MMAX):  0.3357E-13 -0.2181E-05
+ 
+ t=    0.511410 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.522185 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.530922 Wrote .RES; SPx: 1; 
+ 
+ t=     0.5367 Dt= 0.2621E-02 NIT=  3MbErr%= 0.4362E-01: Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 152.5 s
+  Total CPU IO used = 0.1440 s
+  Total wall time used = 153.6 s
+  **********************************************************************
+    Recovered: Dt= 0.23590E-02 :-)
+ 
+ t=    0.541465 Wrote .RES; SPx: 1; 
+ 
+ t=     0.5462 Dt= 0.2359E-02 NIT=  3MbErr%= -100.1    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 154.6 s
+  Total CPU IO used = 0.1460 s
+  Total wall time used = 155.7 s
+  **********************************************************************
+    Recovered: Dt= 0.21231E-02 :-)
+ t=     0.5462 Dt= 0.2123E-02 NIT=  3MbErr%= -127.2    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 154.7 s
+  Total CPU IO used = 0.1460 s
+  Total wall time used = 155.8 s
+  **********************************************************************
+    Recovered: Dt= 0.19108E-02 :-)
+ t=     0.5462 Dt= 0.1911E-02 NIT=  3MbErr%= 0.6285E-05: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 154.8 s
+  Total CPU IO used = 0.1460 s
+  Total wall time used = 155.9 s
+  **********************************************************************
+    Recovered: Dt= 0.17197E-02 :-)
+ 
+ t=    0.551342 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.560323 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 159.46s    Est. Remaining: 407.79s
+  t=     0.5622 Dt= 0.1911E-02 NIT= 18 Sm=  18221.                                  CPU=    159. s
+   MbError%(0,MMAX):  0.7777E-16 -0.1079E-05
+ 
+ t=    0.570089 Wrote .RES; SPx: 1; 
+ 
+ t=     0.5765 Dt= 0.2123E-02 NIT=  3MbErr%=-0.3712    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 161.7 s
+  Total CPU IO used = 0.1530 s
+  Total wall time used = 162.8 s
+  **********************************************************************
+    Recovered: Dt= 0.19108E-02 :-)
+ t=     0.5765 Dt= 0.1911E-02 NIT=  5MbErr%= -27.67    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 161.8 s
+  Total CPU IO used = 0.1530 s
+  Total wall time used = 162.9 s
+  **********************************************************************
+    Recovered: Dt= 0.17197E-02 :-)
+ 
+ t=    0.579897 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.589872 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.601222 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 170.29s    Est. Remaining: 391.37s
+  t=     0.6064 Dt= 0.1911E-02 NIT= 34 Sm=  18221.                                  CPU=    170. s
+   MbError%(0,MMAX): -0.2903E-13 -0.4176E-06
+ 
+ t=    0.610202 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.621285 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.630074 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.641751 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.650244 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 182.28s    Est. Remaining: 374.54s
+  t=     0.6547 Dt= 0.2359E-02 NIT= 18 Sm=  18221.                                  CPU=    182. s
+   MbError%(0,MMAX):  0.1964E-13 -0.4868E-06
+ t=     0.6571 Dt= 0.2359E-02 NIT=  4MbErr%=-0.9334    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 181.9 s
+  Total CPU IO used = 0.1720 s
+  Total wall time used = 183.1 s
+  **********************************************************************
+    Recovered: Dt= 0.21231E-02 :-)
+ 
+ t=    0.661331 Wrote .RES; SPx: 1; 
+ 
+ t=     0.6656 Dt= 0.2123E-02 NIT=  5MbErr%= -170.9    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 183.8 s
+  Total CPU IO used = 0.1750 s
+  Total wall time used = 185.1 s
+  **********************************************************************
+    Recovered: Dt= 0.19108E-02 :-)
+ 
+ t=    0.671309 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.680481 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.690455 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.700086 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 193.98s    Est. Remaining: 360.18s
+  t=     0.7001 Dt= 0.1720E-02 NIT= 17 Sm=  18221.                                  CPU=    194. s
+   MbError%(0,MMAX):  0.3917E-13 -0.6516E-06
+ 
+ t=    0.710786 Wrote .RES; SPx: 1; 
+ 
+ t=     0.7127 Dt= 0.1911E-02 NIT=  2MbErr%=-0.1051E-05: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 195.9 s
+  Total CPU IO used = 0.1880 s
+  Total wall time used = 197.1 s
+  **********************************************************************
+    Recovered: Dt= 0.17197E-02 :-)
+ t=     0.7127 Dt= 0.1720E-02 NIT=  2MbErr%=-0.4513E-06: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 195.9 s
+  Total CPU IO used = 0.1880 s
+  Total wall time used = 197.1 s
+  **********************************************************************
+    Recovered: Dt= 0.15477E-02 :-)
+ t=     0.7127 Dt= 0.1548E-02 NIT=  2MbErr%=-0.1649E-06: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 196.0 s
+  Total CPU IO used = 0.1880 s
+  Total wall time used = 197.2 s
+  **********************************************************************
+    Recovered: Dt= 0.13930E-02 :-)
+ t=     0.7127 Dt= 0.1393E-02 NIT=  3MbErr%= -2.896    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 196.0 s
+  Total CPU IO used = 0.1880 s
+  Total wall time used = 197.2 s
+  **********************************************************************
+    Recovered: Dt= 0.12537E-02 :-)
+ t=     0.7127 Dt= 0.1254E-02 NIT=  4MbErr%= -100.0    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 196.1 s
+  Total CPU IO used = 0.1880 s
+  Total wall time used = 197.3 s
+  **********************************************************************
+    Recovered: Dt= 0.11283E-02 :-)
+ 
+ t=    0.720482 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.730129 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 204.15s    Est. Remaining: 354.37s
+  t=     0.7310 Dt= 0.1015E-02 NIT= 17 Sm=  18221.                                  CPU=    204. s
+   MbError%(0,MMAX): -0.9353E-13 -0.2516E-06
+ 
+ t=    0.740521 Wrote .RES; SPx: 1; 
+ 
+ t=     0.7439 Dt= 0.1254E-02 NIT=  4MbErr%= -100.0    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 207.9 s
+  Total CPU IO used = 0.1950 s
+  Total wall time used = 209.1 s
+  **********************************************************************
+    Recovered: Dt= 0.11283E-02 :-)
+ 
+ t=    0.750675 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 214.04s    Est. Remaining: 350.95s
+  t=     0.7577 Dt= 0.9139E-03 NIT= 16 Sm=  18221.                                  CPU=    214. s
+   MbError%(0,MMAX):  0.6393E-13 -0.4279E-06
+ 
+ t=    0.760424 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.770601 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.780129 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 223.79s    Est. Remaining: 346.46s
+  t=     0.7849 Dt= 0.1128E-02 NIT= 17 Sm=  18221.                                  CPU=    223. s
+   MbError%(0,MMAX):  0.8775E-14 -0.8270E-06
+ 
+ t=    0.790421 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.800012 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ 
+ t=    0.811183 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 233.62s    Est. Remaining: 340.41s
+  t=     0.8140 Dt= 0.1393E-02 NIT= 16 Sm=  18221.                                  CPU=    233. s
+   MbError%(0,MMAX):  0.2573E-14 -0.8462E-06
+ 
+ t=    0.821243 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.830874 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.840848 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.851218 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 243.89s    Est. Remaining: 328.21s
+  t=     0.8526 Dt= 0.1393E-02 NIT= 17 Sm=  18221.                                  CPU=    244. s
+   MbError%(0,MMAX):  0.1524E-13 -0.1042E-05
+ 
+ t=    0.860040 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.869842 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.880734 Wrote .RES; SPx: 1; 
+ 
+ t=     0.8807 Dt= 0.1911E-02 NIT=  3MbErr%= -1.303    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 250.8 s
+  Total CPU IO used = 0.2280 s
+  Total wall time used = 252.1 s
+  **********************************************************************
+    Recovered: Dt= 0.17197E-02 :-)
+ 
+ t=    0.891052 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 255.30s    Est. Remaining: 315.74s
+  t=     0.8941 Dt= 0.1548E-02 NIT= 16 Sm=  18221.                                  CPU=    255. s
+   MbError%(0,MMAX):  0.3067E-13 -0.1082E-05
+ 
+ t=    0.900338 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ 
+ t=    0.910244 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.920768 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.930101 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 265.10s    Est. Remaining: 304.95s
+  t=     0.9301 Dt= 0.1254E-02 NIT= 17 Sm=  18221.                                  CPU=    265. s
+   MbError%(0,MMAX):  0.1326E-12 -0.4774E-06
+ 
+ t=    0.940827 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.949958 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.960105 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 275.16s    Est. Remaining: 293.34s
+  t=     0.9680 Dt= 0.1548E-02 NIT= 16 Sm=  18221.                                  CPU=    275. s
+   MbError%(0,MMAX):  0.4394E-13 -0.7454E-06
+ 
+ t=    0.971111 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.981016 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    0.990474 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.000984 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 284.79s    Est. Remaining: 279.92s
+  t=     1.0086 Dt= 0.1911E-02 NIT= 22 Sm=  18221.                                  CPU=    285. s
+   MbError%(0,MMAX): -0.2231E-13 -0.7460E-06
+ 
+ t=    1.010538 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.021153 Wrote .RES; SPx: 1; 
+ 
+ t=     1.0212 Dt= 0.2123E-02 NIT=  4MbErr%= -100.0    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 286.7 s
+  Total CPU IO used = 0.2620 s
+  Total wall time used = 288.0 s
+  **********************************************************************
+    Recovered: Dt= 0.19108E-02 :-)
+ t=     1.0288 Dt= 0.1911E-02 NIT=  3MbErr%= 0.1757    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 288.6 s
+  Total CPU IO used = 0.2620 s
+  Total wall time used = 289.9 s
+  **********************************************************************
+    Recovered: Dt= 0.17197E-02 :-)
+ 
+ t=    1.030516 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.040662 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.051187 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 296.26s    Est. Remaining: 266.66s
+  t=     1.0526 Dt= 0.1393E-02 NIT= 17 Sm=  18221.                                  CPU=    296. s
+   MbError%(0,MMAX):  0.5032E-13 -0.2832E-05
+ 
+ t=    1.059854 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.071204 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.080184 Wrote .RES; SPx: 1; 
+ 
+ t=     1.0840 Dt= 0.1911E-02 NIT=  3MbErr%=-0.1134E-05: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 303.4 s
+  Total CPU IO used = 0.2740 s
+  Total wall time used = 304.7 s
+  **********************************************************************
+    Recovered: Dt= 0.17197E-02 :-)
+ 
+ t=    1.090885 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 307.22s    Est. Remaining: 254.26s
+  t=     1.0943 Dt= 0.1548E-02 NIT= 17 Sm=  18221.                                  CPU=    307. s
+   MbError%(0,MMAX):  0.6201E-13 -0.2082E-05
+ 
+ t=    1.100515 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ 
+ t=    1.110489 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.121572 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.131763 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.140043 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 318.18s    Est. Remaining: 240.01s
+  t=     1.1400 Dt= 0.1911E-02 NIT= 17 Sm=  18221.                                  CPU=    318. s
+   MbError%(0,MMAX): -0.9935E-13 -0.2453E-05
+ 
+ t=    1.151316 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.159915 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.171379 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.179872 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 329.22s    Est. Remaining: 225.05s
+  t=     1.1879 Dt= 0.1911E-02 NIT= 18 Sm=  18221.                                  CPU=    329. s
+   MbError%(0,MMAX): -0.7466E-14 -0.1170E-05
+ 
+ t=    1.189850 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.200742 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ 
+ t=    1.211633 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.221612 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.230104 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 341.49s    Est. Remaining: 211.16s
+  t=     1.2358 Dt= 0.1911E-02 NIT= 18 Sm=  18221.                                  CPU=    341. s
+   MbError%(0,MMAX): -0.1296E-14 -0.8278E-06
+ 
+ t=    1.241569 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.250061 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.261384 Wrote .RES; SPx: 1; 
+ 
+ t=     1.2614 Dt= 0.2359E-02 NIT=  3MbErr%= -17.72    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 346.3 s
+  Total CPU IO used = 0.3170 s
+  Total wall time used = 347.6 s
+  **********************************************************************
+    Recovered: Dt= 0.21231E-02 :-)
+ t=     1.2614 Dt= 0.2123E-02 NIT=  3MbErr%=-0.5272E-07: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 346.3 s
+  Total CPU IO used = 0.3170 s
+  Total wall time used = 347.7 s
+  **********************************************************************
+    Recovered: Dt= 0.19108E-02 :-)
+ 
+ t=    1.270938 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.281447 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 353.40s    Est. Remaining: 196.76s
+  t=     1.2847 Dt= 0.1548E-02 NIT= 18 Sm=  18221.                                  CPU=    353. s
+   MbError%(0,MMAX):  0.2889E-13 -0.5533E-06
+ 
+ t=    1.290906 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.301052 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ 
+ t=    1.310415 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.321115 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 364.11s    Est. Remaining: 184.39s
+  t=     1.3276 Dt= 0.1548E-02 NIT= 24 Sm=  18221.                                  CPU=    364. s
+   MbError%(0,MMAX): -0.7033E-13 -0.1081E-05
+ 
+ t=    1.330745 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.340719 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.349891 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.359870 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.370273 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 375.62s    Est. Remaining: 171.10s
+  t=     1.3741 Dt= 0.1911E-02 NIT= 17 Sm=  18221.                                  CPU=    375. s
+   MbError%(0,MMAX): -0.2905E-13 -0.4788E-06
+ t=     1.3798 Dt= 0.1720E-02 NIT=  4MbErr%= -2.294    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 376.1 s
+  Total CPU IO used = 0.3410 s
+  Total wall time used = 377.5 s
+  **********************************************************************
+    Recovered: Dt= 0.15477E-02 :-)
+ 
+ t=    1.381374 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.390833 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.401342 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ 
+ t=    1.410896 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 387.41s    Est. Remaining: 158.47s
+  t=     1.4194 Dt= 0.2123E-02 NIT= 18 Sm=  18221.                                  CPU=    387. s
+   MbError%(0,MMAX):  0.3615E-13 -0.2566E-05
+ 
+ t=    1.421511 Wrote .RES; SPx: 1; 
+ 
+ t=     1.4260 Dt= 0.2359E-02 NIT=  4MbErr%= -2.844    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 387.8 s
+  Total CPU IO used = 0.3540 s
+  Total wall time used = 389.2 s
+  **********************************************************************
+    Recovered: Dt= 0.21231E-02 :-)
+ 
+ t=    1.430240 Wrote .RES; SPx: 1; 
+ 
+ t=     1.4302 Dt= 0.2123E-02 NIT=  4MbErr%= -100.0    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 388.9 s
+  Total CPU IO used = 0.3570 s
+  Total wall time used = 390.3 s
+  **********************************************************************
+    Recovered: Dt= 0.19108E-02 :-)
+ 
+ t=    1.441704 Wrote .RES; SPx: 1; 
+ 
+ t=     1.4417 Dt= 0.1720E-02 NIT=  4MbErr%=-0.6289    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 391.6 s
+  Total CPU IO used = 0.3590 s
+  Total wall time used = 393.0 s
+  **********************************************************************
+    Recovered: Dt= 0.15477E-02 :-)
+ 
+ t=    1.450991 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.461309 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 398.56s    Est. Remaining: 145.50s
+  t=     1.4651 Dt= 0.1911E-02 NIT= 21 Sm=  18221.                                  CPU=    398. s
+   MbError%(0,MMAX): -0.5749E-13 -0.7723E-06
+ 
+ t=    1.470863 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.481372 Wrote .RES; SPx: 1; 
+ 
+ t=     1.4814 Dt= 0.1720E-02 NIT=  4MbErr%= 0.3335E-01: Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 401.8 s
+  Total CPU IO used = 0.3680 s
+  Total wall time used = 403.2 s
+  **********************************************************************
+    Recovered: Dt= 0.15477E-02 :-)
+ 
+ t=    1.490658 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.500976 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 410.04s    Est. Remaining: 134.08s
+  t=     1.5072 Dt= 0.1548E-02 NIT= 16 Sm=  18221.                                  CPU=    410. s
+   MbError%(0,MMAX):  0.6338E-14 -0.4740E-06
+ 
+ t=    1.510263 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.520168 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.531346 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.540136 Wrote .RES; SPx: 1; 
+ 
+ t=     1.5420 Dt= 0.1911E-02 NIT=  3MbErr%= -19.19    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 418.4 s
+  Total CPU IO used = 0.3820 s
+  Total wall time used = 419.8 s
+  **********************************************************************
+    Recovered: Dt= 0.17197E-02 :-)
+ t=     1.5420 Dt= 0.1720E-02 NIT=  4MbErr%= -100.0    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 418.5 s
+  Total CPU IO used = 0.3820 s
+  Total wall time used = 419.9 s
+  **********************************************************************
+    Recovered: Dt= 0.15477E-02 :-)
+ Wall Time - Elapsed: 420.99s    Est. Remaining: 123.39s
+  t=     1.5467 Dt= 0.1548E-02 NIT= 18 Sm=  18221.                                  CPU=    421. s
+   MbError%(0,MMAX): -0.3488E-13 -0.9696E-06
+ 
+ t=    1.551333 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.561238 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.570697 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.581206 Wrote .RES; SPx: 1; 
+ 
+ t=     1.5812 Dt= 0.1911E-02 NIT=  3MbErr%=-0.1269    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 429.1 s
+  Total CPU IO used = 0.3920 s
+  Total wall time used = 430.5 s
+  **********************************************************************
+    Recovered: Dt= 0.17197E-02 :-)
+ Wall Time - Elapsed: 431.62s    Est. Remaining: 112.54s
+  t=     1.5864 Dt= 0.1720E-02 NIT= 20 Sm=  18221.                                  CPU=    431. s
+   MbError%(0,MMAX):  0.7269E-13 -0.6337E-06
+ 
+ t=    1.591524 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.600811 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ t=     1.6092 Dt= 0.1548E-02 NIT=  4MbErr%= -100.0    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 436.5 s
+  Total CPU IO used = 0.3980 s
+  Total wall time used = 438.0 s
+  **********************************************************************
+    Recovered: Dt= 0.13930E-02 :-)
+ 
+ t=    1.610561 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.620033 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 441.66s    Est. Remaining: 102.74s
+  t=     1.6225 Dt= 0.1254E-02 NIT= 16 Sm=  18221.                                  CPU=    441. s
+   MbError%(0,MMAX): -0.3060E-13 -0.9085E-06
+ 
+ t=    1.630690 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.640733 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.650793 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 451.53s    Est. Remaining: 93.98s
+  t=     1.6554 Dt= 0.1548E-02 NIT= 26 Sm=  18221.                                  CPU=    451. s
+   MbError%(0,MMAX): -0.5781E-13 -0.4202E-06
+ 
+ t=    1.660423 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.671124 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.680486 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.690996 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.700550 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 462.45s    Est. Remaining: 81.43s
+  t=     1.7005 Dt= 0.2123E-02 NIT= 34 Sm=  18221.                                  CPU=    462. s
+   MbError%(0,MMAX):  0.3955E-12 -0.2844E-06
+ 
+ t=    1.711165 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.720931 Wrote .RES; SPx: 1; 
+ 
+ t=     1.7209 Dt= 0.1911E-02 NIT=  4MbErr%= -100.0    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 466.1 s
+  Total CPU IO used = 0.4260 s
+  Total wall time used = 467.5 s
+  **********************************************************************
+    Recovered: Dt= 0.17197E-02 :-)
+ 
+ t=    1.731249 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.740803 Wrote .RES; SPx: 1; 
+ 
+ t=     1.7448 Dt= 0.2123E-02 NIT=  2MbErr%= 0.1780E-06: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 472.3 s
+  Total CPU IO used = 0.4300 s
+  Total wall time used = 473.8 s
+  **********************************************************************
+    Recovered: Dt= 0.19108E-02 :-)
+ t=     1.7448 Dt= 0.1911E-02 NIT=  2MbErr%= 0.8351E-07: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 472.3 s
+  Total CPU IO used = 0.4300 s
+  Total wall time used = 473.8 s
+  **********************************************************************
+    Recovered: Dt= 0.17197E-02 :-)
+ t=     1.7448 Dt= 0.1720E-02 NIT=  2MbErr%= 0.4420E-07: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 472.3 s
+  Total CPU IO used = 0.4300 s
+  Total wall time used = 473.8 s
+  **********************************************************************
+    Recovered: Dt= 0.15477E-02 :-)
+ t=     1.7448 Dt= 0.1548E-02 NIT=  3MbErr%=  2.396    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 472.4 s
+  Total CPU IO used = 0.4300 s
+  Total wall time used = 473.9 s
+  **********************************************************************
+    Recovered: Dt= 0.13930E-02 :-)
+ t=     1.7448 Dt= 0.1393E-02 NIT=  4MbErr%= -100.1    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 472.5 s
+  Total CPU IO used = 0.4300 s
+  Total wall time used = 474.0 s
+  **********************************************************************
+    Recovered: Dt= 0.12537E-02 :-)
+ Wall Time - Elapsed: 474.71s    Est. Remaining: 68.64s
+  t=     1.7473 Dt= 0.1254E-02 NIT= 21 Sm=  18221.                                  CPU=    474. s
+   MbError%(0,MMAX):  0.1138E-12 -0.3526E-06
+ 
+ t=    1.751105 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.760144 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.770863 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 484.95s    Est. Remaining: 61.24s
+  t=     1.7758 Dt= 0.1254E-02 NIT= 17 Sm=  18221.                                  CPU=    485. s
+   MbError%(0,MMAX): -0.6820E-13 -0.5841E-06
+ t=     1.7795 Dt= 0.1393E-02 NIT=  3MbErr%= 0.1537    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 485.0 s
+  Total CPU IO used = 0.4380 s
+  Total wall time used = 486.5 s
+  **********************************************************************
+    Recovered: Dt= 0.12537E-02 :-)
+ 
+ t=    1.780767 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.790420 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.800073 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 495.41s    Est. Remaining: 52.94s
+  t=     1.8069 Dt= 0.1393E-02 NIT= 16 Sm=  18221.                                  CPU=    495. s
+   MbError%(0,MMAX):  0.1977E-14 -0.1211E-05
+ 
+ t=    1.811233 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.820691 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.830837 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.839969 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 506.21s    Est. Remaining: 42.37s
+  t=     1.8455 Dt= 0.1393E-02 NIT= 20 Sm=  18221.                                  CPU=    506. s
+   MbError%(0,MMAX): -0.1147E-14 -0.6717E-06
+ 
+ t=    1.850029 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.861379 Wrote .RES; SPx: 1; 
+ 
+ t=     1.8681 Dt= 0.1548E-02 NIT=  4MbErr%= -100.0    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 511.1 s
+  Total CPU IO used = 0.4580 s
+  Total wall time used = 512.6 s
+  **********************************************************************
+    Recovered: Dt= 0.13930E-02 :-)
+ 
+ t=    1.870872 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.881087 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 517.59s    Est. Remaining: 31.82s
+  t=     1.8842 Dt= 0.1548E-02 NIT= 17 Sm=  18221.                                  CPU=    517. s
+   MbError%(0,MMAX): -0.3018E-13 -0.9628E-06
+ 
+ t=    1.890889 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.900691 Wrote .RES; SPx: 1,2,3,4; 
+ 
+ 
+ t=    1.910906 Wrote .RES; SPx: 1; 
+ 
+ t=     1.9152 Dt= 0.1548E-02 NIT=  3MbErr%=-0.7877E-03: Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 525.3 s
+  Total CPU IO used = 0.4700 s
+  Total wall time used = 526.9 s
+  **********************************************************************
+    Recovered: Dt= 0.13930E-02 :-)
+ t=     1.9152 Dt= 0.1393E-02 NIT=  6MbErr%=-0.1710    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 525.4 s
+  Total CPU IO used = 0.4700 s
+  Total wall time used = 527.0 s
+  **********************************************************************
+    Recovered: Dt= 0.12537E-02 :-)
+ 
+ t=    1.920255 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 528.90s    Est. Remaining: 21.60s
+  t=     1.9215 Dt= 0.1254E-02 NIT= 25 Sm=  18221.                                  CPU=    529. s
+   MbError%(0,MMAX): -0.1279E-13 -0.2456E-06
+ 
+ t=    1.930547 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.940138 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.949916 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 539.13s    Est. Remaining: 13.85s
+  t=     1.9499 Dt= 0.1393E-02 NIT= 17 Sm=  18221.                                  CPU=    539. s
+   MbError%(0,MMAX): -0.8497E-14 -0.1080E-05
+ 
+ t=    1.961369 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.971000 Wrote .RES; SPx: 1; 
+ 
+ 
+ t=    1.981700 Wrote .RES; SPx: 1; 
+ 
+ t=     1.9817 Dt= 0.1911E-02 NIT=  4MbErr%= -66.51    : Negative void fraction detected :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 546.4 s
+  Total CPU IO used = 0.4840 s
+  Total wall time used = 548.0 s
+  **********************************************************************
+    Recovered: Dt= 0.17197E-02 :-)
+ 
+ t=    1.990298 Wrote .RES; SPx: 1; 
+ 
+ Wall Time - Elapsed: 549.98s    Est. Remaining: 2.68s
+  t=     1.9903 Dt= 0.1720E-02 NIT= 21 Sm=  18221.                                  CPU=    550. s
+   MbError%(0,MMAX): -0.3564E-12 -0.1429E-06
+ 
+ t=    2.001305 Wrote .RES; SPx: 1,2,3,4,5,6,7,8,9,A,B; .OUT; .USR: 1,2,3,4,5; 
+ 
+  
+  
+  **********************************************************************
+  Total CPU used = 551.8 s
+  Total CPU IO used = 0.5110 s
+  Total wall time used = 553.4 s
+  **********************************************************************

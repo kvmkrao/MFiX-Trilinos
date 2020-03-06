@@ -1,0 +1,1668 @@
+  
+ MFIX (2015-2    ) simulation on computer:                     
+ Run name: R                     Time: 14:46                    Date:  4-12-2018
+ Memory required:    9.00 Mb
+________________________________________________________________________
+
+
+ **********************************************************************
+ From: GRIDMAP_INIT
+ Parallel load balancing statistics:
+  
+              Comp. cells    Processor
+    maximum         11016            1
+    minimum         11016            1
+    average         11016      -N/A-
+  
+    Maximum speedup (Amdahls Law) = +Inf
+ **********************************************************************
+ 
+ t=    0.000000 Wrote .RES; SPx: 1,2,3,4,5,6,7,8,9,A,B; .OUT; 
+ 
+ Wall Time - Elapsed: 0.35s    Est. Remaining: 81.71days
+  t=     0.0000 Dt= 0.1000E-03 NIT= 15 Sm=  6000.0                                  CPU=      5. s
+   MbError%(0,MMAX): -0.4850E-12  0.2562E-11
+ Wall Time - Elapsed: 120.52s    Est. Remaining: 9.35days
+  t=     0.0030 Dt= 0.1524E-03 NIT= 15 Sm=  6000.0                                  CPU=    126. s
+   MbError%(0,MMAX):  0.7272E-13  0.6063E-12
+ Wall Time - Elapsed: 263.34s    Est. Remaining: 8.01days
+  t=     0.0076 Dt= 0.2323E-03 NIT= 16 Sm=  6000.0                                  CPU=    269. s
+   MbError%(0,MMAX):  0.6059E-13  0.2577E-12
+ 
+ t=    0.010087 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 413.94s    Est. Remaining: 6.48days
+  t=     0.0148 Dt= 0.3541E-03 NIT= 17 Sm=  6000.0                                  CPU=    419. s
+   MbError%(0,MMAX):  0.1628E-16 -0.2274E-12
+ 
+ t=    0.020390 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 566.65s    Est. Remaining: 5.06days
+  t=     0.0259 Dt= 0.5397E-03 NIT= 17 Sm=  6000.0                                  CPU=    572. s
+   MbError%(0,MMAX): -0.3642E-13  0.1667E-12
+ 
+ t=    0.029978 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.040661 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 676.06s    Est. Remaining: 3.62days
+  t=     0.0431 Dt= 0.8225E-03 NIT=  9 Sm=  6000.0                                  CPU=    678. s
+   MbError%(0,MMAX):  0.2517E-16 -0.1213E-12
+ 
+ t=    0.050451 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.060041 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 770.58s    Est. Remaining: 2.60days
+  t=     0.0684 Dt= 0.1128E-02 NIT= 13 Sm=  6000.0                                  CPU=    773. s
+   MbError%(0,MMAX):  0.1456E-12  0.1213E-12
+ 
+ t=    0.070647 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.080175 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.091040 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.100326 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 870.71s    Est. Remaining: 1.97days
+  t=     0.1020 Dt= 0.1720E-02 NIT= 10 Sm=  6000.0                                  CPU=    872. s
+   MbError%(0,MMAX): -0.2419E-13  0.2577E-12
+ 
+ t=    0.110644 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.120198 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.130601 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.141925 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.151125 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 966.74s    Est. Remaining: 1.45days
+  t=     0.1532 Dt= 0.2123E-02 NIT= 12 Sm=  6000.0                                  CPU=    968. s
+   MbError%(0,MMAX):  0.9705E-13 -0.1364E-12
+ 
+ t=    0.161740 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.171176 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.181136 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.191620 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.200357 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.212330 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 1064.70s    Est. Remaining: 1.11days
+  t=     0.2188 Dt= 0.3236E-02 NIT= 14 Sm=  6000.0                                  CPU=   1065. s
+   MbError%(0,MMAX):  0.1212E-12 -0.2577E-12
+ 
+ t=    0.222038 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.231422 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.240159 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.251226 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.261710 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.270447 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.282420 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.292128 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 1161.58s    Est. Remaining: 21.77h
+  t=     0.2921 Dt= 0.3236E-02 NIT= 12 Sm=  6000.0                                  CPU=   1161. s
+   MbError%(0,MMAX): -0.8490E-13 -0.6063E-13
+ 
+ t=    0.302195 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.312982 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.320173 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.332157 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.340147 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.353020 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.361898 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.370775 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.380639 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.390504 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 1268.42s    Est. Remaining: 17.47h
+  t=     0.3954 Dt= 0.4932E-02 NIT= 14 Sm=  6000.0                                  CPU=   1269. s
+   MbError%(0,MMAX): -0.2425E-12  0.3032E-13
+ 
+ t=    0.400368 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.411328 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.422288 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.433248 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.445426 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.451515 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.463693 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.469782 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.483313 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.490078 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.503609 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     0.5036 Dt= 0.6765E-02 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 1389. s
+  Total CPU IO used = 2.468 s
+  Total wall time used = 1397. s
+  **********************************************************************
+    Recovered: Dt= 0.60889E-02 :-)
+ 
+ t=    0.509698 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.521876 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.534054 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.540143 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 1448.32s    Est. Remaining: 14.34h
+  t=     0.5456 Dt= 0.5480E-02 NIT= 15 Sm=  6000.0                                  CPU=   1449. s
+   MbError%(0,MMAX): -0.1820E-12  0.1516E-13
+ 
+ t=    0.551103 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.562063 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     0.5675 Dt= 0.5480E-02 NIT= 35MbErr%= 0.1292E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1477. s
+  Total CPU IO used = 2.734 s
+  Total wall time used = 1485. s
+  **********************************************************************
+    Recovered: Dt= 0.49320E-02 :-)
+ 
+ t=    0.572475 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.582339 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.592203 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.602615 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.613575 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     0.6191 Dt= 0.5480E-02 NIT= 30MbErr%= 0.2506E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1539. s
+  Total CPU IO used = 2.930 s
+  Total wall time used = 1548. s
+  **********************************************************************
+    Recovered: Dt= 0.49320E-02 :-)
+ 
+ t=    0.623988 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.633852 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.643716 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.653087 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.661964 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.670842 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 1604.65s    Est. Remaining: 12.84h
+  t=     0.6708 Dt= 0.4439E-02 NIT= 15 Sm=  6000.0                                  CPU=   1604. s
+   MbError%(0,MMAX):  0.2419E-13  0.1819E-12
+ 
+ t=    0.680213 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.690077 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.699941 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.710353 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     0.7158 Dt= 0.5480E-02 NIT= 30MbErr%= 0.2290E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1652. s
+  Total CPU IO used = 3.333 s
+  Total wall time used = 1662. s
+  **********************************************************************
+    Recovered: Dt= 0.49320E-02 :-)
+ 
+ t=    0.720765 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.730629 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.740493 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.749864 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.763181 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.772059 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.781923 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.791787 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 1764.80s    Est. Remaining: 11.89h
+  t=     0.7918 Dt= 0.4932E-02 NIT= 18 Sm=  6000.0                                  CPU=   1765. s
+   MbError%(0,MMAX):  0.1634E-12 -0.2425E-12
+ 
+ t=    0.801651 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.810529 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.823845 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.832279 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.840269 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.852254 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     0.8523 Dt= 0.4439E-02 NIT= 30MbErr%=-0.6186E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1852. s
+  Total CPU IO used = 4.801 s
+  Total wall time used = 1865. s
+  **********************************************************************
+    Recovered: Dt= 0.39950E-02 :-)
+ 
+ t=    0.860244 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.872228 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     0.8722 Dt= 0.3995E-02 NIT= 25MbErr%= 0.1253E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1893. s
+  Total CPU IO used = 5.650 s
+  Total wall time used = 1909. s
+  **********************************************************************
+    Recovered: Dt= 0.35955E-02 :-)
+ 
+ t=    0.883015 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.890206 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 1943.68s    Est. Remaining: 11.54h
+  t=     0.8938 Dt= 0.3236E-02 NIT= 14 Sm=  6000.0                                  CPU=   1939. s
+   MbError%(0,MMAX): -0.2915E-12  0.7579E-13
+ 
+ t=    0.900273 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.909981 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     0.9100 Dt= 0.3236E-02 NIT= 25MbErr%= 0.1186E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1959. s
+  Total CPU IO used = 6.362 s
+  Total wall time used = 1976. s
+  **********************************************************************
+    Recovered: Dt= 0.29123E-02 :-)
+ 
+ t=    0.921630 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.930691 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     0.9372 Dt= 0.3236E-02 NIT= 20MbErr%=-0.7628E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2007. s
+  Total CPU IO used = 6.708 s
+  Total wall time used = 2024. s
+  **********************************************************************
+    Recovered: Dt= 0.29123E-02 :-)
+ 
+ t=    0.940075 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.951724 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.959879 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 2071.36s    Est. Remaining: 11.32h
+  t=     0.9677 Dt= 0.2621E-02 NIT= 13 Sm=  6000.0                                  CPU=   2065. s
+   MbError%(0,MMAX): -0.1334E-12  0.9095E-13
+ 
+ t=    0.970363 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.982012 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    0.991073 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.000781 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.010848 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.021634 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     1.0288 Dt= 0.3995E-02 NIT= 25MbErr%=-0.1334E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2150. s
+  Total CPU IO used = 8.244 s
+  Total wall time used = 2172. s
+  **********************************************************************
+    Recovered: Dt= 0.35955E-02 :-)
+ 
+ t=    1.032421 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.043207 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.050398 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 2205.86s    Est. Remaining: 11.05h
+  t=     1.0504 Dt= 0.3236E-02 NIT= 14 Sm=  6000.0                                  CPU=   2197. s
+   MbError%(0,MMAX):  0.1456E-12 -0.1061E-12
+ 
+ t=    1.060106 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.069813 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.081463 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.090523 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.100231 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     1.1067 Dt= 0.3595E-02 NIT= 25MbErr%=-0.1001E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2281. s
+  Total CPU IO used = 9.685 s
+  Total wall time used = 2306. s
+  **********************************************************************
+    Recovered: Dt= 0.32359E-02 :-)
+ 
+ t=    1.109939 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.122882 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 2340.28s    Est. Remaining: 10.87h
+  t=     1.1290 Dt= 0.2912E-02 NIT= 14 Sm=  6000.0                                  CPU=   2328. s
+   MbError%(0,MMAX):  0.7275E-13  0.3335E-12
+ 
+ t=    1.131943 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.140680 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.150064 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.159772 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     1.1630 Dt= 0.3595E-02 NIT= 35MbErr%= 0.1222E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2373. s
+  Total CPU IO used = 10.97 s
+  Total wall time used = 2402. s
+  **********************************************************************
+    Recovered: Dt= 0.32359E-02 :-)
+ 
+ t=    1.172716 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.182423 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.191160 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.199897 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 2464.70s    Est. Remaining: 10.67h
+  t=     1.2064 Dt= 0.3236E-02 NIT= 14 Sm=  6000.0                                  CPU=   2451. s
+   MbError%(0,MMAX):  0.2273E-13 -0.1213E-12
+ 
+ t=    1.212841 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.222908 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     1.2229 Dt= 0.3595E-02 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 2474. s
+  Total CPU IO used = 11.54 s
+  Total wall time used = 2505. s
+  **********************************************************************
+    Recovered: Dt= 0.32359E-02 :-)
+ 
+ t=    1.232616 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.242324 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.251061 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.259798 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.272741 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.282125 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ Wall Time - Elapsed: 2602.74s    Est. Remaining: 10.53h
+  t=     1.2850 Dt= 0.2912E-02 NIT= 13 Sm=  6000.0                                  CPU=   2588. s
+   MbError%(0,MMAX):  0.6800E-13 -0.1213E-12
+ 
+ t=    1.290862 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.301929 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.309793 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ 
+ t=    1.321151 Wrote .RES; SPx: 1,2,3,4,8; 
+ 
+ t=     1.3270 Dt= 0.2912E-02 NIT= 20MbErr%=-0.1744E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2652. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2687. s
+  **********************************************************************
+    Recovered: Dt= 0.26211E-02 :-)
+ t=     1.3270 Dt= 0.2621E-02 NIT= 20MbErr%=-0.2195E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2659. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2693. s
+  **********************************************************************
+    Recovered: Dt= 0.23590E-02 :-)
+ t=     1.3270 Dt= 0.2359E-02 NIT= 20MbErr%= 0.5305E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2666. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2700. s
+  **********************************************************************
+    Recovered: Dt= 0.21231E-02 :-)
+ t=     1.3270 Dt= 0.2123E-02 NIT= 20MbErr%=-0.2141E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2673. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2707. s
+  **********************************************************************
+    Recovered: Dt= 0.19108E-02 :-)
+ t=     1.3270 Dt= 0.1911E-02 NIT= 20MbErr%=-0.6037E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2679. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2714. s
+  **********************************************************************
+    Recovered: Dt= 0.17197E-02 :-)
+ t=     1.3270 Dt= 0.1720E-02 NIT= 20MbErr%=-0.1412E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2686. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2721. s
+  **********************************************************************
+    Recovered: Dt= 0.15477E-02 :-)
+ t=     1.3270 Dt= 0.1548E-02 NIT= 20MbErr%=-0.1744E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2693. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2728. s
+  **********************************************************************
+    Recovered: Dt= 0.13930E-02 :-)
+ t=     1.3270 Dt= 0.1393E-02 NIT= 20MbErr%=-0.7569E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2699. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2734. s
+  **********************************************************************
+    Recovered: Dt= 0.12537E-02 :-)
+ t=     1.3270 Dt= 0.1254E-02 NIT= 25MbErr%=-0.1834E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2707. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2742. s
+  **********************************************************************
+    Recovered: Dt= 0.11283E-02 :-)
+ t=     1.3270 Dt= 0.1128E-02 NIT= 30MbErr%=-0.9790E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2717. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2752. s
+  **********************************************************************
+    Recovered: Dt= 0.10155E-02 :-)
+ t=     1.3270 Dt= 0.1015E-02 NIT= 30MbErr%= 0.1086E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2727. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2763. s
+  **********************************************************************
+    Recovered: Dt= 0.91392E-03 :-)
+ t=     1.3270 Dt= 0.9139E-03 NIT= 30MbErr%=-0.2671E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2737. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2773. s
+  **********************************************************************
+    Recovered: Dt= 0.82253E-03 :-)
+ t=     1.3270 Dt= 0.8225E-03 NIT= 20MbErr%=-0.1215E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2744. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2780. s
+  **********************************************************************
+    Recovered: Dt= 0.74027E-03 :-)
+ t=     1.3270 Dt= 0.7403E-03 NIT= 20MbErr%=-0.2306E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2751. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2787. s
+  **********************************************************************
+    Recovered: Dt= 0.66625E-03 :-)
+ t=     1.3270 Dt= 0.6662E-03 NIT= 30MbErr%= 0.9697E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2761. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2797. s
+  **********************************************************************
+    Recovered: Dt= 0.59962E-03 :-)
+ t=     1.3270 Dt= 0.5996E-03 NIT= 20MbErr%= 0.1454E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2767. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2804. s
+  **********************************************************************
+    Recovered: Dt= 0.53966E-03 :-)
+ t=     1.3270 Dt= 0.5397E-03 NIT= 30MbErr%=-0.4855E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2777. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2813. s
+  **********************************************************************
+    Recovered: Dt= 0.48569E-03 :-)
+ t=     1.3275 Dt= 0.4857E-03 NIT= 25MbErr%=-0.6078E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2794. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2831. s
+  **********************************************************************
+    Recovered: Dt= 0.43712E-03 :-)
+ t=     1.3275 Dt= 0.4371E-03 NIT= 25MbErr%=-0.1092E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2802. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2839. s
+  **********************************************************************
+    Recovered: Dt= 0.39341E-03 :-)
+ t=     1.3275 Dt= 0.3934E-03 NIT= 25MbErr%=-0.1942E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2810. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2847. s
+  **********************************************************************
+    Recovered: Dt= 0.35407E-03 :-)
+ t=     1.3275 Dt= 0.3541E-03 NIT= 25MbErr%= 0.2414E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2818. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2855. s
+  **********************************************************************
+    Recovered: Dt= 0.31866E-03 :-)
+ t=     1.3275 Dt= 0.3187E-03 NIT= 20MbErr%=-0.7278E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2825. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2862. s
+  **********************************************************************
+    Recovered: Dt= 0.28680E-03 :-)
+ t=     1.3280 Dt= 0.2868E-03 NIT= 45MbErr%=-0.3650E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2849. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2887. s
+  **********************************************************************
+    Recovered: Dt= 0.25812E-03 :-)
+ t=     1.3280 Dt= 0.2581E-03 NIT= 45MbErr%=-0.4844E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2863. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2901. s
+  **********************************************************************
+    Recovered: Dt= 0.23231E-03 :-)
+ t=     1.3280 Dt= 0.2323E-03 NIT= 45MbErr%=-0.2426E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2878. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2916. s
+  **********************************************************************
+    Recovered: Dt= 0.20908E-03 :-)
+ t=     1.3280 Dt= 0.2091E-03 NIT= 45MbErr%= 0.9686E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2893. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2931. s
+  **********************************************************************
+    Recovered: Dt= 0.18817E-03 :-)
+ t=     1.3280 Dt= 0.1882E-03 NIT= 45MbErr%=-0.7278E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 2907. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2946. s
+  **********************************************************************
+    Recovered: Dt= 0.16935E-03 :-)
+ t=     1.3280 Dt= 0.1694E-03 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 2924. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2962. s
+  **********************************************************************
+    Recovered: Dt= 0.15242E-03 :-)
+ t=     1.3280 Dt= 0.1524E-03 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 2940. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2979. s
+  **********************************************************************
+    Recovered: Dt= 0.13717E-03 :-)
+ t=     1.3280 Dt= 0.1372E-03 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 2956. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 2996. s
+  **********************************************************************
+    Recovered: Dt= 0.12346E-03 :-)
+ t=     1.3280 Dt= 0.1235E-03 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 2972. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3011. s
+  **********************************************************************
+    Recovered: Dt= 0.11111E-03 :-)
+ t=     1.3280 Dt= 0.1111E-03 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 2989. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3028. s
+  **********************************************************************
+    Recovered: Dt= 0.10000E-03 :-)
+ t=     1.3280 Dt= 0.1000E-03 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 3006. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3046. s
+  **********************************************************************
+    Recovered: Dt= 0.90000E-04 :-)
+ t=     1.3280 Dt= 0.9000E-04 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 3024. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3064. s
+  **********************************************************************
+    Recovered: Dt= 0.81000E-04 :-)
+ t=     1.3280 Dt= 0.8100E-04 NIT= 25MbErr%=-0.7283E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3033. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3073. s
+  **********************************************************************
+    Recovered: Dt= 0.72900E-04 :-)
+ t=     1.3280 Dt= 0.7290E-04 NIT= 45MbErr%= 0.1208E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3049. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3089. s
+  **********************************************************************
+    Recovered: Dt= 0.65610E-04 :-)
+ t=     1.3280 Dt= 0.6561E-04 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 3067. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3107. s
+  **********************************************************************
+    Recovered: Dt= 0.59049E-04 :-)
+ t=     1.3280 Dt= 0.5905E-04 NIT= 30MbErr%=-0.1214E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3075. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3115. s
+  **********************************************************************
+    Recovered: Dt= 0.53144E-04 :-)
+ t=     1.3280 Dt= 0.5314E-04 NIT= 30MbErr%=-0.7270E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3083. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3123. s
+  **********************************************************************
+    Recovered: Dt= 0.47830E-04 :-)
+ t=     1.3280 Dt= 0.4783E-04 NIT= 25MbErr%= 0.1939E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3090. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3130. s
+  **********************************************************************
+    Recovered: Dt= 0.43047E-04 :-)
+ t=     1.3280 Dt= 0.4305E-04 NIT= 25MbErr%= 0.7267E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3098. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3138. s
+  **********************************************************************
+    Recovered: Dt= 0.38742E-04 :-)
+ t=     1.3280 Dt= 0.3874E-04 NIT= 25MbErr%=-0.2183E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3106. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3146. s
+  **********************************************************************
+    Recovered: Dt= 0.34868E-04 :-)
+ t=     1.3280 Dt= 0.3487E-04 NIT= 35MbErr%=-0.1699E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3117. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3157. s
+  **********************************************************************
+    Recovered: Dt= 0.31381E-04 :-)
+ t=     1.3281 Dt= 0.3138E-04 NIT= 20MbErr%= 0.2183E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3139. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3179. s
+  **********************************************************************
+    Recovered: Dt= 0.28243E-04 :-)
+ t=     1.3281 Dt= 0.2824E-04 NIT= 20MbErr%= 0.7278E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3145. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3186. s
+  **********************************************************************
+    Recovered: Dt= 0.25419E-04 :-)
+ t=     1.3281 Dt= 0.2542E-04 NIT= 30MbErr%= 0.1698E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3154. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3195. s
+  **********************************************************************
+    Recovered: Dt= 0.22877E-04 :-)
+ t=     1.3281 Dt= 0.2288E-04 NIT= 30MbErr%= 0.2425E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3164. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3204. s
+  **********************************************************************
+    Recovered: Dt= 0.20589E-04 :-)
+ t=     1.3281 Dt= 0.2059E-04 NIT= 30MbErr%= 0.2415E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3173. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3213. s
+  **********************************************************************
+    Recovered: Dt= 0.18530E-04 :-)
+ t=     1.3281 Dt= 0.1853E-04 NIT= 30MbErr%= 0.2910E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3181. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3221. s
+  **********************************************************************
+    Recovered: Dt= 0.16677E-04 :-)
+ t=     1.3281 Dt= 0.1668E-04 NIT= 20MbErr%= 0.4862E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3186. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3226. s
+  **********************************************************************
+    Recovered: Dt= 0.15009E-04 :-)
+ t=     1.3281 Dt= 0.1501E-04 NIT= 35MbErr%= 0.1456E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3195. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3236. s
+  **********************************************************************
+    Recovered: Dt= 0.13509E-04 :-)
+ t=     1.3282 Dt= 0.1351E-04 NIT= 20MbErr%=-0.7278E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3207. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3248. s
+  **********************************************************************
+    Recovered: Dt= 0.12158E-04 :-)
+ t=     1.3282 Dt= 0.1216E-04 NIT= 20MbErr%= 0.9701E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3213. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3253. s
+  **********************************************************************
+    Recovered: Dt= 0.10942E-04 :-)
+ t=     1.3282 Dt= 0.1094E-04 NIT= 20MbErr%=-0.7283E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3218. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3258. s
+  **********************************************************************
+    Recovered: Dt= 0.98477E-05 :-)
+ t=     1.3282 Dt= 0.9848E-05 NIT= 20MbErr%=-0.7283E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3223. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3264. s
+  **********************************************************************
+    Recovered: Dt= 0.88629E-05 :-)
+ t=     1.3282 Dt= 0.8863E-05 NIT= 30MbErr%=-0.3402E-16: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3231. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3272. s
+  **********************************************************************
+    Recovered: Dt= 0.79766E-05 :-)
+ t=     1.3282 Dt= 0.7977E-05 NIT= 20MbErr%= 0.1213E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3236. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3277. s
+  **********************************************************************
+    Recovered: Dt= 0.71790E-05 :-)
+ t=     1.3282 Dt= 0.7179E-05 NIT= 20MbErr%=-0.1469E-17: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3241. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3282. s
+  **********************************************************************
+    Recovered: Dt= 0.64611E-05 :-)
+ t=     1.3282 Dt= 0.6461E-05 NIT= 25MbErr%=-0.1454E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3248. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3289. s
+  **********************************************************************
+    Recovered: Dt= 0.58150E-05 :-)
+ t=     1.3282 Dt= 0.5815E-05 NIT= 25MbErr%= 0.3405E-16: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3255. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3296. s
+  **********************************************************************
+    Recovered: Dt= 0.52335E-05 :-)
+ t=     1.3282 Dt= 0.5233E-05 NIT= 25MbErr%= 0.9702E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3261. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3302. s
+  **********************************************************************
+    Recovered: Dt= 0.47101E-05 :-)
+ t=     1.3282 Dt= 0.4710E-05 NIT= 25MbErr%= 0.7282E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3270. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3311. s
+  **********************************************************************
+    Recovered: Dt= 0.42391E-05 :-)
+ t=     1.3282 Dt= 0.4239E-05 NIT= 20MbErr%=-0.9695E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3276. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3317. s
+  **********************************************************************
+    Recovered: Dt= 0.38152E-05 :-)
+ t=     1.3282 Dt= 0.3815E-05 NIT= 20MbErr%= 0.9701E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3282. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3323. s
+  **********************************************************************
+    Recovered: Dt= 0.34337E-05 :-)
+ t=     1.3282 Dt= 0.3434E-05 NIT= 25MbErr%= 0.8490E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3291. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3332. s
+  **********************************************************************
+    Recovered: Dt= 0.30903E-05 :-)
+ t=     1.3282 Dt= 0.3090E-05 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 3306. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3347. s
+  **********************************************************************
+    Recovered: Dt= 0.27813E-05 :-)
+ t=     1.3282 Dt= 0.2781E-05 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 3323. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3364. s
+  **********************************************************************
+    Recovered: Dt= 0.25032E-05 :-)
+ t=     1.3282 Dt= 0.2503E-05 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 3339. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3380. s
+  **********************************************************************
+    Recovered: Dt= 0.22528E-05 :-)
+ t=     1.3282 Dt= 0.2253E-05 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 3354. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3395. s
+  **********************************************************************
+    Recovered: Dt= 0.20276E-05 :-)
+ t=     1.3282 Dt= 0.2028E-05 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 3370. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3411. s
+  **********************************************************************
+    Recovered: Dt= 0.18248E-05 :-)
+ t=     1.3282 Dt= 0.1825E-05 NIT> 50 Sm=   6000.0    MbErr%=
+  
+  
+  **********************************************************************
+  Total CPU used = 3385. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3426. s
+  **********************************************************************
+    Recovered: Dt= 0.16423E-05 :-)
+ Wall Time - Elapsed: 3433.13s    Est. Remaining: 13.41h
+ t=     1.3282 Dt= 0.1642E-05 NIT= 30MbErr%=-0.4861E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3401. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3442. s
+  **********************************************************************
+    Recovered: Dt= 0.14781E-05 :-)
+ t=     1.3282 Dt= 0.1478E-05 NIT= 30MbErr%=-0.8499E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3410. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3451. s
+  **********************************************************************
+    Recovered: Dt= 0.13303E-05 :-)
+ t=     1.3282 Dt= 0.1330E-05 NIT= 30MbErr%=-0.7274E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3420. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3461. s
+  **********************************************************************
+    Recovered: Dt= 0.11973E-05 :-)
+ t=     1.3282 Dt= 0.1197E-05 NIT= 30MbErr%=-0.3275E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3428. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3469. s
+  **********************************************************************
+    Recovered: Dt= 0.10775E-05 :-)
+ t=     1.3282 Dt= 0.1078E-05 NIT= 30MbErr%= 0.2423E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3437. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3478. s
+  **********************************************************************
+    Recovered: Dt= 0.96977E-06 :-)
+ t=     1.3282 Dt= 0.9698E-06 NIT= 30MbErr%= 0.9684E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3445. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3487. s
+  **********************************************************************
+    Recovered: Dt= 0.87280E-06 :-)
+ t=     1.3282 Dt= 0.8728E-06 NIT= 30MbErr%=-0.4858E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3453. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3494. s
+  **********************************************************************
+    Recovered: Dt= 0.78552E-06 :-)
+ t=     1.3282 Dt= 0.7855E-06 NIT= 30MbErr%=-0.3651E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3461. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3502. s
+  **********************************************************************
+    Recovered: Dt= 0.70697E-06 :-)
+ t=     1.3282 Dt= 0.7070E-06 NIT= 30MbErr%=-0.2434E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3470. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3511. s
+  **********************************************************************
+    Recovered: Dt= 0.63627E-06 :-)
+ t=     1.3282 Dt= 0.6363E-06 NIT= 30MbErr%=-0.2433E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3478. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3520. s
+  **********************************************************************
+    Recovered: Dt= 0.57264E-06 :-)
+ t=     1.3282 Dt= 0.5726E-06 NIT= 30MbErr%=-0.1456E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3486. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3528. s
+  **********************************************************************
+    Recovered: Dt= 0.51538E-06 :-)
+ t=     1.3282 Dt= 0.5154E-06 NIT= 30MbErr%= 0.1212E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3495. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3536. s
+  **********************************************************************
+    Recovered: Dt= 0.46384E-06 :-)
+ t=     1.3282 Dt= 0.4638E-06 NIT= 30MbErr%=-0.8734E-16: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3503. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3545. s
+  **********************************************************************
+    Recovered: Dt= 0.41746E-06 :-)
+ t=     1.3282 Dt= 0.4175E-06 NIT= 30MbErr%=-0.7281E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3512. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3553. s
+  **********************************************************************
+    Recovered: Dt= 0.37571E-06 :-)
+ t=     1.3282 Dt= 0.3757E-06 NIT= 30MbErr%=-0.1224E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3520. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3562. s
+  **********************************************************************
+    Recovered: Dt= 0.33814E-06 :-)
+ t=     1.3282 Dt= 0.3381E-06 NIT= 30MbErr%= 0.4844E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3529. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3570. s
+  **********************************************************************
+    Recovered: Dt= 0.30433E-06 :-)
+ t=     1.3282 Dt= 0.3043E-06 NIT= 30MbErr%= 0.4831E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3538. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3579. s
+  **********************************************************************
+    Recovered: Dt= 0.27389E-06 :-)
+ t=     1.3282 Dt= 0.2739E-06 NIT= 30MbErr%= 0.4839E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3546. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3588. s
+  **********************************************************************
+    Recovered: Dt= 0.24650E-06 :-)
+ t=     1.3282 Dt= 0.2465E-06 NIT= 30MbErr%=-0.1214E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3555. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 3596. s
+  **********************************************************************
+    Recovered: Dt= 0.22185E-06 :-)
+ t=     1.3282 Dt= 0.2219E-06 NIT= 30MbErr%=-0.2184E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3563. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.001 h
+  **********************************************************************
+    Recovered: Dt= 0.19967E-06 :-)
+ t=     1.3282 Dt= 0.1997E-06 NIT= 30MbErr%=-0.1335E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3572. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.004 h
+  **********************************************************************
+    Recovered: Dt= 0.17970E-06 :-)
+ t=     1.3282 Dt= 0.1797E-06 NIT= 30MbErr%=-0.2443E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3580. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.006 h
+  **********************************************************************
+    Recovered: Dt= 0.16173E-06 :-)
+ t=     1.3282 Dt= 0.1617E-06 NIT= 30MbErr%= 0.4836E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3589. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.009 h
+  **********************************************************************
+    Recovered: Dt= 0.14556E-06 :-)
+ t=     1.3282 Dt= 0.1456E-06 NIT= 30MbErr%=-0.8493E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 3597. s
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.011 h
+  **********************************************************************
+    Recovered: Dt= 0.13100E-06 :-)
+ t=     1.3282 Dt= 0.1310E-06 NIT= 35MbErr%= 0.4837E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.002 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.014 h
+  **********************************************************************
+    Recovered: Dt= 0.11790E-06 :-)
+ t=     1.3282 Dt= 0.1179E-06 NIT= 20MbErr%=-0.3701E-16: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.004 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.015 h
+  **********************************************************************
+    Recovered: Dt= 0.10611E-06 :-)
+ t=     1.3282 Dt= 0.1061E-06 NIT= 20MbErr%=-0.8495E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.005 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.017 h
+  **********************************************************************
+    Recovered: Dt= 0.95500E-07 :-)
+ t=     1.3282 Dt= 0.9550E-07 NIT= 30MbErr%=-0.2062E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.008 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.020 h
+  **********************************************************************
+    Recovered: Dt= 0.85950E-07 :-)
+ t=     1.3282 Dt= 0.8595E-07 NIT= 25MbErr%=-0.9714E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.010 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.022 h
+  **********************************************************************
+    Recovered: Dt= 0.77355E-07 :-)
+ t=     1.3282 Dt= 0.7736E-07 NIT= 25MbErr%=-0.1335E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.012 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.024 h
+  **********************************************************************
+    Recovered: Dt= 0.69620E-07 :-)
+ t=     1.3282 Dt= 0.6962E-07 NIT= 20MbErr%=-0.1456E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.014 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.026 h
+  **********************************************************************
+    Recovered: Dt= 0.62658E-07 :-)
+ t=     1.3282 Dt= 0.6266E-07 NIT= 20MbErr%=-0.7287E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.016 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.028 h
+  **********************************************************************
+    Recovered: Dt= 0.56392E-07 :-)
+ t=     1.3282 Dt= 0.5639E-07 NIT= 30MbErr%=-0.2426E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.019 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.031 h
+  **********************************************************************
+    Recovered: Dt= 0.50753E-07 :-)
+ t=     1.3282 Dt= 0.5075E-07 NIT= 30MbErr%=-0.1455E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.022 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.034 h
+  **********************************************************************
+    Recovered: Dt= 0.45678E-07 :-)
+ t=     1.3282 Dt= 0.4568E-07 NIT= 20MbErr%=-0.2668E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.024 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.035 h
+  **********************************************************************
+    Recovered: Dt= 0.41110E-07 :-)
+ t=     1.3282 Dt= 0.4111E-07 NIT= 20MbErr%=-0.2434E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.025 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.037 h
+  **********************************************************************
+    Recovered: Dt= 0.36999E-07 :-)
+ t=     1.3282 Dt= 0.3700E-07 NIT= 20MbErr%=-0.1213E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.027 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.039 h
+  **********************************************************************
+    Recovered: Dt= 0.33299E-07 :-)
+ t=     1.3282 Dt= 0.3330E-07 NIT= 20MbErr%=-0.1093E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.028 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.040 h
+  **********************************************************************
+    Recovered: Dt= 0.29969E-07 :-)
+ t=     1.3282 Dt= 0.2997E-07 NIT= 30MbErr%= 0.2422E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.031 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.043 h
+  **********************************************************************
+    Recovered: Dt= 0.26972E-07 :-)
+ t=     1.3282 Dt= 0.2697E-07 NIT= 20MbErr%=-0.2063E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.033 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.045 h
+  **********************************************************************
+    Recovered: Dt= 0.24275E-07 :-)
+ t=     1.3282 Dt= 0.2427E-07 NIT= 20MbErr%=-0.6073E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.035 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.047 h
+  **********************************************************************
+    Recovered: Dt= 0.21847E-07 :-)
+ t=     1.3282 Dt= 0.2185E-07 NIT= 25MbErr%= 0.4848E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.037 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.049 h
+  **********************************************************************
+    Recovered: Dt= 0.19663E-07 :-)
+ t=     1.3282 Dt= 0.1966E-07 NIT= 20MbErr%=-0.2424E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.039 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.051 h
+  **********************************************************************
+    Recovered: Dt= 0.17696E-07 :-)
+ t=     1.3282 Dt= 0.1770E-07 NIT= 20MbErr%= 0.4845E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.041 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.053 h
+  **********************************************************************
+    Recovered: Dt= 0.15927E-07 :-)
+ t=     1.3282 Dt= 0.1593E-07 NIT= 20MbErr%=-0.8507E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.043 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.055 h
+  **********************************************************************
+    Recovered: Dt= 0.14334E-07 :-)
+ t=     1.3282 Dt= 0.1433E-07 NIT= 20MbErr%=-0.9699E-13: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.044 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.056 h
+  **********************************************************************
+    Recovered: Dt= 0.12901E-07 :-)
+ t=     1.3282 Dt= 0.1290E-07 NIT= 20MbErr%=-0.7994E-16: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.046 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.058 h
+  **********************************************************************
+    Recovered: Dt= 0.11611E-07 :-)
+ t=     1.3282 Dt= 0.1161E-07 NIT= 20MbErr%=-0.1699E-12: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.048 h
+  Total CPU IO used = 12.74 s
+  Total wall time used = 1.060 h
+  **********************************************************************
+    Recovered: Dt= 0.10450E-07 :-)
+ t=     1.3282 Dt= 0.1045E-07 NIT= 20MbErr%=-0.1335E-12: Run diverged/stalled :-(
+ DT < DT_MIN.  Recovery not possible!
+
+
+ **********************************************************************
+ Fatal error reported on PE 0. The .LOG file may contain
+ additional information about the failure.
+ **********************************************************************

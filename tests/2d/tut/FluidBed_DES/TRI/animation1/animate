@@ -1,0 +1,2 @@
+#convert -delay 20 mfix2ddem_epg.00?[2,5,8].png mfix2d_demepg.gif 
+convert -delay 20 tri2d_dem_epg.00?[0,2,4,6,8].png tri2d_demepg.gif 

@@ -1,0 +1,252 @@
+  
+ MFIX (2015-2    ) simulation on computer:                     
+ Run name: DES_FB1               Time: 12:19                    Date:  1-10-2017
+ Memory required:    9.00 Mb
+________________________________________________________________________
+
+
+ **********************************************************************
+ From: GRIDMAP_INIT
+ Parallel load balancing statistics:
+  
+              Comp. cells    Processor
+    maximum           564            1
+    minimum           517            2
+    average           540      -N/A-
+  
+    Maximum speedup (Amdahls Law) =   0.11111111111111110
+ **********************************************************************
+
+
+ **********************************************************************
+ From: CHECK_SOLIDS_DEM_COLL_LSD
+ Warning 2101: Tangential damping factor DES_ETAT_FAC not specified
+ in mfix.dat. Setting to default: (1/2).
+ **********************************************************************
+
+
+ **********************************************************************
+ From: CHECK_SOLIDS_DEM_COLL_LSD
+ Warning 2101: Tangential damping factor DES_ETAT_W_FAC not specified
+ in mfix.dat. Setting to default: (1/2).
+ **********************************************************************
+  
+ DES MPI send/recv buffer:     1.0 MB
+  o   8738. Ghost Particles/MB
+  o   4369. Particles/MB
+  o  11916. Neighbor Pairs/MB
+ Pre-Processing geometry for DES.
+ Initial DES Particle array size: 1200
+ Beginning DEM settling period: 500 steps.
+ DEM settling period complete.
+ 
+ t=    0.000000 Wrote .RES; DES.RES; SPx: 1,2,3,4,5,6,7,8,9,A,B; 
+ 
+ Wall Time - Elapsed: 0.00s    Est. Remaining: 1.11h
+  t=     0.0000 Dt= 0.5000E-03 NIT= 16 Sm=  0.0000                                  CPU=      0. s
+   MbError%(0,MMAX): -0.9145E-05
+ Wall Time - Elapsed: 3.55s    Est. Remaining: 234.34s
+  t=     0.0149 Dt= 0.7621E-03 NIT= 15 Sm=  0.0000                                  CPU=      3. s
+   MbError%(0,MMAX): -0.9678E-04
+ Wall Time - Elapsed: 6.94s    Est. Remaining: 178.37s
+  t=     0.0375 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=      7. s
+   MbError%(0,MMAX): -0.1884E-02
+ Wall Time - Elapsed: 11.01s    Est. Remaining: 167.00s
+  t=     0.0619 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=     10. s
+   MbError%(0,MMAX): -0.2924E-02
+ Wall Time - Elapsed: 14.95s    Est. Remaining: 159.15s
+  t=     0.0859 Dt= 0.9000E-03 NIT= 16 Sm=  0.0000                                  CPU=     14. s
+   MbError%(0,MMAX): -0.2134E-02
+ 
+ t=    0.100550 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ t=     0.1042 Dt= 0.9000E-03 NIT= 15MbErr%=-0.4769E-03: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 15.83 s
+  Total CPU IO used = 0.9350 s
+  Total wall time used = 19.56 s
+  **********************************************************************
+    Recovered: Dt= 0.81000E-03 :-)
+ Wall Time - Elapsed: 18.81s    Est. Remaining: 153.73s
+  t=     0.1090 Dt= 0.9000E-03 NIT= 16 Sm=  0.0000                                  CPU=     18. s
+   MbError%(0,MMAX): -0.6127E-03
+ Wall Time - Elapsed: 22.67s    Est. Remaining: 148.05s
+  t=     0.1328 Dt= 0.1000E-02 NIT= 15 Sm=  0.0000                                  CPU=     22. s
+   MbError%(0,MMAX): -0.4086E-03
+ Wall Time - Elapsed: 26.51s    Est. Remaining: 142.10s
+  t=     0.1572 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=     25. s
+   MbError%(0,MMAX): -0.1024E-03
+ Wall Time - Elapsed: 30.37s    Est. Remaining: 136.31s
+  t=     0.1822 Dt= 0.1000E-02 NIT= 15 Sm=  0.0000                                  CPU=     29. s
+   MbError%(0,MMAX): -0.2431E-03
+ 
+ t=    0.200610 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 34.30s    Est. Remaining: 131.70s
+  t=     0.2066 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=     33. s
+   MbError%(0,MMAX): -0.2778E-03
+ Wall Time - Elapsed: 38.69s    Est. Remaining: 129.17s
+  t=     0.2305 Dt= 0.9000E-03 NIT= 16 Sm=  0.0000                                  CPU=     37. s
+   MbError%(0,MMAX): -0.2862E-03
+ Wall Time - Elapsed: 42.99s    Est. Remaining: 125.73s
+  t=     0.2548 Dt= 0.1000E-02 NIT= 15 Sm=  0.0000                                  CPU=     41. s
+   MbError%(0,MMAX): -0.2803E-03
+ Wall Time - Elapsed: 46.83s    Est. Remaining: 120.90s
+  t=     0.2792 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=     44. s
+   MbError%(0,MMAX): -0.2145E-03
+ 
+ t=    0.300210 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 51.16s    Est. Remaining: 117.00s
+  t=     0.3042 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=     48. s
+   MbError%(0,MMAX):  0.6291E-04
+ Wall Time - Elapsed: 54.82s    Est. Remaining: 112.15s
+  t=     0.3283 Dt= 0.9000E-03 NIT= 16 Sm=  0.0000                                  CPU=     52. s
+   MbError%(0,MMAX):  0.1143E-03
+ Wall Time - Elapsed: 58.41s    Est. Remaining: 107.24s
+  t=     0.3526 Dt= 0.9000E-03 NIT= 16 Sm=  0.0000                                  CPU=     55. s
+   MbError%(0,MMAX): -0.1017E-03
+ Wall Time - Elapsed: 62.07s    Est. Remaining: 102.65s
+  t=     0.3768 Dt= 0.1000E-02 NIT= 17 Sm=  0.0000                                  CPU=     59. s
+   MbError%(0,MMAX):  0.3353E-03
+ 
+ t=    0.400210 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 65.64s    Est. Remaining: 97.97s
+  t=     0.4012 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=     62. s
+   MbError%(0,MMAX): -0.3086E-03
+ t=     0.4136 Dt= 0.1000E-02 NIT= 15MbErr%= 0.1661E-03: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 62.13 s
+  Total CPU IO used = 2.203 s
+  Total wall time used = 69.21 s
+  **********************************************************************
+    Recovered: Dt= 0.90000E-03 :-)
+ Wall Time - Elapsed: 69.21s    Est. Remaining: 94.07s
+  t=     0.4239 Dt= 0.9000E-03 NIT= 15 Sm=  0.0000                                  CPU=     66. s
+   MbError%(0,MMAX): -0.7313E-04
+ Wall Time - Elapsed: 72.72s    Est. Remaining: 89.71s
+  t=     0.4477 Dt= 0.1000E-02 NIT= 15 Sm=  0.0000                                  CPU=     70. s
+   MbError%(0,MMAX):  0.3764E-03
+ t=     0.4537 Dt= 0.1000E-02 NIT= 15MbErr%=-0.2184E-03: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 68.17 s
+  Total CPU IO used = 2.206 s
+  Total wall time used = 75.27 s
+  **********************************************************************
+    Recovered: Dt= 0.90000E-03 :-)
+ Wall Time - Elapsed: 76.43s    Est. Remaining: 86.08s
+  t=     0.4703 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=     73. s
+   MbError%(0,MMAX):  0.4429E-04
+ Wall Time - Elapsed: 80.56s    Est. Remaining: 82.27s
+  t=     0.4947 Dt= 0.1000E-02 NIT= 15 Sm=  0.0000                                  CPU=     77. s
+   MbError%(0,MMAX): -0.7869E-03
+ 
+ t=    0.500730 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 84.40s    Est. Remaining: 78.18s
+  t=     0.5191 Dt= 0.1000E-02 NIT= 15 Sm=  0.0000                                  CPU=     80. s
+   MbError%(0,MMAX): -0.9934E-05
+ Wall Time - Elapsed: 89.09s    Est. Remaining: 74.82s
+  t=     0.5435 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=     84. s
+   MbError%(0,MMAX): -0.6966E-03
+ t=     0.5599 Dt= 0.1000E-02 NIT= 15MbErr%=-0.4521E-03: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 84.01 s
+  Total CPU IO used = 2.654 s
+  Total wall time used = 93.28 s
+  **********************************************************************
+    Recovered: Dt= 0.90000E-03 :-)
+ Wall Time - Elapsed: 92.83s    Est. Remaining: 70.90s
+  t=     0.5670 Dt= 0.8100E-03 NIT= 16 Sm=  0.0000                                  CPU=     88. s
+   MbError%(0,MMAX): -0.7681E-03
+ Wall Time - Elapsed: 96.47s    Est. Remaining: 66.88s
+  t=     0.5906 Dt= 0.1000E-02 NIT= 15 Sm=  0.0000                                  CPU=     92. s
+   MbError%(0,MMAX): -0.1843E-03
+ 
+ t=    0.599990 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 100.21s    Est. Remaining: 62.84s
+  t=     0.6146 Dt= 0.9000E-03 NIT= 16 Sm=  0.0000                                  CPU=     95. s
+   MbError%(0,MMAX): -0.4313E-04
+ Wall Time - Elapsed: 103.89s    Est. Remaining: 58.72s
+  t=     0.6389 Dt= 0.9000E-03 NIT= 15 Sm=  0.0000                                  CPU=     99. s
+   MbError%(0,MMAX):  0.5914E-04
+ Wall Time - Elapsed: 107.57s    Est. Remaining: 54.63s
+  t=     0.6632 Dt= 0.1000E-02 NIT= 17 Sm=  0.0000                                  CPU=    103. s
+   MbError%(0,MMAX): -0.2869E-03
+ Wall Time - Elapsed: 111.28s    Est. Remaining: 50.56s
+  t=     0.6876 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=    106. s
+   MbError%(0,MMAX):  0.2324E-03
+ 
+ t=    0.700390 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 114.99s    Est. Remaining: 46.51s
+  t=     0.7120 Dt= 0.1000E-02 NIT= 15 Sm=  0.0000                                  CPU=    110. s
+   MbError%(0,MMAX):  0.2928E-03
+ Wall Time - Elapsed: 118.81s    Est. Remaining: 42.53s
+  t=     0.7364 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=    114. s
+   MbError%(0,MMAX):  0.2215E-04
+ Wall Time - Elapsed: 122.44s    Est. Remaining: 38.45s
+  t=     0.7610 Dt= 0.9000E-03 NIT= 15 Sm=  0.0000                                  CPU=    117. s
+   MbError%(0,MMAX): -0.4678E-03
+ Wall Time - Elapsed: 126.41s    Est. Remaining: 34.58s
+  t=     0.7852 Dt= 0.1000E-02 NIT= 15 Sm=  0.0000                                  CPU=    121. s
+   MbError%(0,MMAX): -0.4382E-03
+ 
+ t=    0.800590 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 130.10s    Est. Remaining: 30.60s
+  t=     0.8096 Dt= 0.9000E-03 NIT= 17 Sm=  0.0000                                  CPU=    125. s
+   MbError%(0,MMAX): -0.6413E-03
+ Wall Time - Elapsed: 133.78s    Est. Remaining: 26.63s
+  t=     0.8340 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=    128. s
+   MbError%(0,MMAX): -0.3914E-03
+ t=     0.8380 Dt= 0.1000E-02 NIT= 15MbErr%=-0.6691E-02: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 126.3 s
+  Total CPU IO used = 2.769 s
+  Total wall time used = 136.1 s
+  **********************************************************************
+    Recovered: Dt= 0.90000E-03 :-)
+ Wall Time - Elapsed: 137.35s    Est. Remaining: 22.98s
+  t=     0.8567 Dt= 0.1000E-02 NIT= 15 Sm=  0.0000                                  CPU=    132. s
+   MbError%(0,MMAX): -0.1967E-03
+ Wall Time - Elapsed: 140.97s    Est. Remaining: 19.00s
+  t=     0.8813 Dt= 0.9000E-03 NIT= 15 Sm=  0.0000                                  CPU=    136. s
+   MbError%(0,MMAX): -0.3029E-03
+ 
+ t=    0.900050 Wrote .RES; DES.RES; SPx: 1,2,3,4; 
+ 
+ Wall Time - Elapsed: 144.76s    Est. Remaining: 15.10s
+  t=     0.9056 Dt= 0.9000E-03 NIT= 17 Sm=  0.0000                                  CPU=    139. s
+   MbError%(0,MMAX):  0.3193E-03
+ Wall Time - Elapsed: 148.57s    Est. Remaining: 11.21s
+  t=     0.9299 Dt= 0.1000E-02 NIT= 16 Sm=  0.0000                                  CPU=    143. s
+   MbError%(0,MMAX): -0.3830E-03
+ Wall Time - Elapsed: 152.26s    Est. Remaining: 7.22s
+  t=     0.9548 Dt= 0.9000E-03 NIT= 15 Sm=  0.0000                                  CPU=    147. s
+   MbError%(0,MMAX): -0.1630E-03
+ Wall Time - Elapsed: 155.91s    Est. Remaining: 3.40s
+  t=     0.9787 Dt= 0.1000E-02 NIT= 15 Sm=  0.0000                                  CPU=    151. s
+   MbError%(0,MMAX):  0.6978E-04
+ 
+ t=    1.000650 Wrote .RES; DES.RES; SPx: 1,2,3,4,5,6,7,8,9,A,B; .OUT; .USR: 1,2,3,4,5; 
+ 
+  
+  
+  **********************************************************************
+  Total CPU used = 151.0 s
+  Total CPU IO used = 2.853 s
+  Total wall time used = 161.4 s
+  **********************************************************************

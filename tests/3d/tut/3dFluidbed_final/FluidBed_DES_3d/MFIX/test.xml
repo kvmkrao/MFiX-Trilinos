@@ -1,0 +1,26 @@
+<ParameterList name="MueLu">
+<Parameter name="verbosity" type="string" value="none"/>
+<Parameter name="max levels" type="int" value="6"/>
+<Parameter name="multigrid algorithm" type="string" value="sa"/> 
+<Parameter name="aggregation: type" type="string" value="uncoupled"/>
+</ParameterList>
+
+<!--<Parameter name="multigrid algorithm" type="string" value="unsmoothed"/> -->
+<!-- <Parameter name="multigrid algorithm" type="string" value="pg"/> -->
+<!--<Parameter name="pg: damping factor" type="double" value="1.33"/> -->
+<!-- Damped Jacobi smoothing -->
+<!-- <Parameter name="smoother: type" type="string" value="RELAXATION"/> 
+<Parameter name="smoother: type" type="string" value="CHEBYSHEV"/> 
+<Parameter name="smoother: pre or post" type="string" value="both"/>
+<ParameterList name="smoother: params">
+<Parameter name="relaxation: type" type="string" value="Gauss-Seidel"/>
+<Parameter name="relaxation: sweeps" type="int" value="1"/>
+<Parameter name="relaxation: damping factor" type="double" value="0.97"/> 
+</ParameterList> -->
+<!-- Aggregation -->
+<!-- <Parameter name="aggregation: type" type="string" value="uncoupled"/>
+<Parameter name="aggregation: min agg size" type="int" value="3"/>
+<Parameter name="aggregation: max agg size" type="int" value="9"/> 
+<Parameter name="aggregation: ordering" type="string" value="natural"/>  -->
+<!-- <Parameter name="repartition: enable" type="bool" value="true" />
+</ParameterList> -->

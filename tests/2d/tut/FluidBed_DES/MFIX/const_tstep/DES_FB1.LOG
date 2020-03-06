@@ -1,0 +1,62 @@
+  
+ MFIX (2015-2    ) simulation on computer:                     
+ Run name: DES_FB1               Time: 14:30                    Date:  3-25-2017
+ Memory required:    9.00 Mb
+________________________________________________________________________
+
+
+ **********************************************************************
+ From: GRIDMAP_INIT
+ Parallel load balancing statistics:
+  
+              Comp. cells    Processor
+    maximum           564            1
+    minimum           517            2
+    average           540      -N/A-
+  
+    Maximum speedup (Amdahls Law) =   0.11111111111111110
+ **********************************************************************
+
+
+ **********************************************************************
+ From: CHECK_SOLIDS_DEM_COLL_LSD
+ Warning 2101: Tangential damping factor DES_ETAT_FAC not specified
+ in mfix.dat. Setting to default: (1/2).
+ **********************************************************************
+
+
+ **********************************************************************
+ From: CHECK_SOLIDS_DEM_COLL_LSD
+ Warning 2101: Tangential damping factor DES_ETAT_W_FAC not specified
+ in mfix.dat. Setting to default: (1/2).
+ **********************************************************************
+  
+ DES MPI send/recv buffer:     1.0 MB
+  o   8738. Ghost Particles/MB
+  o   4369. Particles/MB
+  o  11916. Neighbor Pairs/MB
+ Pre-Processing geometry for DES.
+ Initial DES Particle array size: 1200
+ Beginning DEM settling period: 500 steps.
+ DEM settling period complete.
+ 
+ t=    0.000000 Wrote .RES; DES.RES; SPx: 1,2,3,4,5,6,7,8,9,A,B; 
+ 
+ Wall Time - Elapsed: 0.00s    Est. Remaining: 3000.00s
+  t=     0.0000 Dt= 0.1000E-05 NIT= 13 Sm=  0.0000                                  CPU=      0. s
+   MbError%(0,MMAX): -0.5340E-07
+ t=     0.0000 Dt= 0.1000E-05 NIT= 15MbErr%=-0.1339E-08: Run diverged/stalled :-(
+  
+  
+  **********************************************************************
+  Total CPU used = 1.420 s
+  Total CPU IO used = 0.0040 s
+  Total wall time used = 2.143 s
+  **********************************************************************
+    DT_FAC >= 1. Recovery not possible!
+
+
+ **********************************************************************
+ Fatal error reported on PE 0. The .LOG file may contain
+ additional information about the failure.
+ **********************************************************************

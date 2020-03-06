@@ -1,0 +1,24 @@
+set term postscript dl 2 eps enhanced color "Helvetica" 20
+set size 0.8,0.8 
+set colorsequence classic
+set xrange[0:9] 
+set yrange[0.4:0.87]
+set for [i=1:8] linetype i dashtype i
+set format y "%5.1f"
+set xlabel "x" offset 0,0.5
+set ylabel "{/Symbol e}_g" offset 2,0
+set mxtics 5 
+set mytics 10 
+set ytics 0.1,0.1
+set output  "epg3d_j25.eps"
+set tic scale 2 
+set label "t=0.3" at 7.2,0.73 tc "red"
+set label "t=0.5" at 7.2,0.70 tc "blue"
+set label "t=1.0" at 7.2,0.67 tc "#8A2BE2"
+
+p'epg_i1to10_j25_index.dat'       i 0  u 1:2 w lp lc rgb "red"     lt 1 lw 2 ps 1.5   pt 4 title "",\
+'epg_i1to10_j25_index.dat'        i 1  u 1:2 w lp lc rgb "blue"    lt 3 lw 2 ps 2     pt 6 title "",\
+'epg_i1to10_j25_index.dat'        i 2  u 1:2 w lp lc rgb "#8A2BE2" lt 6 lw 2 ps 1.5   pt 8 title "",\
+'../TRI/epg_i1to10_j25_index.dat' i 0  u 1:2 w p  lc rgb "red"     lw 2      ps 1.5   pt 5 title "",\
+'../TRI/epg_i1to10_j25_index.dat' i 1  u 1:2 w p lc rgb "blue"     lw 2      ps 2     pt 7 title "",\
+'../TRI/epg_i1to10_j25_index.dat' i 2  u 1:2 w p lc rgb "#8A2BE2"  lw 2      ps 1.5   pt 9 title ""
