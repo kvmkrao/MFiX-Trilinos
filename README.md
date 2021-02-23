@@ -23,10 +23,8 @@ cmake \
  -D Trilinos_ENABLE_ALL_PACKAGES:BOOL=OFF \
  -D Trilinos_WARNINGS_AS_ERRORS_FLAGS:STRING="" \
  -D Teuchos_ENABLE_LONG_LONG_INT:BOOL=ON \
-\
  -D Trilinos_ENABLE_Teuchos:BOOL=ON \
  -D Trilinos_ENABLE_Belos:BOOL=ON \
-\
  -D TPL_ENABLE_Boost:BOOL=ON \
  -D TPL_ENABLE_BoostLib:BOOL=ON \
 \
@@ -41,9 +39,7 @@ cmake \
  -D Amesos2_ENABLE_KLU2:BOOL=ON \
   -D TPL_ENABLE_BLAS:BOOL=ON \
   -D TPL_ENABLE_LAPACK:BOOL=ON \
-\
  -D Trilinos_ENABLE_EXPLICIT_INSTANTIATION:BOOL=ON \
-\
  -D Trilinos_ENABLE_Kokkos:BOOL=ON \
  -D Trilinos_ENABLE_KokkosCore:BOOL=ON \
  -D Kokkos_ENABLE_Serial:BOOL=ON \
