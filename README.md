@@ -52,10 +52,11 @@ cmake \
   -D CMAKE_Fortran_FLAGS:STRING=" -O3 -fPIC" \
    -D Trilinos_ENABLE_Fortran:BOOL=ON \
 ${TRILSRCDIR}/src
-```
-
 make -j8
 make install
+```
+
+
 
 
 
