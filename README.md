@@ -2,12 +2,13 @@
 Integrated advanced linear solvers in Trilinos with MFiX 
 
 #Commands to install TPL in ubuntu 
+```
 sudo apt-get install cmake 
 sudo apt-get install mpi-default-dev
 sudo apt-get install libblas-dev liblapack-dev
 sudo apt-get install libboost-mpi-dev
 sudo apt-get install libnetcdf-mpi-dev
-
+```
 
 #sample configuration and build file 
 ```
