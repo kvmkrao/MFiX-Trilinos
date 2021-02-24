@@ -60,7 +60,7 @@ make install
 
 
 If you publish work which uses this code, please cite the following paper:
-''
+```
 @article{kotteda2018performance,
   title={Performance of preconditioned iterative solvers in MFiX--Trilinos for fluidized beds},
   author={Kotteda, VM Krushnarao and Kumar, Vinod and Spotz, William},
@@ -70,4 +70,5 @@ If you publish work which uses this code, please cite the following paper:
   pages={4104--4126},
   year={2018},
   publisher={Springer}
-}''
+}
+```
