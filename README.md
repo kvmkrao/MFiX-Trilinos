@@ -10,7 +10,7 @@ sudo apt-get install libnetcdf-mpi-dev
 
 
 #sample configuration and build file 
-
+''
 TRILSRCDIR=$(pwd)/src
 TRILINSTALLDIR=$PATH/install
 cmake \
@@ -52,7 +52,22 @@ cmake \
   -D CMAKE_Fortran_FLAGS:STRING=" -O3 -fPIC" \
    -D Trilinos_ENABLE_Fortran:BOOL=ON \
 ${TRILSRCDIR}/src
+''
 
 make -j8
 make install
 
+
+
+If you publish work which uses this code, please cite the following paper:
+''
+@article{kotteda2018performance,
+  title={Performance of preconditioned iterative solvers in MFiX--Trilinos for fluidized beds},
+  author={Kotteda, VM Krushnarao and Kumar, Vinod and Spotz, William},
+  journal={The Journal of Supercomputing},
+  volume={74},
+  number={8},
+  pages={4104--4126},
+  year={2018},
+  publisher={Springer}
+}''
