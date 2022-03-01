@@ -1,0 +1,35 @@
+# Download base image ubuntu 20.04
+FROM ubuntu:20.04
+
+# Install dependencies
+RUN apt-get update \
+        && apt-get install -y \
+                vim \
+                ssh \
+                sudo \
+                wget \
+                cmake \
+                gfortran \
+                software-properties-common ;\
+                rm -rf /var/lib/apt/lists/*
+
+RUN useradd --user-group --create-home --shell /bin/bash mfix ;\
+        echo "mfix ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
+
+RUN mkdir -p mfix && \
+    wget https://s3/ef9c88b3/3d6affc7bf2813475bf1d847f8cb8d02//source/mfix/mfix-21.4.tar.gz && \
+    tar -xzvf mfix-21.4.tar.gz &&  \
+    cd mfix-21.4/tutorials/tfm/fluid_bed_2d/  && \
+    cmake ../../.. ; make;
+
+# Configure apache
+RUN echo 'installed mfix' && \
+    echo 'check mfix-21.4/tutorials/tfm/fluid_bed_2d/' ;
+
+RUN echo 'Feel free to make changes to the code and build mfix'
+
+RUN chmod -R 755 /mfix-21.4
+USER mfix
+#RUN cp -r /mfix-21.4/tutorials/tfm/fluid_bed_2d/ /data/
+#docker build -f dockerfile_mfix -t mfix:v21.4 .
+#docker run -ti --rm -v $PWD:/data -w /data mfix:v21.4
