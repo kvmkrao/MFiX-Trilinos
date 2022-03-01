@@ -58,7 +58,7 @@ make install
 ```
 
 
-$cat Dockerfile_mfix 
+#cat Dockerfile_mfix  (docker file to build and run a container)
 ```
 # Download base image ubuntu 20.04
 FROM ubuntu:20.04
